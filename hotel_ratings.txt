@@ -1,0 +1,608 @@
+
+Response 1 (2025-07-10 13:23:18)
+Total time taken:294.35 seconds
+==================================================
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41152 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hilton New York: 4.6/5, 0 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 0 reviews
+InterContinental Singapore: 4.6/5, 5130 reviews
+Mandarin Oriental Hong Kong: 4.6/5, 0 reviews
+Marriott London: 3.2/5, 0 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Peninsula Manila: 0.0/5, 0 reviews
+Plaza Athénée Paris: 4.6/5, 2805 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris: 0.0/5, 0 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2797 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai: 0.0/5, 0 reviews
+==================================================
+
+Response 2 (2025-07-10 14:13:10)
+==================================================
+Total time taken: 330.25 seconds
+Hotel Ratings:
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41152 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hilton New York: 4.1/5, 0 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 0 reviews
+InterContinental Singapore: 4.6/5, 5130 reviews
+Mandarin Oriental Hong Kong: 4.6/5, 0 reviews
+Marriott London: 4.1/5, 0 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Peninsula Manila: 0.0/5, 0 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris: 0.0/5, 0 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 0 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2797 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai: 0.0/5, 0 reviews
+==================================================
+
+Response 3 (2025-07-10 14:52:50)
+==================================================
+Total time taken: 341.17 seconds
+Hotel Ratings:
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41152 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hilton New York: 4.1/5, 0 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 11130 reviews
+InterContinental Singapore: 4.6/5, 5130 reviews
+Mandarin Oriental Hong Kong: 4.6/5, 0 reviews
+Marriott London: 3.2/5, 0 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Peninsula Manila: 0.0/5, 0 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris: 0.0/5, 0 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2797 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12143 reviews
+==================================================
+
+Response 4 (2025-07-10 15:20:14)
+==================================================
+Total time taken: 314.86 seconds
+Hotel Ratings:
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41152 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 11130 reviews
+InterContinental Singapore: 4.6/5, 5130 reviews
+London Marriott Hotel: 3.2/5, 0 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+New York Hilton Midtown: 4.1/5, 10900 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris Charles de Gaulle Airport Hotel: 4.0/5, 2431 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Peninsula Manila: 4.7/5, 4087 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2798 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12143 reviews
+==================================================
+
+Response 5 (2025-07-10 15:48:24) 
+==================================================
+Total time taken: 389.95 seconds
+Biltmore, Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab, Dubai: 4.7/5, 30603 reviews
+Copacabana Palace, Rio de Janeiro: 4.8/5, 41153 reviews
+Fairmont, San Francisco: 4.5/5, 6942 reviews
+Four Seasons, Sydney: 4.5/5, 5642 reviews
+Grand Hyatt, Seoul: 4.4/5, 8245 reviews
+Hilton, London: 4.2/5, 0 reviews
+Hilton, New York: 4.6/5, 0 reviews
+Hotel del Coronado, San Diego: 4.5/5, 20058 reviews
+Hyatt Regency, Chicago: 4.4/5, 0 reviews
+InterContinental, Singapore: 4.6/5, 5130 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+Marriott, London: 4.1/5, 0 reviews
+Palace Hotel, Tokyo: 4.5/5, 5989 reviews
+Peninsula, Manila: 0.0/5, 0 reviews
+Plaza Athénée, Paris: 4.6/5, 2806 reviews
+Raffles, Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton, Tokyo: 4.5/5, 4039 reviews
+Savoy, London: 4.7/5, 10563 reviews
+Shangri-La, Bangkok: 4.6/5, 10589 reviews
+Sheraton, Paris: 0.0/5, 0 reviews
+St. Regis, Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace, Mumbai: 4.7/5, 33147 reviews
+The Adolphus, Dallas: 4.5/5, 3001 reviews
+The Ahwahnee, Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore, Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel, Los Angeles: 4.7/5, 1072 reviews
+The Breakers, Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor, Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace, Denver: 4.4/5, 4522 reviews
+The Chateau Marmont, Los Angeles: 4.4/5, 1306 reviews
+The Cloister, Sea Island: 4.7/5, 747 reviews
+The Drake, Chicago: 4.4/5, 4311 reviews
+The Fairmont, San Francisco: 4.5/5, 6942 reviews
+The Greenbrier, West Virginia: 4.5/5, 3931 reviews
+The Inn at, Little Washington: 4.7/5, 1109 reviews
+The Jefferson, Washington DC: 4.7/5, 731 reviews
+The Lodge, Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel, San Antonio: 4.5/5, 5004 reviews
+The Mission Inn, Riverside: 4.5/5, 10662 reviews
+The Palace Hotel, San Francisco: 4.5/5, 5236 reviews
+The Palmer House, Chicago: 4.2/5, 12676 reviews
+The Peabody, Memphis: 4.5/5, 9058 reviews
+The Pfister Hotel, Milwaukee: 4.6/5, 4027 reviews
+The Phoenician, Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt, New Orleans: 4.6/5, 5494 reviews
+The St. Anthony, San Antonio: 4.5/5, 2798 reviews
+The St. Francis, San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel, Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria, Dubai: 0.0/5, 0 reviews
+==================================================
+
+Response 6 (2025-07-10 16:13:39) with 2 threads
+==================================================
+Total time taken: 269.69 seconds
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41153 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 0 reviews
+InterContinental Singapore: 4.6/5, 5130 reviews
+London Marriott Hotel: 3.2/5, 0 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+New York Hilton Midtown: 4.1/5, 10900 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris Charles de Gaulle Airport Hotel: 4.0/5, 2431 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Peninsula Manila: 0.0/5, 0 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2798 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12143 reviews
+==================================================
+
+Response 7 (2025-07-10 16:38:01) with 4 threads
+==================================================
+Total time taken: 266.49 seconds
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41155 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 0 reviews
+InterContinental Singapore: 4.6/5, 5130 reviews
+London Marriott Hotel: 4.4/5, 0 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+New York Hilton Midtown: 4.1/5, 10900 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris Charles de Gaulle Airport Hotel: 4.0/5, 2431 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 0 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Peninsula Manila: 4.7/5, 4087 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2798 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12143 reviews
+==================================================
+
+Response 8 (2025-07-10 17:05:13) with 5 threads
+==================================================
+Total time taken: 280.40 seconds
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41156 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 0 reviews
+InterContinental Singapore: 4.6/5, 5131 reviews
+London Marriott Hotel: 3.2/5, 0 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+New York Hilton Midtown: 4.1/5, 10900 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris Charles de Gaulle Airport Hotel: 4.0/5, 2431 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 0 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Peninsula Manila: 4.7/5, 4087 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2798 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12143 reviews
+==================================================
+
+Response 9 (2025-07-10 17:17:08) with 6 threads
+==================================================
+Total time taken: 308.54 seconds
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41156 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 0 reviews
+InterContinental Singapore: 4.6/5, 5131 reviews
+London Marriott Hotel: 4.4/5, 0 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+New York Hilton Midtown: 4.1/5, 10900 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris Charles de Gaulle Airport Hotel: 4.0/5, 2431 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 0 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Peninsula Manila: 0.0/5, 0 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2798 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12144 reviews
+==================================================
+
+Response 10 (2025-07-10 17:43:31) sinlge thread scrape
+==================================================
+Total time taken: 639.54 seconds
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41155 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 11130 reviews
+InterContinental Singapore: 4.6/5, 5131 reviews
+London Marriott Hotel: 4.3/5, 0 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+New York Hilton Midtown: 4.1/5, 10900 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris Charles de Gaulle Airport Hotel: 4.0/5, 2431 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33147 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 0 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Peninsula Manila: 4.7/5, 4087 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2798 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12144 reviews
+==================================================
+
+Response 11 (2025-07-10 18:20:44) Streamlit thread=5
+==================================================
+Total time taken: 282.96 seconds
+Biltmore Los Angeles: 4.1/5, 6732 reviews
+Burj Al Arab Dubai: 4.7/5, 30603 reviews
+Copacabana Palace Rio de Janeiro: 4.8/5, 41155 reviews
+Fairmont San Francisco: 4.5/5, 6942 reviews
+Four Seasons Sydney: 4.5/5, 5642 reviews
+Grand Hyatt Seoul: 4.4/5, 8245 reviews
+Hotel del Coronado San Diego: 4.5/5, 20058 reviews
+Hyatt Regency Chicago: 4.4/5, 0 reviews
+InterContinental Singapore: 4.6/5, 5131 reviews
+London Marriott Hotel: 4.4/5, 0 reviews
+Mandarin Oriental, Hong Kong: 4.6/5, 0 reviews
+New York Hilton Midtown: 4.1/5, 10900 reviews
+Palace Hotel Tokyo: 4.5/5, 5989 reviews
+Plaza Athénée Paris: 4.6/5, 2806 reviews
+Raffles Istanbul: 4.8/5, 5940 reviews
+Ritz-Carlton Tokyo: 4.5/5, 4039 reviews
+Savoy London: 4.7/5, 10563 reviews
+Shangri-La Bangkok: 4.6/5, 10589 reviews
+Sheraton Paris Charles de Gaulle Airport Hotel: 4.0/5, 2431 reviews
+St. Regis Mexico City: 4.7/5, 8166 reviews
+Taj Mahal Palace Mumbai: 4.7/5, 33148 reviews
+The Adolphus Dallas: 4.5/5, 3001 reviews
+The Ahwahnee Yosemite: 4.3/5, 4303 reviews
+The Arizona Biltmore Phoenix: 4.6/5, 5116 reviews
+The Beverly Hills Hotel Los Angeles: 4.7/5, 1072 reviews
+The Breakers Palm Beach: 4.8/5, 5872 reviews
+The Broadmoor Colorado Springs: 4.7/5, 9471 reviews
+The Brown Palace Denver: 4.4/5, 4522 reviews
+The Chateau Marmont Los Angeles: 4.4/5, 1306 reviews
+The Cloister Sea Island: 4.7/5, 747 reviews
+The Drake Chicago: 4.4/5, 4311 reviews
+The Fairmont San Francisco: 4.5/5, 6942 reviews
+The Greenbrier West Virginia: 4.5/5, 3931 reviews
+The Hotel del Coronado San Diego: 4.5/5, 0 reviews
+The Inn at Little Washington: 4.7/5, 1109 reviews
+The Jefferson Washington DC: 4.7/5, 731 reviews
+The Lodge at Pebble Beach: 4.8/5, 561 reviews
+The Menger Hotel San Antonio: 4.5/5, 5004 reviews
+The Mission Inn Riverside: 4.5/5, 10662 reviews
+The Palace Hotel San Francisco: 4.5/5, 5236 reviews
+The Palmer House Chicago: 4.2/5, 12676 reviews
+The Peabody Memphis: 4.5/5, 9058 reviews
+The Peninsula Manila: 0.0/5, 0 reviews
+The Pfister Hotel Milwaukee: 4.6/5, 4027 reviews
+The Phoenician Scottsdale: 4.6/5, 3385 reviews
+The Roosevelt New Orleans: 4.6/5, 5494 reviews
+The St. Anthony San Antonio: 4.5/5, 2798 reviews
+The St. Francis San Francisco: 4.3/5, 5869 reviews
+The Stanley Hotel Estes Park: 4.5/5, 16230 reviews
+Waldorf Astoria Dubai Palm Jumeirah: 4.8/5, 12145 reviews
+==================================================
