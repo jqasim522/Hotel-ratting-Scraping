@@ -12,7 +12,7 @@ id,name,address,rating,review_count
 451914,Dream City Hotel Apartments,"Al Riqqa, Behind Clock TowerDeiraDubai, Dubai, 183230, United Arab Emirates",4.2,281
 451919,Jood Palace Hotel Dubai,"36-A Street Off Al Rigga Road, Deira - Near Al Rigga Metro Station - ديرة - دبي, , Dubai, 42211, United Arab Emirates",4.2,2227
 451930,Baity Hotel Apartments,"Kuwait Road 67XW+FH8 Al Mankhool Area - Bur Dubai, , Dubai, 124052, United Arab Emirates",4.2,709
-451932,Nassima Tower Hotel Apartments,"P O Box 49260 Sheikh Zayed Road, Dubai, Dubai, NULL, United Arab Emirates",0,0
+451932,Nassima Tower Hotel Apartments,"P O Box 49260 Sheikh Zayed Road, Dubai, Dubai, NULL, United Arab Emirates",4.4,1615
 451936,JW Marriott Marquis Hotel Dubai,"Business Bay, , Dubai, 121000, United Arab Emirates",4.6,21110
 451943,Lavender Hotel Al Nahda Dubai,"15th Street Community 231, Al Nahda 1 Al Nahda 1, Al Qusais, Dubai, United Arab Emirates, Dubai, Dubai, 27867, United Arab Emirates",4.1,1308
 451946,Astoria Hotel,"Al Esbij St - Al Fahidi, , Dubai, 457, United Arab Emirates",3.8,3785
@@ -144,7 +144,7 @@ id,name,address,rating,review_count
 452331,La Quinta by Wyndham Dubai Jumeirah (Ex - The Country Club Hotel),"P.O.Box 118094 Behind New Gold Souk Near Mina Rashid Port, Al Raffa, Port Rashid RoadBehind New Gold SoukBur Dubai, Dubai, 118094, United Arab Emirates",3.9,2297
 452334,Sun City International Hotel,"Al Fahidi Street Near Dubai Museum Dubai City 44981 United Arab Emirates, 6 Kms. from Dubai International AirportNear Dubai MuseumNear Meena Bazaar, Dubai, 44981, United Arab Emirates",4.5,2
 452338,"Hotel Boulevard, Autograph Collection","Sheikh Mohammed bin Rashid Blvd - Downtown Dubai, , Dubai, 114788, United Arab Emirates",4.5,4231
-452342,FOUR POINTS BY SHERATON BUR DUBAI,"Mankhool Road - 4C Street - Bur Dubai - Dubai, United Arab Emirates, ,, ZipCode:00000, Dubai, , United Arab Emirates",4.2,0
+452342,FOUR POINTS BY SHERATON BUR DUBAI,"Mankhool Road - 4C Street - Bur Dubai - Dubai, United Arab Emirates, ,, ZipCode:00000, Dubai, , United Arab Emirates",4.4,3429
 452346,Four Points by Sheraton Sheikh Zayed Road,"Sheikh Zayed Road, P.O. Box 116162Dubai, Dubai, 116162, United Arab Emirates",4.5,4853
 452358,Meliá Desert Palm Member of Meliá Collection,"Al Awir Road 2nd Right after Dragon Mart, P.O. Box 119171Dubai, Dubai, 119171, United Arab Emirates",4.6,2346
 452366,Ascott Park Place Dubai,"Park Place Tower - 1 Sheikh Zayed Rd - Trade Centre - Trade Centre 1, , Dubai, 117452, United Arab Emirates",4.6,1520
@@ -193,10 +193,10 @@ id,name,address,rating,review_count
 452504,La Villa Najd Hotel Apartments,"Behind Mall of Emirates - شارع الشيخ زايد - Al Barsha - Al Barsha 1, , Dubai, 214671, United Arab Emirates",3.9,249
 452505,Novotel Suites Mall Avenue Dubai Hotel (Ex- NOVOTEL SUITES DUBAI MALL OF THE EMIRATES),"2A Street - Al Barsha - Al Barsha 1, , Dubai, 283825, United Arab Emirates",4.8,11674
 452506,Arjaan by Rotana Dubai Media City,"King Salman Bin Abdul Aziz Al Saud Street, Dubai Media City, P.O. Box: 502828Media CityDubai, Dubai, 502828, United Arab Emirates",4.5,3027
-452510,Social Hotel,"Barsha Heights, , Dubai, 500234, United Arab Emirates",0,0
-452512,Royal Ascot Hotel,"Khalid Bin Al Waleed Rd - BUR DUBAI, , Dubai, 52555, United Arab Emirates",0,0
+452510,Social Hotel,"Barsha Heights, , Dubai, 500234, United Arab Emirates",4,456
+452512,Royal Ascot Hotel,"Khalid Bin Al Waleed Rd - BUR DUBAI, , Dubai, 52555, United Arab Emirates",4,5676
 452513,Time Oak Hotel & Suites,"Abdulla Omran Tayram St,Al Thanyah 1,Tecom - Barsha Heights - دبي, , Dubai, 283634, United Arab Emirates",4.6,4827
-452514,Sunday Holiday International Hotel,"Khaled bin Al Waleed Building - 20th St - Bur Dubai - Al Hamriya, , Dubai, 00000, United Arab Emirates",0,0
+452514,Sunday Holiday International Hotel,"Khaled bin Al Waleed Building - 20th St - Bur Dubai - Al Hamriya, , Dubai, 00000, United Arab Emirates",4,6236
 452516,Armani Hotel Dubai,"Burj Khalifa Sheikh Mohamed Bin Rashid Boulevard Downtown Dubai PO Box 888333, PO Box 888333Downtown DubaiDubai, Dubai, 888333, United Arab Emirates",4.6,3936
 452517,Arcadia Hotel Apartments,"Opposite Lamcy Plaza Mall, Opposite the Lamcy Plaza Shopping MallBur DubaiDubai, Dubai, 62307, United Arab Emirates",4.3,120
 452518,Arabian Ranches Golf Club,"Arabian Ranches, Emirates Road, 36700 - Arabian Ranches, , Dubai, 36700, United Arab Emirates",4.8,7189
@@ -214,13 +214,13 @@ id,name,address,rating,review_count
 452555,OYO 123 Royal Mark Hotel Apartment,"Nasr Square, Dubai, Dubai, 123277, United Arab Emirates",3.3,134
 452561,West Zone Plaza Hotel Apartments,"Kuwait St - Al Mankhool, , Dubai, , United Arab Emirates",4.8,9182
 452565,Winchester Grand Hotel Apartments,"Al Mankhool,10B Street Bur Dubai, DUBAI, Dubai, 00000, United Arab Emirates",3.9,514
-452567,Xclusive Hotel Apartments,"Street 17B Behind Spinneys Next To Burjuman Mall, Al Mankool AreaBehind SpinneysNext to the Burjuman Mall, Dubai, 126012, United Arab Emirates",0,0
+452567,Xclusive Hotel Apartments,"Street 17B Behind Spinneys Next To Burjuman Mall, Al Mankool AreaBehind SpinneysNext to the Burjuman Mall, Dubai, 126012, United Arab Emirates",3.9,970
 452568,ZiQoo Hotel Apartment Dubai,"24XJ+M65 - Jebel Ali Village - Discovery Gardens, , Dubai, 487021, United Arab Emirates",4,958
-452570,Hyde Park Hotel,"16 Al Raffa St - Al Fahidi, , Dubai, 50128, United Arab Emirates",0,0
+452570,Hyde Park Hotel,"16 Al Raffa St - Al Fahidi, , Dubai, 50128, United Arab Emirates",3.7,1249
 452572,Number One Tower Suites,"Sheikh Zayed Rd Po Box 31003 ., P.O. Box 31003Dubai, Dubai, 31003, United Arab Emirates",3.9,2182
 452575,Centro Barsha,"شارع - ٣٢٩ - Al Barsha - Al Barsha 1, , Dubai, 115060, United Arab Emirates",4.4,4243
 452577,Montreal Barsha Hotel,"23rd St - Al Barsha - Al Barsha 1, , Dubai, 120257, United Arab Emirates",3.8,4438
-452580,Citymax Hotel Al Barsha,"Plot No 3731297 Al Barsha 1, Al Barsha, Dubai, United Arab Emirates, , Dubai, , United Arab Emirates",0,0
+452580,Citymax Hotel Al Barsha,"Plot No 3731297 Al Barsha 1, Al Barsha, Dubai, United Arab Emirates, , Dubai, , United Arab Emirates",4.1,6195
 452581,Holiday Inn Express Dubai Airport,"Opp. Dubai Intl Airport Terminal 3 PO Box 35257, Umm Ramool, P.O. Box 35257Umm RamoolDubai, Dubai, 35257, United Arab Emirates",4.6,18303
 452583,The Meydan Hotel,"Meydan Racecourse Al Meydan Road, Nad Al Sheba - Nad Al Sheba 1, , Dubai, 9305, United Arab Emirates",4.5,6909
 452586,MD Hotel By Gewan formerly Cassells,"Sheikh Zayed Road, UAE, Dubai, 114400, United Arab Emirates",4.8,3978
@@ -230,13 +230,13 @@ id,name,address,rating,review_count
 452590,Citymax Hotel Bur Dubai,"Kuwait St - Al Mankhool, , Dubai, 116121, United Arab Emirates",4.2,15281
 452591,Jumeirah Zabeel Saray Dubai,"The Crescent , Palm Jumeirah, The Palm Jumeirah, P.O. Box 27722, Dubai, Dubai, 27722, United Arab Emirates",4.6,9342
 452594,La Suite Dubai Hotel & Apartments,"Sidra Tower - Sheikh Zayed Rd - Al Sufouh - Al Sufouh 1, , Dubai, 502306, United Arab Emirates",4.5,3830
-452596,Voco Dubai,"Plot 49 Sheikh Zayed Road Trade Centre District, Trade Centre DistrictPO Box 9940Dubai, Dubai, 9940, United Arab Emirates",0,0
+452596,Voco Dubai,"Plot 49 Sheikh Zayed Road Trade Centre District, Trade Centre DistrictPO Box 9940Dubai, Dubai, 9940, United Arab Emirates",4.6,13598
 452600,London Crown Hotel,"Sheikh Khalifa Bin Zayed Street Bur Near Burjuman Metro Station, Bur DubaiP.O. Box 31388Dubai, Dubai, 00971, United Arab Emirates",0,0
-452602,Abidos Hotel Apartment Al Barsha Dubai,"Al Barsha, Dubai, Dubai, 450605, United Arab Emirates",0,0
+452602,Abidos Hotel Apartment Al Barsha Dubai,"Al Barsha, Dubai, Dubai, 450605, United Arab Emirates",4.1,1216
 452603,Grand Belle Vue,"P.O.Box: 502424 Tecom, TecomAlBarshaMedia City, Dubai, UAE, United Arab Emirates",3.9,1106
 452611,Hotel Millennium Central Downtown,"Al Asayel Street Business Bay Dubai United Arab Emirates Downtown Dubai, Business BayDowntownDubai, Dubai, 115138, United Arab Emirates",4.2,6766
 452612,Crowne Plaza Dubai Jumeirah an IHG Hotel,"Al Mina Road Jumeirah Opposite Al Hudaiba Awards Bldg., P.O. Box 121122Dubai, Dubai, Dubai, United Arab Emirates",4.7,8367
-452613,City Seasons Suites,"8Th Street Deira, DeiraDubai P.O.Box 56421, Dubai, 83163, United Arab Emirates",0,0
+452613,City Seasons Suites,"8Th Street Deira, DeiraDubai P.O.Box 56421, Dubai, 83163, United Arab Emirates",3.9,1241
 452614,Royal Ascot Hotel Apartment,"Al Mankool, Behind the ADCB Bank - Al Mankhool, , Dubai, 30948, United Arab Emirates",4,989
 452615,The Tower Plaza Hotel,"Sheikh Zayed Road Opp. Emirates Towers Metro Station, P.O.Box 191055Dubai, Dubai, 191055, United Arab Emirates",4.3,9416
 452617,TIME Grand Plaza Hotel Dubai Airport,"Near Dafza Near Dubai Airport Free Zone, P.O. Box 237844Al QusaisDubai, Dubai, 237844, United Arab Emirates",4.6,3030
@@ -255,8 +255,8 @@ id,name,address,rating,review_count
 452678,ibis One Central,"Trade Centre - District, , Dubai, 9622, United Arab Emirates",4.6,12378
 452679,Flora Al Barsha,"Near Mall Of The Emirates Al Barsha 8088 Near Mall of The Emirates, Al Barsh, Al Barsha 8088Dubai, Dubai, 80888, United Arab Emirates",4.3,3162
 452681,Taj Dubai,"Burj Khalifa St - Business Bay, , Dubai, 8489, United Arab Emirates",4.5,7093
-452682,Raviz Center Point Hotel,"Khalid Bin Al Waleed Road, Mankhool Opp. FA Bank,Near Bur Juman - Khalid Bin Al Waleed Rd - Al Mankhool, , Dubai, 33382, United Arab Emirates",0,0
-452683,Capital O 349 The View Al Barsha,"Sheikh Zayed Road Al Barsha Near Mall Of The Emirates, Al BarshaDubai, Dubai, 18, United Arab Emirates",0,0
+452682,Raviz Center Point Hotel,"Khalid Bin Al Waleed Road, Mankhool Opp. FA Bank,Near Bur Juman - Khalid Bin Al Waleed Rd - Al Mankhool, , Dubai, 33382, United Arab Emirates",4.2,3165
+452683,Capital O 349 The View Al Barsha,"Sheikh Zayed Road Al Barsha Near Mall Of The Emirates, Al BarshaDubai, Dubai, 18, United Arab Emirates",3.9,831
 452684,Hilton Dubai Al Habtoor City,"Sheikh Zayed Rd, , Dubai, 124405, United Arab Emirates",4.5,9991
 452685,Treppan Hotel & Suites By Fakhruddin,"Sports City, Dubai, Dubai, 184827, United Arab Emirates",4.1,1383
 452686,Atana Hotel,"Tecom Hessa Street Al Barsha South, P.O. Box 500555Al Thanyah 1Barsha Heights, Dubai, 500555, United Arab Emirates",4.2,9567
@@ -269,7 +269,7 @@ id,name,address,rating,review_count
 452706,Nikki Beach Resort & Spa Dubai,"67W4+833 Pearl Jumeirah, , Dubai, 8286, United Arab Emirates",4.5,5184
 452714,Zaineast Hotel,"Al Musalla Road Frij Al Murar Diera Naif Dubai. Freij AL Murrar Deira Dubai, P.O. Box 171577DeiraDubai, Dubai, P.O.BOX. N, United Arab Emirates",3.5,290
 452716,Buraq Hotel BY Gemstones,"5 Old Baladiya Street Gold Souk, Gold SoukDeiraPO Box 376095, Dubai, , United Arab Emirates",3.2,418
-452717,Manhattan Hotel,"Al Mankhool Rd - Bur Dubai, , Dubai, 24607, United Arab Emirates",0,0
+452717,Manhattan Hotel,"Al Mankhool Rd - Bur Dubai, , Dubai, 24607, United Arab Emirates",3.7,1657
 452719,Fal Hotel,"Yousuf Baker Road, P.O. Box 14822, Dubai, Dubai, Dubai, 49725, United Arab Emirates",3.3,285
 452720,XVA Art Hotel,"Al Fahidi St,Bur Dubai - 777X+JXM - Al Fahidi Neighborhood (formerly Bastakiya),Near Dubai Museum - Al Fahidi, , Dubai, 0, United Arab Emirates",4.5,425
 452724,Rove Downtown Dubai,"312 Al Mustaqbal Street, Zabeel 2,, PO Box 119444, Dubai, United Arab Emirates, Dubai, 119444, United Arab Emirates",4.9,21713
@@ -281,7 +281,7 @@ id,name,address,rating,review_count
 452735,Ramada by Wyndham Dubai Barsha Heights,"10 - 8 Al Rabeea' 1 St - Barsha Heights, , Dubai, 500679, United Arab Emirates",4.3,2444
 452741,City Seasons Towers,"Khalifa Bin Zayed Road Mankhool Next to Burjuman Mall, MankhoolNext to Burjuman MallDubai, Dubai, 5847, United Arab Emirates",4,2759
 452743,dusitD2 kenz Hotel Dubai,"Sheikh Zayed Road Barsha Heights Near Internet City Metro Station, Sheikh Zayed Road, near Internet City Metro StationP. O. Box 71162Dubai, Dubai, 89657, United Arab Emirates",4.5,4954
-452745,Shangri-La Residences & Apartments,"Sheikh Zayed Road PO Box 75880, P.O. Box 75880Dubai, Dubai, , United Arab Emirates",0,0
+452745,Shangri-La Residences & Apartments,"Sheikh Zayed Road PO Box 75880, P.O. Box 75880Dubai, Dubai, , United Arab Emirates",4.6,8892
 452746,Four Seasons Hotel Dubai International Financial Centre,"GV09 Level GF, Gate Village, Building 3 - Building 9, Unit - towards DIFC Parking - Trade Centre - DIFC, , Dubai, 507027, United Arab Emirates",4.7,1254
 452747,Espace Holiday Homes Dubai Marina,"Nasaq Street, Jannah PlaceMarina PromenadeDubai, Dubai, , United Arab Emirates",4.3,1911
 452749,Al Raien Hotel Apartment,"Al Riff Road, Bur Dubai - Al Fahidi, , Dubai, 294217, United Arab Emirates",3.4,441
@@ -377,10 +377,10 @@ id,name,address,rating,review_count
 453070,Movenpick Hotel Apartments Downtown Dubai,"Al Ohood Street - Burj Khalifa Blvd - Downtown Dubai, , Dubai, 413779, United Arab Emirates",4.8,6010
 453074,Delta Hotels by Marriott Dubai Investment Park,"Sheikh Mohammed Bin Zayed Road Dubai Investment P, Dubai, Dubai, 3865, United Arab Emirates",4.3,532
 453080,Banyan Tree Dubai,"Bluewaters Island,, DUBAI, United Arab Emirates, DUBAI, 36555, United Arab Emirates",4.8,672
-453093,Boulevard Central Tower 2,"Sheikh Mohammed bin Rashid Boulevard, Burj Downtown DubaiDubai, Dubai, , United Arab Emirates","4,5",28
+453093,Boulevard Central Tower 2,"Sheikh Mohammed bin Rashid Boulevard, Burj Downtown DubaiDubai, Dubai, , United Arab Emirates",4.5,28
 453094,Marina Gate I,"The Residences at Marina Gate, Dubai MarinaDubai, Dubai, N/A, United Arab Emirates",4.4,138
 453102,Marina Arcade Tower,"Al Naseem Street, Dubai MarinaPO BOX 212525Dubai, Dubai, 212525, United Arab Emirates",4.4,165
-453104,Westside Marina,"Sheikh Zayed Road, Dubai MarinaDubai, Dubai, , United Arab Emirates","4,6",3484
+453104,Westside Marina,"Sheikh Zayed Road, Dubai MarinaDubai, Dubai, , United Arab Emirates",4.6,3484
 453106,"Leva Hotel and Suites, Opposite Downtown","Mazaya Center Mall Sheikh Zayed Rd, Sheikh Zayed Road,City Walk, Dubai, Al Wasl, Dubai, 12224, United Arab Emirates",4.4,1942
 453107,Dubai Gate 1,"Cluster Q Jumeirah Lakes Towers, Jumeriah Lake Towers (JLT)Dubai, Dubai, , United Arab Emirates",3.8,2531
 453108,Premier Inn Dubai Al Jaddaf,"Culture Village, Al JaddafDubai, Dubai, , United Arab Emirates",4.7,6869
@@ -454,7 +454,7 @@ id,name,address,rating,review_count
 453321,"Kingsgate Al Jadaf - By Millennium, Dubai","Building No 18, Al Jaddaf, Bur Dubai, Dubai, United Arab Emirates, Dubai, 89029, United Arab Emirates",3.5,604
 453323,The Residences At Caesars Palace Dubai,"Bluewaters Island, , Dubai, Dubai, 36555, United Arab Emirates",4.7,2977
 453328,"ALOFT AL MINA, DUBAI","Sheikh Rashid Road & - 37th St - الرفاعة - دبي, , Dubai, 00000, United Arab Emirates",4.3,1053
-453337,1B-ThePoint-201,"The Point  Dubai Marina, King Salman Bin Abdulaziz Al Saud St, Dubai, , United Arab Emirates",0,0
+453337,1B-ThePoint-201,"The Point  Dubai Marina, King Salman Bin Abdulaziz Al Saud St, Dubai, , United Arab Emirates",4.1,29
 453341,S19 Hotel-Al Jaddaf,"Waterfront - Dubai - Al Jaddaf Metro Station A1 -, Al Jaddaf - Dubai, Dubai, 0, United Arab Emirates",4.1,606
 453342,Rove City Walk,"Al Badaa Street - Al Wasl, , Dubai, , United Arab Emirates",4.9,13801
 453344,Ecos Dubai Al Furjan Hotel,"Jebel Ali 1 Al Furjan, Discovery Gardens, Dubai, United Arab Emirates, Dubai, 0, United Arab Emirates",4.6,2680
@@ -698,7 +698,7 @@ id,name,address,rating,review_count
 453857,Luxurious 2bedroom with terrace Downtown,"Reehan 3- Downtown Dubai - Dubai - United Arab Emirates, Downtown Dubai, Dubai, United Arab Emirates, Dubai, , United Arab Emirates",5,232
 453858,Bluewaters Island,"Bluewaters Island, , Dubai, , United Arab Emirates",4.8,672
 453861,Luxurious Apartments - Damac Mall Street,"Al Abraj Street, Downtown Dubai, Dubai, United Arab Emirates, Dubai, , United Arab Emirates",4.6,5289
-453862,Luxurious Apartments Dubai Marina Views - Pool & Gym by Sojo Stays,"King Salman Bin Abdulaziz Al Saud Street, Dubai Marina, Dubai, United Arab Emirates, Dubai, , United Arab Emirates",0,0
+453862,Luxurious Apartments Dubai Marina Views - Pool & Gym by Sojo Stays,"King Salman Bin Abdulaziz Al Saud Street, Dubai Marina, Dubai, United Arab Emirates, Dubai, , United Arab Emirates",5,3
 453863,Luxury 2 Bed Available Now in JBR Beach - Upgraded - JNK,"Amwaj 4, JBR, Jumeirah Beach Residence, Dubai, United Arab Emirates, Dubai, , United Arab Emirates",4.6,8739
 453864,"Luxury new apartment on the metro, facing Dubai marina.","Indigo Tower 1205, Cluster D Jumeirah lake Towers, Jumeirah Lakes Towers, Dubai, United Arab Emirates, Dubai, , United Arab Emirates",4.3,1911
 453865,Maison Privee - Five Residence,"FIVE Palm, Palm Jumeirah, Dubai, Dubai, , United Arab Emirates",4.5,6599
@@ -801,7 +801,7 @@ id,name,address,rating,review_count
 454022,Sunday Sheikh Zayed Road Concord Tower by Belvilla,"Jebel Ali, Dubai,, United Arab Emirates, Dubai, , United Arab Emirates",3.6,14
 454023,Sunday Sheikh Zayed Road Concord Tower 1 BR,"Jebel Ali, Dubai,, United Arab Emirates, Dubai, , United Arab Emirates",1,1
 454025,Sunday Sheikh Zayed Road Concord Tower Studio by Belvilla,"Jebel Ali, Dubai,, United Arab Emirates, Dubai, , United Arab Emirates",3.6,14
-454029,NASSIMA ROYAL HOTEL,"Sheikh Zayed Road Trade Centre 1, Dubai United Arab Emirates, Dubai, 9940",0,0
+454029,NASSIMA ROYAL HOTEL,"Sheikh Zayed Road Trade Centre 1, Dubai United Arab Emirates, Dubai, 9940",4.4,1615
 454030,RAMADA CHELSEA HOTEL AL BARSHA,"Al Barsha 1 Dubai P.O Box, United Arab Emirates, Dubai, 120257",4.3,532
 454031,Sunday Mega Hotel Sheikh Zayed Road Near DIFC formerly Emirates Grand Hotel,"Sheikh Zayed Rd, Trade Centre, Trade Centre 1, Trade Centre,, Dubai, Emirate of Dubai, n/a, United Arab Emirates, Dubai, ",3.9,3404
 454032,Atria,"Businessbay Unit 308, , Dubai, , United Arab Emirates",4.5,3524
@@ -811,7 +811,7 @@ id,name,address,rating,review_count
 454043,Iris Blue,"Iris Blue Dubai Marina, , Dubai, 0, United Arab Emirates",4.7,4100
 454045,Piks Key Al Telal 11,"Al Telal 11 Al Barsha 1, , Dubai, , United Arab Emirates",4.3,132
 454046,Driven Holiday Homes Southridge,"South Ridge Tower 4 Downtown, , Dubai, , United Arab Emirates",5,2
-454049,Espace Holiday Homes Ocean Heights 14,"Ocean Heights Tower, DUBAI, Dubai, 12345, United Arab Emirates",5,0
+454049,Espace Holiday Homes Ocean Heights 14,"Ocean Heights Tower, DUBAI, Dubai, 12345, United Arab Emirates",4,68
 454054,Piks Key Binghatti,"Binghatti Dubai Dubai Silicon Oasis, , Dubai, , United Arab Emirates",4.1,45
 454055,Piks Key Spring Tower,"Spring Tower Dubai Silicon Oasis, , Dubai, , United Arab Emirates",4.5,6599
 454057,Dhh Index Tower,"Index Tower, , Dubai, , United Arab Emirates",4.4,1182
@@ -903,7 +903,7 @@ id,name,address,rating,review_count
 454284,Dream Inn Dubai Apartments Loft Towers,"Sheikh Mohammed Bin Rashid Blvddown Town, , Dubai, , United Arab Emirates",3.5,170
 454285,J5 Holiday Homes 3BR Apartment,"2D01 Green Community Motor City, , Dubai, , United Arab Emirates",4.4,217
 454286,Vacation Bay Liberty House DIFC,"Liberty House Difc Trade Centre 2 Dubai United Arab Emirates, , Dubai, 487504, United Arab Emirates",3.9,56
-454288,Dream Inn City Walk Modern & Luxury,"Al Safa Street Dubai, United Arab Emirates, , Dubai, , United Arab Emirates",1,0
+454288,Dream Inn City Walk Modern & Luxury,"Al Safa Street Dubai, United Arab Emirates, , Dubai, , United Arab Emirates",1,1
 454290,Teecom Apartment,"Teecom Madison Residency, , Dubai, , United Arab Emirates",4.4,4884
 454292,Piks Key Park Tower B,"Damac Towers Park Tower B. Al Sa'ada St, , Dubai, , United Arab Emirates",3,2
 454293,HiGuests Vacation Homes Lofts 1,"Lofts Tower 1 Downtown, , Dubai, , United Arab Emirates",4.3,195
@@ -938,7 +938,7 @@ id,name,address,rating,review_count
 454354,Frank Porter Waves,"Damac Waves Dubai Marina, , Dubai, 00000, United Arab Emirates",3.9,385
 454355,Elan Four Bedroom Beach Jbr Villa,"Beach Walk, , Dubai, , United Arab Emirates",4.1,85
 454356,Frank Porter Scala Tower,"Scala Tower Business Bay, , Dubai, , United Arab Emirates",4.2,1042
-454357,Key One Homes Ocean Heights Tower,"Dubai Marina, , Dubai, 72437, United Arab Emirates",0,0
+454357,Key One Homes Ocean Heights Tower,"Dubai Marina, , Dubai, 72437, United Arab Emirates",5,1
 454358,Frank Porter Mayfair Tower,"Al Abraj Street, , Dubai, 00000, United Arab Emirates",4.4,2026
 454359,Frank Porter Bayside Trident,"Bayside Trident, , Dubai, 00000, United Arab Emirates",5,232
 454360,Frank Porter Burj Vista,"Burj Vista, , Dubai, 00000, United Arab Emirates",4.6,29
@@ -1006,7 +1006,7 @@ id,name,address,rating,review_count
 454470,New Arabian Holiday Homes- IMPERIAL JVT,"Dubai, , Dubai, , United Arab Emirates",4.3,228
 454471,bnbme| St-Claren-502,"Claren Tower 1, Downtown, , Dubai, , United Arab Emirates",4.5,286
 454473,Elite Royal Apartment | Burj Khalifa & Fountain view | The Royal,"Burj Residence, Tower 1, Downtown, Dubai, , Dubai, , United Arab Emirates",4.9,787
-454474,OYO Home 301 2BHK Dubai Gate 1 JLT,"OYO Home 301 2BHK Dubai Gate 1 JLT, , Dubai, , United Arab Emirates",5,0
+454474,OYO Home 301 2BHK Dubai Gate 1 JLT,"OYO Home 301 2BHK Dubai Gate 1 JLT, , Dubai, , United Arab Emirates",5,1
 454475,Vacation bay Burj Al Noujum Tower,"Yasson - Al Asayel St, , Dubai, , United Arab Emirates",4,8
 454476,Elite Royal Apartment | Burj Khalifa & Fountain view | Grand,"Burj Residence, Tower 5, Downtown, Dubai, , Dubai, , United Arab Emirates",4.1,17
 454479,Maison Privee City Walk 5,"Mustaqbal Street, , Dubai, 00000, United Arab Emirates",4.6,22202
@@ -1027,7 +1027,7 @@ id,name,address,rating,review_count
 454503,Urban 1BR Apartment in Arjan Privà Living,"PRIVÀ Living Arjan Dubai - Dubai - Unite,d Arab Emirates, , Dubai, 0000, United Arab Emirates",4.5,30
 454505,Green House Hotel Apartments,"Al Mankhool Bldg No. 17A, , Dubai, , United Arab Emirates",3.8,263
 454507,Stylish 1BR Apartment in Arjan Privà Living,"PRIVÀ Living Arjan Dubai - Dubai - Unite,d Arab Emirates, , Dubai, 0000, United Arab Emirates",4.5,30
-454509,HiGuests Vacation Homes - City Walk B3,"City Walk B3 - Dubai, , Dubai, , United Arab Emirates",0,0
+454509,HiGuests Vacation Homes - City Walk B3,"City Walk B3 - Dubai, , Dubai, , United Arab Emirates",4.3,195
 454511,Airy Apartment With the Best View of Marina!,"Al Sahab Tower 1 - Dubai - United Arab E,mirates Nad Al Sheba - Nad Al Sheba 1, , Dubai, 00000, United Arab Emirates",4.3,1911
 454512,Elegant Apartment Close to The Metro!,"Cluster Q - JLT - Dubai - United Arab Em,irates, , Dubai, 0000, United Arab Emirates",3.6,61
 454514,Lux BnB Dubai Creek Residences,"Creek Residences, , Dubai, , United Arab Emirates",5,233
@@ -1064,13 +1064,13 @@ id,name,address,rating,review_count
 454604,Maison Privee Bluewaters,"Residences Building 6, Bluewaters,Dubai Marina, , Dubai, , United Arab Emirates",4.2,1066
 454606,One Perfect Stay - DEC Tower,"Dubai Marina, , Dubai, , United Arab Emirates",4.3,120
 454607,Luton Vacation Anantara South Residence,"Anantara South Residence, Palm Jumeirah, , Dubai, , United Arab Emirates",4.6,369
-454609,Dream Inn - City Walk Urban Lifestyle,"Al Safa Street Dubai, , Dubai, , United Arab Emirates",1,0
+454609,Dream Inn - City Walk Urban Lifestyle,"Al Safa Street Dubai, , Dubai, , United Arab Emirates",1,1
 454610,Nice Studio In Down Town,"Fountain Street, Downtown Dubai, , Dubai, , United Arab Emirates",3.8,6
 454612,Maison Privee Marquise Square,"Marquise Square, Downtown Dubai, , Dubai, , United Arab Emirates",4.2,1066
 454618,Comfy Trendy Apartment Steps Away From the Metro,"Liberty House - Dubai - United Arab Emir,ates, , Dubai, 00000, United Arab Emirates",4.5,9991
 454620,bnbme| 2B-MarinaArcade-806,"Marina Arcade, , Dubai, 00000, United Arab Emirates",4.5,6599
 454624,Vacation bay Indigo Tower,"Dubai, , Dubai, , United Arab Emirates",5,2
-454625,4BR Apt on Bluewater Island,"Blue Water Island, , Dubai, 910300, United Arab Emirates",0,0
+454625,4BR Apt on Bluewater Island,"Blue Water Island, , Dubai, 910300, United Arab Emirates",4.5,46
 454629,"Lush & Bright, A Stroll Away From Burj Khalifa","Burj Vista Tower 2 - Sheikh Mohammed bin,Rashid Boulevard - Dubaï - Émirats, , Dubai, 00000, United Arab Emirates",5,4
 454630,Dream Inn Dubai Apartment - Dubai Mall,"Sheikh Mohammed bin Rashid Boulevard,Address Dubai Mall, , Dubai, , United Arab Emirates",4.7,6953
 454639,Maison Privee - Burj Views,"Al Asayel Street, , Dubai, , United Arab Emirates",4.3,120
@@ -1095,7 +1095,7 @@ id,name,address,rating,review_count
 454685,Vacation bay Residence Tower,"Sheikh Mohammed bin Rashid Blvd, , Dubai, , United Arab Emirates",4.3,121
 454688,"Ideal Apt in Marina, Steps Away From the Beach!","Marina Quay West Tower, Dubai Marina, , Dubai, 00000, United Arab Emirates",5,2
 454691,Gorgeous 1BR Apartment in Arjan Privà Living,"PRIVÀ Living Arjan Dubai - Dubai - Unite,d Arab Emirates, , Dubai, 0000, United Arab Emirates",4.5,30
-454694,Bnbme - Churchill Towers 1 Bedroom Canal View,"Churchill Towers, Downtown, , Dubai, 00000, United Arab Emirates",0,0
+454694,Bnbme - Churchill Towers 1 Bedroom Canal View,"Churchill Towers, Downtown, , Dubai, 00000, United Arab Emirates",4.2,535
 454697,Elite Royal Apartment | Burj Khalifa & Fountain view | Crystal,"Burj Residence, Tower 5, Downtown, Dubai, , Dubai, , United Arab Emirates",4.1,17
 454698,The Manor by JA,"Al Furjan Jebel Ali 1, , Dubai, , United Arab Emirates",4.2,1117
 454702,Elite Royal Apartment | Burj Khalifa & Fountain view | Deluxe,"Burj Residence, Tower 5, Downtown, Dubai, , Dubai, , United Arab Emirates",4.7,6953
@@ -1128,7 +1128,7 @@ id,name,address,rating,review_count
 454761,"Luxury Apartment, Stroll Away From City Walk!","City Walk Building 7 - Dubai - United Ar,ab Emirates, , Dubai, 0000, United Arab Emirates",4.9,13810
 454763,Elite Royal Apartment | Burj Khalifa & Fountain view | Senator,"Burj Residence, Tower 5, Downtown, Dubai, , Dubai, , United Arab Emirates",4.1,17
 454769,Vacation bay 29 Boulevard Tower,"13a Sheikh Mohammed bin Rashid Blvd, , Dubai, , United Arab Emirates",4.1,198
-454771,Dream Inn Dubai Apartments - City Walk,"City Walk, ., Dubai, Dubai, null, United Arab Emirates",1,0
+454771,Dream Inn Dubai Apartments - City Walk,"City Walk, ., Dubai, Dubai, null, United Arab Emirates",1,1
 454776,Vida Residences Downtown,"Sheikh Mohammed Bin Rashid Boulevard, , Dubai, 111726, United Arab Emirates",4.7,6953
 454778,Address Dubai Mall Residences,"Sheikh Mohammed Bin Rashid Boulevard; Downtown Dub, , Dubai, 31166, United Arab Emirates",4.8,4626
 454783,Central Park Towers,"127 Sheikh Zayed Road Dubai Dubai 00000, , Dubai, 00000, United Arab Emirates",4.4,660
@@ -1150,7 +1150,7 @@ id,name,address,rating,review_count
 454813,Trinity Holiday Homes Standpoint Tower,"Stand Point Tower A Room No 2607 Downtown Near Burj Khalifa, , Dubai, , United Arab Emirates",4.4,87
 454815,Silkhaus spacious central Downtown 1BDR in new tower,"Burj Khalifa Boulevard, , Dubai, 00000, United Arab Emirates",4,8
 454816,Ideal 1br at Creek Vistas Tower B2 Mbr City by Deluxe Holiday Homes,"Sobha Creek Vistas, , Dubai, , United Arab Emirates",5,232
-454819,Silkhaus spacious studio in Downtown Claren tower,"Clarens Tower 2 17 Sheikh Mohammed Bin Rashid Boulevard, , Dubai, 00000, United Arab Emirates",5,0
+454819,Silkhaus spacious studio in Downtown Claren tower,"Clarens Tower 2 17 Sheikh Mohammed Bin Rashid Boulevard, , Dubai, 00000, United Arab Emirates",5,1
 454821,Nasma Luxury Stays INDEX Tower,"Happiness St, , Dubai, , United Arab Emirates",4.3,120
 454822,AVANI Palm view Dubai with full sea view,"Avani Palm View, , Dubai, , United Arab Emirates",4.8,1985
 454825,Allsopp & Allsopp Square Tower,"Square Tower By Tiger Properties, , Dubai, 00000, United Arab Emirates",4.5,6599
@@ -1368,13 +1368,13 @@ id,name,address,rating,review_count
 455225,Yanjoon Holiday Homes Princess Tower,"Princess Tower Dubai Marina, , Dubai, 00000, United Arab Emirates",3.3,3
 455226,Torch Tower by Deluxe Holiday Homes,"The Torch Dubai Marina, , Dubai, not available, United Arab Emirates",5,3
 455228,Kennedy Towers Fairfield,"Fairfield Park Island, , Dubai, 90512, United Arab Emirates",4.6,21111
-455229,Kennedy Towers Al Majara,"Al Majara Dubai Marina, , Dubai, 51785, United Arab Emirates",1,0
+455229,Kennedy Towers Al Majara,"Al Majara Dubai Marina, , Dubai, 51785, United Arab Emirates",1,1
 455231,Kennedy Towers Marina Heights,"Marina Heights Dubai Marina, , Dubai, 99423, United Arab Emirates",4.6,283
 455232,Dhh Palm Views East,"Palm Jumeirah Dubai Dubai, , Dubai, 300041, United Arab Emirates",3.7,54
 455233,Kennedy Towers Southridge 2,"Southridge 2 Downtown Dubai, , Dubai, 0000, United Arab Emirates",4.4,4882
 455234,Zen studio with panorama city views,"Burj Sabah By Ace Holiday Homes, , Dubai, , United Arab Emirates",5,232
 455235,2B Kamoon 2 205,"Sheikh Mohammed Bin Rashid Blvd, , Dubai, , United Arab Emirates",4.4,17
-455236,Dezire Beautiful Spacious Brand New With Balcony,"Circle 90 Dezire Residence, , Dubai, 971, United Arab Emirates",2,0
+455236,Dezire Beautiful Spacious Brand New With Balcony,"Circle 90 Dezire Residence, , Dubai, 971, United Arab Emirates",2,1
 455237,2 Min to Dubai Mall 1 BR,"Burj Downtown, , Dubai, 0, United Arab Emirates",4.4,4884
 455238,Ultimate Luxury Retreat in MBR City,"Mohammed Bin Rashid Al Maktoum City, , Dubai, , United Arab Emirates",4.7,9109
 455239,2B Tajer 6048,"Sheikh Mohammed Bin Rashid Boulevard Boulevard Plaza Tower 2, , Dubai, 0, United Arab Emirates",4.4,4884
@@ -1413,7 +1413,7 @@ id,name,address,rating,review_count
 455275,3BR Paradise for 8 With Spectacular Marina Views,"Bay Central, , Dubai, , United Arab Emirates",5,233
 455276,Beautiful 1BR with sunset view,"Botanica Tower D94 Dubai Marina, , Dubai, , United Arab Emirates",5,233
 455277,Silkhaus Southridge Downtown Dubai,"57Pg Qpm South Ridge Tower 1, , Dubai, 0, United Arab Emirates",2.5,2
-455278,Manzil Cozy Studio nr Downtown w Canal Views,"Marasi Dr, , Dubai, , United Arab Emirates",0,0
+455278,Manzil Cozy Studio nr Downtown w Canal Views,"Marasi Dr, , Dubai, , United Arab Emirates",2,1
 455279,Luxurious 1B With Opera & fountains views,"1912 Standpoint Tower A Downtown Duba, , Dubai, DUBAI, United Arab Emirates",4.4,196
 455280,Vacay Lettings Private Beach Access Emaar Beachfront,"Emaar Beach Vista Tower 1 242 1 Al Seyahi Street Dubai Harbour Marsa Dubai Dubai 503, , Dubai, , United Arab Emirates",4.6,12
 455281,SuperHost Peaceful 1BR Apt With Balcony in Front of the Sea,"Azure Residences Palm Jumeirah, , Dubai, 0, United Arab Emirates",3.8,193
