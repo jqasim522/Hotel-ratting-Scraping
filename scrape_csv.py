@@ -12,62 +12,113 @@ import os
 from datetime import datetime
 import pandas as pd
 import csv
-
+from urllib.parse import quote
 
 # Define a structure to ensure hotel ratings are valid
 class HotelRating(BaseModel):
+    id: str
     name: str
+    address: str
     rating: float = Field(..., ge=0, le=5, description="Hotel star rating (0-5)")
     review_count: int = Field(..., ge=0, description="Number of reviews")
 
 # Create a Google Maps search link for the hotel
-def form_search_url(hotel_name: str) -> str:
-    query = f"{hotel_name} hotel reviews".replace(" ", "+")
-    return f"https://www.google.com/maps/search/{query}"
+def form_search_url(hotel_name: str, address: str) -> str:
+    # Check if "dubai" is already present (case-insensitive)
+    if "hotel" and "Hotel" not in hotel_name.lower():
+        hotel_name += " hotel"
+    if "dubai" and "Dubai" not in hotel_name.lower():
+        hotel_name += " Dubai"
+    encoded_query = quote(hotel_name)
+    return f"https://www.google.com/maps/search/{encoded_query}"
 
 # Scrape Google Maps for hotel rating and review count
-def scrape_hotel_rating(hotel_name: str) -> dict:
+def scrape_hotel_rating(hotel_id: str, hotel_name: str, address: str) -> dict:
     start_time = time.time()
-    """
-    Scrape Google Maps for a hotel's star rating and number of reviews.
-    Uses Selenium to load dynamic content and Pydantic to validate data.
-    Returns a dictionary with name, rating, and review_count.
-    Note: Scraping may violate Google Maps' terms; consider Google Business Profile API.
-    """
     print(f"Starting scrape for {hotel_name} at {datetime.now().strftime('%H:%M:%S')}")
-    url = form_search_url(hotel_name)
+    url = form_search_url(hotel_name, address)
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
-    options.add_argument("--disable-webgl")  # Disable WebGL to reduce GPU errors
+    options.add_argument("--disable-webgl")
     driver = webdriver.Chrome(options=options)
     try:
         driver.get(url)
-        time.sleep(3)  # Wait for page load
-        # Click the first hotel result to see details
+        # Wait for results to load
         try:
-            first_result = driver.find_element(By.CSS_SELECTOR, 'div[role="article"]')
-            first_result.click()
-            time.sleep(3)  # Increased to avoid CAPTCHAs
+            from selenium.webdriver.support.ui import WebDriverWait
+            from selenium.webdriver.support import expected_conditions as EC
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, 'div[role="article"]'))
+            )
         except Exception:
             pass
-        # Initialize variables
         rating = None
         review_count = None
-        # Try to find rating
-        try:
-            elems = driver.find_elements(By.CSS_SELECTOR, 'div.F7nice span[aria-label*="stars"], span.MW4etd, [aria-label*="Rated"], [aria-label*="out of 5"]')
-            for elem in elems:
-                aria = elem.get_attribute('aria-label') or elem.text
-                if aria:
-                    match = re.search(r'(\d+\.\d+|\d+)(?=\s*(?:stars|out of 5|/5|rating|rated))', aria, re.IGNORECASE)
-                    if match:
-                        rating = float(match.group(1))
+        # Try clicking up to 3 results if available
+        for idx in range(3):
+            try:
+                results = driver.find_elements(By.CSS_SELECTOR, 'div[role="article"]')
+                if results and idx < len(results):
+                    results[idx].click()
+                    time.sleep(3)  # Increased to avoid CAPTCHAs
+            except Exception:
+                continue
+            # Try all selectors for rating
+            selectors = [
+                'span[aria-label*="stars"]',
+                'span.MW4etd',
+                '[aria-label*="Rated"]',
+                '[aria-label*="out of 5"]',
+                'meta[itemprop="ratingValue"]',
+                'span[jsname="Te9Tpc"]',
+                '.aMPvhf-fI6EEc-KVuj8d'
+            ]
+            for sel in selectors:
+                try:
+                    elems = driver.find_elements(By.CSS_SELECTOR, sel)
+                    for elem in elems:
+                        aria = elem.get_attribute('aria-label') or elem.text
+                        match = re.search(r'(\d+\.\d+|\d+)', aria)
+                        if match:
+                            rating = float(match.group(1))
+                            print("ARIA text found:", aria)
+                            # Try to extract review count from the same ARIA text if present
+                            review_match = re.search(r'([\d,]+)\s+Reviews?', aria, re.IGNORECASE)
+                            if review_match:
+                                review_count = int(review_match.group(1).replace(',', ''))
+                                break  # Found review count, break out of selector loop
+                            break
+                    if rating:
                         break
-        except Exception:
-            pass
-        # Fallback: try meta tag or visible text
+                except Exception:
+                    continue
+            # Only run review selector loop if review_count not found
+            if review_count is None:
+                review_selectors = [
+                    'span.OEwtMc',
+                    'button[jsaction*="pane.rating.moreReviews"]',
+                    'span[aria-label*="reviews"]',
+                    'span[class*="review"]',
+                    'div[class*="review"]'
+                ]
+                for sel in review_selectors:
+                    try:
+                        elems = driver.find_elements(By.CSS_SELECTOR, sel)
+                        for elem in elems:
+                            text = elem.get_attribute('aria-label') or elem.text
+                            match = re.search(r'[\d,]+', text.replace(',', ''))
+                            if match:
+                                review_count = int(match.group())
+                                break
+                        if review_count is not None:
+                            break
+                    except Exception:
+                        continue
+            if rating is not None or review_count is not None:
+                break
+        # Fallback: try meta tag or visible text if still not found
         if rating is None or rating == 0.0:
             try:
                 meta_rating = driver.find_element(By.CSS_SELECTOR, 'meta[itemprop="ratingValue"]')
@@ -78,25 +129,23 @@ def scrape_hotel_rating(hotel_name: str) -> dict:
                     rating = float(rating_text.split()[0])
                 except Exception:
                     rating = 0.0
-        # Try to find review count
-        try:
-            review_elem = driver.find_element(By.CSS_SELECTOR, 'span.OEwtMc, button[jsaction*="pane.rating.moreReviews"], span[aria-label*="reviews"]')
-            review_text = review_elem.text
-            match = re.search(r'[\d,]+', review_text.replace(',', ''))
-            review_count = int(match.group()) if match else 0
-        except Exception:
+        if review_count is None:
             review_count = 0
-        # Validate with Pydantic
-        result = HotelRating(name=f"{hotel_name}", rating=rating if rating else 0.0, review_count=review_count)
+        result = HotelRating(
+            id=str(hotel_id),
+            name=hotel_name,
+            address=address,
+            rating=rating if rating else 0.0,
+            review_count=review_count
+        )
         print(f"Finished scrape for {hotel_name}: {result.rating}/5, {result.review_count} reviews")
-        return result.dict(),time.time() - start_time
+        return result.dict(), time.time() - start_time
     except Exception as e:
         print(f"Error scraping {hotel_name}: {e}")
-        # Save page source for debugging with unique filename
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         with open(f"debug_{hotel_name}_{timestamp}.html", "w", encoding="utf-8") as f:
             f.write(driver.page_source)
-        return {"name": hotel_name, "rating": 0.0, "review_count": 0}
+        return {"id": str(hotel_id), "name": hotel_name, "address": address, "rating": 0.0, "review_count": 0}
     finally:
         driver.quit()
 
@@ -127,73 +176,86 @@ def save_results_to_file(results: list, time_taken: float, filename: str = "hote
     with open(filename, "a", encoding="utf-8") as f:
         f.write(output)
 
-def save_hotels_to_csv(hotel_data, filename="hotels_with_ratings.csv"):
+def update_csv_with_ratings(original_df, merged_df):
     """
-    Save a list of hotel data to a CSV file.
-
-    Parameters:
-    - hotel_data: List of dictionaries with 'Hotel Name', 'Rating', and 'Reviews'
-    - filename: Name of the CSV file to save
+    Update original_df with rating and review_count from merged_df by matching 'id'.
+    Adds 'rating' and 'review_count' columns if not present.
+    Does not modify any other columns.
     """
-    with open(filename, mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.DictWriter(file, fieldnames=['name', 'rating', 'review_count'])
-        writer.writeheader()
-        writer.writerows(hotel_data)
+    # Only keep id, rating, review_count from merged_df
+    ratings = merged_df[['id', 'rating', 'review_count']]
+    # Merge on 'id', updating only rating/review_count
+    updated_df = original_df.copy()
+    updated_df = updated_df.merge(ratings, on='id', how='left', suffixes=('', '_new'))
+    updated_df['rating'] = updated_df['rating_new']
+    updated_df['review_count'] = updated_df['review_count_new']
+    updated_df.drop(['rating_new', 'review_count_new'], axis=1, inplace=True)
+    return updated_df
 
 def main():
-    # Load hotel names from a CSV
-    csv_path = "hotels.csv"  # Replace with your actual path or use argparse to make it dynamic
+    csv_path = "v2_common_hotels_202507111731.csv"  # Update to your actual input CSV
+    output_path = "your_output.csv"  # Output file for scraped results
     try:
         df = pd.read_csv(csv_path)
-
-        # Step 2: Ensure there's a column named 'hotel_name'
-        if 'hotel_name' not in df.columns:
-            raise ValueError("CSV must contain a 'hotel_name' column.")
-
-        hotel_list = df['hotel_name'].dropna().unique().tolist()
-        print(f"Loaded {len(hotel_list)} hotels from {csv_path}")
+        scraped_ids = set()
+        if os.path.exists(output_path):
+            scraped_df = pd.read_csv(output_path)
+            scraped_ids = set(scraped_df['id'].astype(str))
+        required_cols = {'id', 'name', 'address'}
+        if not required_cols.issubset(df.columns):
+            raise ValueError(f"CSV must contain columns: {required_cols}")
+        # Only hotels not already scraped
+        hotel_list = df[~df['id'].astype(str).isin(scraped_ids)][['id', 'name', 'address']].dropna().values.tolist()
+        print(f"Loaded {len(hotel_list)} hotels to scrape")
     except Exception as e:
         print(f"Error loading CSV: {e}")
         return
 
-    # Step 3: Proceed with the rest of your scraping logic
+    # Scrape ratings and reviews
     results = []
     durations = {}
     t0 = time.time()
-
+    results_df = pd.DataFrame(columns=['id', 'rating', 'review_count'])
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
-        futures = {executor.submit(scrape_hotel_rating, hotel): hotel for hotel in hotel_list}
-        for future in concurrent.futures.as_completed(futures, timeout=5000):
-            hotel = futures[future]
+        futures = {executor.submit(scrape_hotel_rating, hotel_id, hotel_name, address): hotel_id for hotel_id, hotel_name, address in hotel_list}
+        for future in concurrent.futures.as_completed(futures, timeout=20000):
+            hotel_id = futures[future]
             try:
                 result, duration = future.result()
                 results.append(result)
-                durations[hotel] = duration
-                print(f"Thread completed for {hotel}")
+                durations[hotel_id] = duration
+                print(f"Thread completed for {hotel_id}")
+                # Save rating/review to CSV after each thread
+                with open("your_output.csv", mode='a', newline='', encoding='utf-8') as f:
+                 writer = csv.DictWriter(f, fieldnames=['id', 'name', 'address', 'rating', 'review_count'])
+                 if f.tell() == 0:  # Write header only if file is empty
+                  writer.writeheader()
+                 writer.writerow(result)
             except concurrent.futures.TimeoutError:
-                print(f"Timeout scraping {hotel}")
-                results.append({"name": hotel, "rating": 0.0, "review_count": 0})
-                durations[hotel] = None
+                print(f"Timeout scraping {hotel_id}")
+                durations[hotel_id] = None
             except Exception as e:
-                print(f"Error scraping {hotel}: {e}")
-                results.append({"name": hotel, "rating": 0.0, "review_count": 0})
-                durations[hotel] = None
-
+                print(f"Error scraping {hotel_id}: {e}")
+                durations[hotel_id] = None
     t1 = time.time()
-    save_results_to_file(results, t1 - t0)
-    save_hotels_to_csv(results)
+
+    # Merge results with original DataFrame by ID
+    merged_df = df.merge(results_df[['id', 'rating', 'review_count']], on='id', how='left')
+    merged_df.to_csv("v2_common_hotels_202507111731.csv", index=False)
+    final_df = update_csv_with_ratings(df, merged_df)
+    final_df = final_df.sort_values(by='id', ascending=True)
+    final_df.to_csv("your_output.csv", index=False)
+    results_df = pd.DataFrame(results)
+    
 
     print("\n=== Final Results ===")
     for result in sorted(results, key=lambda x: x['name']):
         print(f"{result['name']}: {result['rating']}/5, {result['review_count']} reviews")
-    
-
-
     print(f"Total time taken: {t1 - t0:.2f} seconds")
     print("\n=== Scrape Durations (Per Hotel) ===")
-    for hotel in sorted(durations):
-        dur = durations[hotel]
-        print(f"{hotel}: {'Failed' if dur is None else f'{dur:.2f} seconds'}")
+    for hotel_id in sorted(durations):
+        dur = durations[hotel_id]
+        print(f"{hotel_id}: {'Failed' if dur is None else f'{dur:.2f} seconds'}")
 
 if __name__ == "__main__":
     main()
