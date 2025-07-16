@@ -1,0 +1,565 @@
+id, name, address,rating,review_count
+29972,Narcissus 88 Boutique Hotel,"Al Corniche Branch Road, Al Ruwais, Jeddah, P.O. Box 75, Riyadh, 11351, Saudi Arabia",4.5,14693
+242564,Executives Hotel - Azizia,"11564 Southern Ring Branch Rd, Al Masani, Riyadh 14512 11564, Saudi Arabia",3.8,1786
+242565,Gloria Inn,"شارع البطحاء مبنى ٣٠٠, Al Marqab, Riyadh 12661, Saudi Arabia",4,2386
+242566,Hayatt Home Hotel,"King Abdullah Street, Al Hamra, 99999, Riyadh, Saudi Arabia",4.5,1840
+242567,Mira Trio Hotel,"Prince Mohammed Bin Abdulaziz Road , Al Suliamaniah, Al Sulimania, 11721, Riyadh, Saudi Arabia",3.7,987
+242568,Comfort Inn Hotel Suites,"2488 Al Hussain Ibn Ali, At Taawun, Riyadh 12477, Saudi Arabia",2.9,545
+242569,Ascott Rafal Olaya Riyadh,"7706, Sahafa Olaya Street, P.O.Box 2396, Riyadh 13321, Saudi Arabia",4.1,4681
+242570,Ashbonh of Hotel Suites,"Olaya St, Al Wurud, Riyadh 12251, Saudi Arabia",3.9,700
+242571,Rand by wandalus,"PO Box 13041, Riyadh 11493, Saudi Arabia.",3.7,1986
+242572,Beautiful Moment Furnished Apartments,"An Narjis, Riyadh 13328, Saudi Arabia",3.7,189
+242573,Corner Bahia,"11461 Shabab, Al Aziziyah, الرياض 14515 11461",4.2,1200
+242574,SHADA HOTEL,"Ar Rabi, Riyadh 13315, Saudi Arabia",4.8,1337
+242575,Rest Night Hotel Suites- - AL Nafal,"An Nafl, Tuwaiq, Riyadh 13312, Saudi Arabia",3.3,1161
+242576,Al Mutlaq Hotel Riyadh,"King Abdel Aziz Road, P O Box 3525, Riyadh, 11481, Saudi Arabia",3.9,2649
+242577,Suite Inn Hotel,"7194 Prince Musaad Bin Abdulaziz St, As Sulimaniyah, Riyadh 12232-3231, Saudi Arabia",4.1,1680
+242578,Intour Al Sahafa Hotel,"7561, Al Yasmin, Riyadh 13322, Saudi Arabia",3.7,330
+242579,Merfal Royal new,"Alemam Saud bin Abdalaziz Street, Riyadh, 12282, Arabia Saudí",3.7,157
+242580,Al Muhaidb Alghzali Hotel,"Salah Ad Din Ayyoubi Rd, Near the NCB Bank, Riyadh 11461, Arabia Saudita",4.8,1337
+242581,ALmuhaidb Jarir,"ALMALAZ ALIHSA St with Jarir Ryadh, KSA, 38138, Riyadh, Saudi Arabia",3.6,414
+242582,Swiss International Royal Hotel,"King Fahad Rd., Al Safaha District P.O Box 18018, Riyadh 11415, Kingdom Of Saudi Arabia",4.1,1012
+242583,Almuhaidb Alnarges,"Exit 6 ,Othamn Bin Affan St.,, 13323 Riad, Arabia Saudí ",3.5,573
+242584,Aswar Hotel Riyadh,"Exit 8 Dammam Road, Service Road, Qurtubah District, Riyadh, 26701, Arabia Saudita",4.2,733
+242585,Hilton Riyadh Hotel & Residences,"6623 AL SHOHADAA EASTERN RING ROAD, RIYADH, 13241-2892, SAUDI ARABIA",4.5,17997
+242586,Al Muhaidb Al Nadwaa,"Khorais Street, Exit 36 Khurais Road near Prince Mohammed bin Naif University, Nadwaa, Riyadh, Saudi Arabia",3.5,486
+242587,AlMuhaidb Suwaidy 25,"Exit 25, Aisha Street, Western Ring Branch Road, Riyadh, 11522, Saudi Arabia ",2.9,208
+242588,Durrat Al Riyadh Resort & Spa,"P.O. Box 65812 Riyadh 11566, Kingdom of Saudi Arabia Riyadh, Saudi Arabia",4.3,1656
+242589,Merfal Hotel Apartments Al Taawan,"Imam Mohamed Ibn Saud Street , Al Taawan District, 31311 Riyadh, Saudi Arabia",3.5,572
+242590,Braira Qurtubah Hotel,"Al-Roshd street, Qurtobah, Riyadh 13245, Suadi Arabia",4.1,6668
+242591,Melissa Hotel Riyadh,"Al-Shuhada District | Al-Shuhada District, Riyadh 10532, Arabia Saudita",4.1,1464
+242592,Tulip Inn Modon Riyadh,2nd Industrial city road 201 Al Kharj Road 11461 Riad,4,107
+242593,Almuhaidb Residence Ghranta,"Malaz sixty Street opposite Granada, 11461, Riyadh, Saudi Arabia",3.7,883
+242594,Braira Al Wezarat,"King Abdulaziz Road, Al Wezarat District, 11351 Riad, Arabia Saudí",4.4,3338
+242595,Al Muhaidb Takhassusi 30,"Takhassusi St 537, Al Mathar Ash Shamali, Riyadh, 11345, Arabia Saudita",3.4,738
+242596,Dorar Darea Hotel Apartments - Al Nafl,"Mohammed Al Maqdmi Street, Riyadh, Saudi Arabia",4.1,6342
+242597,Dorar Darea Hotel Apartments - Al Mughrizat,"Prince Meqren Bin Abdulaziz Street, Riyadh, Saudi Arabia",3.4,351
+242598,AlMuhaidb Furnished Units King Abdulaziz,"Near King Abdlaziz University Hospital, Riyadh, Saudi Arabia",3.7,883
+242599,AlMuhaidb For Residential Units- Abaqrino,"Al Takhassusi Street, 11564, Riyadh, Saudi Arabia",3.4,738
+242600,Holiday khaleej,"Othman Ibn affan 7734, 13313, Riyadh, Saudi Arabia",4.1,1837
+242601,Asoul Najed 2 Hotel Suite,"Al Farazdaq Al Malaz ( In front Of Ministry Of Administrator ), 11564, Riad, Saudi Arabia",3.8,13
+242602,Aber Al Yasmin,"Anas Ibn Malik Road - Al Yasmin District, 11372, Riad, Saudi Arabia",4.2,1747
+242603,Al Musafer Hotel Riyadh,"2696 Prince Sultan Bin Abd Alziz Street , As Sulimaniyah District, 12234, Riad, Saudi Arabia",2.3,3
+242604,Olian Hotel,"3386 Imam Saud Bin Faisal Road - al yasmin - Unit N1 Ar Riyadh 13322-6314, 13321, Riad, Saudi Arabia",3.9,2273
+242605,Taleen Al Nadwa,"2152 An Nadhim, 14814, Riyadh, Saudi Arabia",3.5,612
+242606,Taleen Al Anfal ِAl Naseem Al Sharqy,"Prince Saad Ibn Abdulrahman Al Awal Road, 00966, Riyadh, Saudi Arabia ",3.5,612
+242607,Al Eairy Furnished Apartments Riyadh 3,"Old Al Kharj Street, Riyadh, Saudi Arabia",2.8,364
+242608,Al Eairy Furnished Apartments Riyadh 6,"Al Batha Street & Seteen Street, Riyadh, Saudi Arabia",2.8,364
+242609,Aber Al Sahafa,"Anas Bin Malik Road, Al Sahafa District, 13322, Riyadh, Saudi Arabia",4,1271
+242610,Al Eairy Furnished Apartments Riyadh 5,"Al Batha Street & Seteen Street, Riyadh, Saudi Arabia",2.8,364
+242611,Braira Qurtubah Riyadh,"Al Rashd Street, Qurtubah Area, 11351, Riyadh, Saudi Arabia",4.1,6668
+242612,Almakan Hotel 108,"Al Imam Abdul Aziz Ibn Muhammad Ibn Saud, Al Wisham, 11376 Riyadh, Saudi Arabia",2.6,142
+242613,Hyatt Place Riyadh Al Sulaimania,"Turki Ibn Abdullah Al Saud Street, Riyadh, Saudi Arabia",4.5,1840
+242614,Al Raha Garden Furnished Apartments 3,"Al harith ibn al habbab, ad dhubbat, Riyadh, Saudi Arabia",5,3
+242615,Wahat Al Nafil AlNafil Branch,"Muhammad Al Maqdimi, 13312, Riyadh, Saudi Arabia",4.4,3607
+242616,Rayatna For Furnished Apartments 3,"Al Wadi District, 11178, 11178, Riyadh, Saudi Arabia",3.3,250
+242617,Mayyun hotel 106,"Abdallah Alaziz ibn Mohammed Seoud, Riyadh, Saudi Arabia",2.8,109
+242618,Nawarah For Hotel Suites,"Al Swaidi District Exit 24, Al termithi Street, 11522, Riyadh, Saudi Arabia",3.2,563
+242619,Makeen Homes by Warwick,"Taif Street Dhahrat Laban, 11323 Riyadh, Saudi Arabia",3.8,1314
+242620,Boudl Al Sahafa,"King Abdul Aziz Road, Al sahafah, Riyadh, 11372, Saudi Arabia",4.2,1129
+242621,Shaza Riyadh,"7001 Eastern Ring Branch Road, Al Jazirah, Riyadh, 
+Saudi Arabia ",4.3,4039
+242622,Taleen Granada Hotel Apartments,"Ghernatah District, Abi Jafar Al Mansur Street, 11461 Riyadh, Saudi Arabia ",3.4,419
+242623,Taleen AlSahafa Hotel Apartments,"King Abdul Aziz Road, Al Sahafa District, 11564, Riyadh, Saudi Arabia",3.2,564
+242624,Golden Prince 6,"Al Sulaimania, Abo Baker Razi Street, by the Military Medical Center, Riyadh, Saudi Arabia",3,280
+242625,Al Anoud Hotel Apartment,"Raed Zone - Kind Abdulla Road, Near Kind Soud Uni., Riyadh, Saudi Arabia",4.2,6277
+242626,Naiara Maahad Eledara Elnsaey,"Al Jamiah Street, Al Malaz, Riyadh, Saudi Arabia",4.5,17997
+242627,Sama Al Qasr Hotel Apartment elmohamadia,"Imam Saoud St. & Takhasosi St., Riyadh, Saudi Arabia",3.4,779
+242628,Swiss Spirit Metropolitan Riyadh,"King Fahad Road, Al Sahafa District, 13321, Riyadh, Saudi Arabia",4.1,1012
+242629,Taleen AlMasif hotel apartments,"Dhabiyat Bent Al Barra Street, Al Masif District, 11452, Riyadh, Saudi Arabia",3.2,140
+242630,Burj Al Hayah Tower - Al Malaz,"Jameah St. Facing Ministry of Justice, Al Malaz, 11411, Riyadh, Saudi Arabia",4.1,44
+242631,Shatha Alrabi3 Hotel,"Al Quz, Ar Rabi, 13315 Riad, Arabia Saudí ",4,808
+242632,Al Amoria Furnished Apartments 1,"Alimam Abdulaziz, Ibn Muhammed Ibn Saud Street, Riyadh, Saudi Arabia",3.5,239
+242633,Al Amoria Furnished Apartments 3,"Al Imam Turki Ibn Abdullah Ibn Muhammad, 11583, Riyadh, Saudi Arabia",3.5,239
+242634,Al Amoria Furnished Apartments 5,"2539 Southern Ring Branch Rd, Namar, 11321, Riyadh, Saudi Arabia",3.5,239
+242635,"Marriott Executive Apartments Riyadh, Convention Center","King Saud Road, Al Wazarat District, Riyadh 11464 Saudi Arabia",4.3,741
+242636,IntercityHotel Riyadh Malaz,"Jarir Street, Al Ihsa Interchange, Al Malaz, 12831, Riyadh, Saudi Arabia",4.1,1529
+242637,Alreef Hotel Almalaz International,"Al Malaz, Riyadh 12629 54171, Saudi Arabia",2.6,2624
+242638,Golden Tulip Qasr Al Nasiriah Hôtel,"King Saud Road, Al Nasiriah Quarter, PO BOX 3389, 12732, Riyadh, Saudi Arabia",3.6,3986
+242639,Al Seteen Palace Hotel,"P. O. Box 8132, Salaheddin Al Ayyubi Road, Al Zahra, Riyadh 12811, Saudi Arabia",3.7,857
+242640,Al Raha Garden Furnished Apartments 2,"King Abdulla Road, Ar Raid, 12356, Riyadh, Saudi Arabia",2.9,56
+242641,Braira Hettin Resort & Villas,"Prince Saud Bin Mohammed Bin Muqrin Rd, 13518, Riyadh, Saudi Arabia",4.3,1921
+242642,AlMuhaidb Almalaz 7,"Malaz District, Conjuction, Malaz and Jamaa Street, 11522, Riyadh, Saudi Arabia",3.4,714
+242643,Nawarah Altakhassusi 6,"8111 Takhassusi St, Al Mohammadiyyah, 3282, 12363, Riyadh, Saudi Arabia",3.2,540
+242644,Nawara Medical City,"Jahinah, Al Sulaimaniah, 12232, Riyadh, Saudi Arabia",3.9,364
+242645,Nawara Askary,"Umar Ibn Dhar, Al Sulaimaniah, 12773, Riyadh, Saudi Arabia",3.9,364
+242646,OYO 121 Dome Hotel Al Olaya,"Near Prince Sultan Bin Abdulaziz Rd, Riyadh, Saudi Arabia",3.1,974
+242647,OYO 114 Dome Hotel Al Sulaimaniah,"Near Fitness Time, Riyadh, Saudi Arabia",3.1,974
+242648,Cristal Amaken Hotel,"P.O. Box 9369 Riyadh, 14334-3517, 2nd Industrial City, Kingdom of Saudi Arabia",4.3,1495
+242649,Braira Al Nakheel Hotel,"Al Imam Saud Ibn Abdulaziz Branch Road In front of Al Nakheel Mall, 12363, Riyadh, Saudi Arabia ",4.5,6873
+242650,Almuhaidb Al Takhasosi Hotel,"Street Specialist with Prince Sultan - in exchange for Loloa restaurant , 11345, Riyadh, Saudi Arabia",3.4,267
+242651,Almuhaidb Salahuddin- Almalaz,"Salah Ad Din Ayyoubi Rd, Near the NCB Bank, Al Malaz, 11461, Riyadh, Saudi Arabia",3.7,995
+242652,Neyara Almalaz 5,"Al Jamiah Street, Al Malaz, Al Malaz, 11461, Riyadh, Saudi Arabia",2.6,2624
+242653,OYO 123 Dome El Nozha,"Prince Muqrin Ibn Abdulaziz St, Cross Uthman Ibn Affan Rd., Riyadh, Saudi Arabia",3.4,869
+242654,OYO 158 Silent Room 1,"Abi Jafar Al Mansur, Al yarmuk, 11235 Riad, Arabia Saudí ",3.2,157
+242655,Almuhaidb Takhasosi Suites,"Street Specialist with Prince Sultan - in exchange for Loloa restaurant , 31311, Riyadh, Saudi Arabia",4,326
+242656,OYO 131 Al Hamra Palace Al Jawazat Branch,"King Fahed Street, In Front of Al Jawazat, Riyadh, Saudi Arabia ",3.2,398
+242657,OYO 146 Al Asemah Hotel,"Al Amal area, omar Al Mukhtar street, 12643, Riyadh, Saudi Arabia",3.4,1287
+242658,OYO 150 Al Hamra Palace Al Aswaq,"Al hamra Asfaq, 7739 Al Batha, Al Amal, 11323, Riyadh, Saudi Arabia",3.3,151
+242659,OYO 165 Orchida Al Hamra,"Orchida Hotel, Al Ghurabi , Al Amal, 2352, Riyadh, 12643, Saudi Arabia",3.1,302
+242660,OYO 226 Riyadh Park,"Riyadh Park, Al Khaznzh, Ishbiliyah,13225, Riyadh, Saudi Arabia",3.2,14
+242661,OYO 302 Maamoura,"Maamoura Furnished apartments, Abi Al Futuh La Khabbaz, Al Yarmuk, Riyadh, Saudi Arabia",3,308
+242662,Taleen Al Naseem,"Usamah Ibn Zaid Street , An Nassim District, 11452 Riyadh, Saudi Arabia",3.5,612
+242663,Towlan Al Rawdah,"Hafsah Bint Umar, Al Rawdah, 13211, Riyadh, Saudi Arabia ",3.7,770
+242664,Myrtle Hotel Al Shohada,"6968-6922 Doha St., Alshohada district, Granada, Exit 9, Riyadh, 11564, Riyadh, Saudi Arabia ",3.6,830
+242665,Boudl Al Wadi,"Othman ibn Affan road cross to Prince Mohamed bin Salman Road, Riyadh, Saudi arabia",4.1,616
+242666,OYO 360 Rahati Branch 1,"Mohammad Rashid Rida, Al Aziziyah, Riyadh, Al Aziziyah, 14515, Riyadh, Saudi Arabia",4.1,6342
+242667,Motiara Hotel - La Valle Mall,"King Abdul Aziz Road, 13312, Riyadh, Saudi Arabia",4,677
+242668,OYO 359 Amar," Western Ring Road, 11593, Riyadh, Saudi Arabia",4,35
+242669,Business Inn Tahlia Hotel,"Prince Muhammad Bin Abdulaziz Road, Tahlia Street, next to Kababji Restaurant, Al Sulimania, 11461, Riyadh, Saudi Arabia",3.3,487
+242670,Al Farhan Suites Ishbillia,"7535Qubbah St.Ishbillia.Riyadh Qubbah St.Ishbillia.Riyadh, 13225 Riad, Arabia Saudí",4.5,17997
+242671,Meera Suites,"Al Riyadh- Al Malaz Dst. Salah Al Dean Al Ayyubi Road, 11564, Riyadh, Saudi Arabia",3.7,573
+242672,Almakan Hotel 103,"Prince Faisal Ibn Bandar Ibn Abdulaziz, An Narjis، An Narjis, 00966 Riad, Arabia Saudí",4.1,6342
+242673,Nelover Qurtubah Hotel,"Al Bayt Al Atiq Street, Qurtubah District, 31991, Riyadh, Saudi Arabia",4.2,870
+242674,Zahrat Rozah Apartment,"Abi Jafar Al Mansour Street, Al Yarmouk District, 11543, Riyadh, Saudi Arabia",3.2,255
+242675,Khreis Suites Hotel,"Khurais Road 620010, 11499 Riad, Arabia Saudí ",4.5,14693
+242676,Ayan furnished units and Suites,"6667 Olaya Street, 13321 Riad, Arabia Saudí ",3.9,1581
+242677,Myan Al Urubah Hotel,"Al Urubah Branch Road, Umm Al Hamam Al Gharbi, 11533, Riyadh, Saudi Arabia ",3.8,1298
+242678,Golden Dune Hotel AlFayhaa,"Saud Al Uthman Saud al uthman Road, 14253 Riyadh, Saudi Arabia",4.1,2089
+242679,Quetzal Aparthotel,"Doha Street, 13241 Riad, Arabia Saudí",3.9,971
+242680,Aryan Hotel Apartments,"Imam Abdullah Ibn Saud Ibn Abdulaziz Road 3756, 13241, Riyadh, Saudi Arabia ",0,0
+242681,Park Inn by Radisson Riyadh,"7314 Al Ihsa St., Az Zahra District , Riyadh, 12811-2914 , Saudi Arabia",4.4,2188
+242682,Braira Al Yarmouk,"Imam Abdullah Ibn Abdulaziz Rd, Al Yarmuk, Riyadh 13243",4.4,2809
+242683,Le Méridien Riyadh," King Abdullah Ibn Abdulaziz Road Al Woroud District, P.O. Box 55565, Riyadh  11544 Saudi Arabia",4.4,2690
+242684,The One Resorts,"Prince Saud Bin Mohammed Bin Muqrin Road 1, 12664, Riyadh, Saudi Arabia",4.1,2071
+242685,The Corner Chalets,"لرياض حى الرمال, 13428 Riad, Arabia Saudí",4.2,1200
+242686,Aber Al Takhasusi,"Takhassusi Street, 11372 Riad, Arabia Saudí ",4.2,1232
+242687,Seiba Hotel Apartments - Al Malaz,"6428 Salah Ad Din Al Ayyubi Rd, Al Malaz, 12627, Riyadh, Saudi Arabia",4.1,350
+242688,Almuhaidb Residence Almalaz,"7961 King Abdul Aziz Rd, Ad Dhubbat, 12623 Riad, Arabia Saudí",3.3,838
+242689,JW Marriott Hotel Riyadh,"King Fahad Road, Sahafah District, Riyadh, 13315, Saudi Arabia",4.3,11671
+242690,Le Méridien Riyadh," King Abdullah Ibn Abdulaziz Road Al Woroud District, P.O. Box 55565, Riyadh  11544 Saudi Arabia",4.4,2690
+242691,Hilton Garden Inn Riyadh Financial District,"3606 Northern Ring Rd Riad, 13311-6488, Arabia Saudita",4.4,3610
+242692,DoubleTree by Hilton Riyadh Financial District Hotel & Suites,"3606 Northern Ring Road, Unit 3369, Riyadh, 13311 6488, Saudi Arabia",4.6,2882
+242693, Dara Hotel Qurtubah,"Said Ibn Zayd Road حي قرطبة, 13248 Riad, Arabia Saudí ",4.3,671
+242694,Myrtle Al Sahafa,"Olaya Street, Riyadh, Riad, 13321, Saudi Arabia",3.6,838
+242695,"Radisson Blu Hotel, Riyadh Qurtuba","Al Thumama Road, Riyadh, 11263, Saudi Arabia",4.5,3895
+242696,"Crowne Plaza Hotel Riyadh Minhal, an IHG Hotel","Old Airport Road, Al Wizarat, Saudi Arabia 12622 11484, Saudi Arabia",4.7,17700
+242697, Al Quba Al Thahbia Hotel Suites 2,"Imam Abdulaziz Bin Mohammed Bin Saud Street, 72351, Riyadh, Saudi Arabia",4.5,17981
+242698,Radisson Hotel Riyadh Airport,"Muhammad Ibn Faraj Road 5333, King Khalid International Airport, Riyadh, 13442, Saudi Arabia",4.7,11459
+242699,Accor Palace Hotel,"7275 شارع أبي بن معاذ الأنصاري 7275 شارع الغطغط, 23319 Riad, Arabia Saudita ",4,571
+242700,HDB As Sahafa Hotel,"Olaya St, As Sahafah Riyadh 13321, Arabia Saudita",4,1910
+242701,"Mansard Riyadh, A Radisson Collection Hotel","4248 Prince Mohammed Ibn Salman Ibn Abdulaziz Road, Riyadh, 13315-6721, Saudi Arabia",4.7,2587
+242702,Apartahotel Park House Hotel Suite,"Muhandis Masaid Al Anqari Street, Al Wurud District, Al Worood, 11482 Riad, Arabia",4.1,955
+242703,Art View Hotel Al Riyadh,"King Abdullah Road, 11564 Riad, Arabia Saudí ",4.1,2097
+242704,Dara Al Rayan,"Ash Shaikh Abdul Rahman Ibn Saadi 7681, 14212, Riyadh, Saudi Arabia",4.3,434
+242705,Apollo Dimora The Business Hotel,"Batha, 21452 Riyadh, Saudi Arabia",4,38
+242706,Silent Room 3,"Abi Jafar Al Mansour Street Al Yarmouk District, 10054 Riad, Arabia Saudí ",3.2,534
+242707,Awrad Royal,"Al Bahar Al Arabi, 13226 Riyadh, Saudi Arabia",4,447
+242708,Mövenpick Hotel And Residences Riyadh,"3478 North Ring Road Exit 4 Al Ghadeer District, 13311 Riad, Saudi Arabia",4.8,13615
+242709,Golden Tulip Riyadh,"King Abdullah Road, Al Fudul Street, 13215, Riyadh, Saudi Arabia",4.3,1065
+242710,Warwick Riyadh,"King Abdul Aziz Road, Al Malaz, 11564, Riyadh, Saudi Arabia",4.4,2247
+242711,Sarwat Park Hotel Riyadh - Diplomatic Quarter,"Mecca Road, AlHada Distract, Riyadh, 12913, Saudi Arabia",4.2,336
+242712,Baron Al Masif,"Dhabiyat Bent Al Barra Street, Al Masif District, Riyadh Saudi Arabia",2.8,78
+242713,Crown Rose Hotel,"Wadi Tarj, 13321, Riyadh, Saudi Arabia",3.5,36
+242714,Q resort,"Al Thumama Road, Rimal, Riad 13427, Riyadh, Saudi Arabia",4.3,1287
+242715,Enala Resort,"Art Road, distrito de Al-Rimal, 13254 Riyadh, Saudi Arabia",4.3,1283
+242716,Juina Castle Al Riyadh,"Prince Naser Bin Abdulaziz, 11666, Riyadh, Saudi Arabia",4.1,6342
+242717,Al Qubbah Al Thahabiah,"Nasseriyah Street - An Namudhajiyah, 11495, Riyadh, Saudi Arabia",3.6,10
+242718,Unique Suites,"4064 Hisham Ibn Abdulmalik, 12274, Riyadh, Saudi Arabia",4.3,286
+242719,Almasem4,"Al Mughira Bin Shoaba Street, King Fahd District, 12274, Riyadh, Saudi Arabia",3.8,605
+242720,Meera Suites 4,"King Abdullah, 12451, Riyadh, Saudi Arabia",3.7,573
+242721,Asemah Hotel,"Umar Al Mukhtar Street, Al Amal, 12645, Riyadh, Saudi Arabia",3.4,49
+242722,Nuzul Mena 110,"Al Takhassusi Street 7586, 11511, Riyadh, Saudi Arabia",2.6,229
+242723,Meera Suites 2,"Abi Bakr As Siddiq Branch, Rd, Al Masif, 12468, Riyadh, Saudi Arabia",3.7,573
+242724,Rwaq Al Mugharezat,"Dawadmi Street, Mugharezat, 13214, Riyadh, Saudi Arabia",3.7,298
+242725,Ewaa Express Hotel - Khorais,"Makkah Al Mukarramah Branch Road, 11553, Riyadh, Saudi Arabia",3.9,465
+242726,OYO 462 Masar Najd,"Imam Saud Bin, Abdulaziz Bin Mohammed Rd, Riyadh, 12388, Riyadh, Saudi Arabia",3.4,95
+242727,Fairmont Ramla Serviced Residences,"2172 King Fahad Road, Al Sahafah District, 13321, Riyadh, Saudi Arabia",4.8,2997
+242728,Nuzul mena 109,"2943 Western Ring Branch Rd, Namar District, 11422, Riyadh, Saudi Arabia",2.6,229
+242729,Taleen Hotel,"Prince Mohammed bin Salman bin Abdulaziz Road, Riyadh, 11425 Riyadh, Arabia Saudita",4.5,17997
+242730,Al Farhan Hotel Suites Al Fayha,"Prince Saad Bin Abdul Rahman, Al Fayha, Riyadh, Saudi Arabia",3.6,37
+242731,Methaq Hotel Suites 2,"8133 Al Bahar Al Arabi, 13226 Riyadh, Saudi Arabia",3.5,11
+242732,Holiday Inn Business District,"King Khaled International Airport Road, Riyadh, Saudi Arabia",4.8,2444
+242733,OYO 628 Wasan Suites,"Al Amir Mashari Ibn Saoud Ibn Abd Al Aziz, Riyadh 12692, Saudi Arabia, Riyadh City, Riyadh, Saudi Arabia",4.6,647
+242734,Rawaq -muzaliah,"Al Funun Street, Off Shaikh Jaber, Al Ahmed Al Sabah, Al Muzaliah, Riyadh, Saudi Arabia",3.9,77
+242735,Ramada by Wyndham Riyadh King Fahd Road,"King Fahd, Riyadh, Saudi Arabia 12734",4.4,1053
+242736,Iris Boutique Granada,"Abi Jafar Al Mansour Street, 11564 Riyadh, Saudi Arabia",4.2,565
+242737,Boudl Al Sulimanyah,"Abu Bakr Alrazi Street Abu Bakr Alrazi Street, Al Sulimania, 12242 Riyadh, Saudi Arabia",4.2,905
+242738,Dormera Hotel Units,"Street 42 2351, 12214, Riyadh, Saudi Arabia",4.3,138
+242739,Jareed Hotel Riyadh,"Prince Turki Ibn Abdulaziz Al Awwal Road Boulevard Riyadh, 11321 Riad, Arabia Saudí ",4.5,805
+242740,Golden Ship Hotel,"Exit 9 Eastern Ring Road, 131313 3 1234, 11416, Riyadh",4.5,2748
+242741,Admire Apart' Hotel,"Prince Sultan Bin Abdulaziz Rd, 12352, Riyadh",3.3,236
+242742,Clemence Hotel Suites,"Intersection of Abu Bakr El Siddiq Road &Al Hussei, 11551, RIYADH",4,487
+242743,Swiss Spirit Suites Metropolitan Riyadh,"Olaya District, 0, RIYADH",4.1,1012
+242744,Boudl Gaber,"Shaikh Jaber Al Sabah Street, Al Khaleej, S/N, 11372, Riyadh",4.1,1237
+242745,Mira Trio Riyadh Hotel,"Tahlia Road, 11721, RIYADH",4.8,1324
+242746,Al Malqa Elite Hotel,"Wadi bish Street, As Sahafah, Riyadh 13321, Saudi Arabia",3.7,796
+242747,Tura Residence ,"Prince Mohammed Ibn Salman Ibn Abdulaziz,qurtubah, 13247, Riyadh, Saudi Arabia",3.9,217
+242748,OYO 633 Home IBS 3 - 2BHK,"3020, Prince Fahad Ibn Saad Ibn Abdul Rahman Street, As Sulimaniyah, Riyadh",4,35
+242749,Gardino Hotel & Residence,"Takhassusi Street Al Mohammadiyyah, Riyadh 12362, 12362 Riyadh, Saudi Arabia",4.2,873
+242750,Holiday Inn Riyadh Izdihar,"Northern Ring Road,Izdihar District, Exit 7, 289 2, 11468, Riyadh, Saudi Arabia",4.1,7603
+242751,Dabab Hotel by Warwick - Riyadh,"Uyun Al Yamamah, 12621, Riyadh, Saudi Arabia",3.8,2223
+242752,Alfahad Hotel,"Olya Generl Street, 0, Riyadh, Saudi Arabia",3.9,3093
+242753,Al Muteb Suites Al Murslat,"Al Mursilat, 11564, Riyadh, Saudi Arabia",3.8,375
+242754,Al Muteb Suites Khurais,"Khurais Branch Road 88, 14211, Riyadh, Saudi Arabia",0,0
+242755,Al Muteb Suites Al Ezdehar 2,"Imam Saud Bin Abdulaziz Bin Mohammed, Al Izdihar, 12486, Riyadh, Saudi Arabia",3.4,331
+242756,Al Muteb Suites Al Tawon,"Al Imam Saud Ibn Abdul Aziz Branch Rd, 12476, Riyadh, Saudi Arabia",3.4,331
+242757,Al Muteb Suites Al Ezdehar,"Al Imam Saud Ibn Abdul Aziz Branch Road, 13313, Riyadh, Saudi Arabia",3.4,331
+242758,Al Muteb Suites Al Yarmouk,"Al Sahaba Rd, 13243, Riyadh, Saudi Arabia",3.4,331
+242759,Al Muteb Suites Al Yasmeen,"Al Khayalah, Alyasmin, 13325, Riyadh, Saudi Arabia",3.7,258
+242760,Castello Suites,"Dammam Road, Ghurnata Exit 8, Riyadh Saudi Arabia",3.8,98
+242761,Al Farhan Qurtuba,"Prince Muhammed Bin Salman, Kortoba 8429, Riyadh, Saudi Arabia",3.9,344
+242762,Lamasat Al Hamra Furnished Apartments,"Al Masani St., Al Hamra, 11461, Riyadh, Saudi Arabia",4.5,17981
+242763,Ard Al Andalos Hotel Apartments,"Uthman Ibn Affan Branch Rd, 00966, Riyadh, Saudi Arabia",2.8,66
+242764,Janat Al Areef Hotel Apartment,"Abi Gafer El Mansour Granada, 13241, Riyadh, Saudi Arabia",4,301
+242765,Najd Peak Hotel Apartments,"Al Sabah Street, Al Munsiyah District, 13224, Riyadh, Saudi Arabia",4.5,17981
+242766,Wahat Al Nafil Al Masif Hotel Apartments,"Al Masif District, Zuhair Ibn Abi Salma, 11352, Riyadh, Saudi Arabia",3.6,301
+242767,Durah Nawarh For Hotel Apartments 25,"Al Swide District Exit 25, Ayshah Street, 11522, Riyadh, Saudi Arabia",4.8,1337
+242768,In Maz Aparthotel,"Shaikh Jaber Al Ssabah Road In, Front Of Taif Al Bayarek Petrol Station, 11665, Riyadh, Saudi Arabia",4,326
+242769,Karim Hotel Riyadh,"3158 Prince Muqrin Ibn Abdulaziz St, 12473, Riyadh, Saudi Arabia",4.4,682
+242770,Rihanna Inn Hotel Apartement,"3131 Prince Salman Bin Muhammed Bin Saud, 13315, Riyadh, Saudi Arabia",3.6,257
+242771,Rose Garden Hotel,"King Abdul Aziz Rd, Dubbat, Riyadh 12623, Saudi Arabia",3.6,2210
+242772,Al Muteb Suites Khurais,"Khurais Br Rd, 14212, Riyadh, Saudi Arabia",0,0
+242773,Al Muteb Suites Al Munsiyah,"Asir St, 13246, Riyadh, Saudi Arabia",0,0
+242774,Afal Suites,"Prince Meqrin Bin Abdulaziz St, 12471, Riyadh, Saudi Arabia",4.1,387
+242775,Al Amoria Furnished Apartments 4,"Al Imam Abi Hanifah, Al Uraija Al Gharbiyah, 11523, Riyadh, Saudi Arabia",3.5,239
+242776,Ahlin Suites 2,"Al Najah Street, 123456, 113, Riyadh, Saudi Arabia",3.2,515
+242777,Al Mursalat Palace,"3094 Al Imam Saud Ibn Abdul Aziz Rd, 12475 6162, Riyadh, Saudi Arabia",4,45
+242778,Shorfa Loft Hotel,"Al Masani, 13217, Riyadh, Saudi Arabia",4.1,3510
+242779,Celine Home Hotel- Tawiq,"Ahmad Ibn Alkhattab, 14929, Riyadh, Saudi Arabia",4.3,1263
+242780,The one resorts,"Princ Mohammed Bin Salman Bin Abdulaziz, Al Rimal, 13268, Riyadh, Saudi Arabia",4.1,2071
+242781,"AlMasem serviced Apartments, King Fahd district","Al Thawabiah, 12274, Riyadh, Saudi Arabia",3.8,605
+242782,1800 degrees Hotel,"Prince Saud Bin Faisal Bin Abdulaziz St, 12841, Riyadh, Saudi Arabia",2.9,287
+242783,Holiday Al Khaleej Al Najah,"Najah Street, 13251, Riyadh, Saudi Arabia",4.1,272
+242784,OYO 352 Lamasat Alwadi,"7366, King Abdullah Road, Al Salam Dist, 11564, Riyadh, Saudi Arabia",4,35
+242785,Al Muteb Suites Al Yarmouk 2,"Dammam Rd, 13313, Riyadh, Saudi Arabia",0,0
+242786,Rose Park,"Ribah, 13244, Riyadh, Saudi Arabia",3.9,418
+242787,Yamama Palace Granada Branch,"Yamama Palace Granada Branch, Khalid Ibn Al Walid St Ash Shuhada, 11564, Riyadh, Saudi Arabia",3.3,105
+242788,Celinehome,"Al-Sahafa District, Olaya Main Road, 112202, Riyadh, Saudi Arabia",4.3,1263
+242789,Evan Suites Serviced Apartments,"Muhammed Al Muqdammi St., Nafl Province, 7438, 13312, Riyadh, Saudi Arabia",4,326
+242790,Land Walk Hotell,"Abass Ben Abdelmutalib, 00966, Riyadh, Saudi Arabia",4.2,115
+242791,Celine Home Al Sahafa,"Olaya, 7250, Riyadh, 13315, Saudi Arabia",4.2,398
+242792,Iris Boutique Narjis,"Dalam Street, 4090, 13324, Riyadh, Saudi Arabia",4.7,130
+242793,Laylati Al Nagah,"Najah Street 13243, Riyadh, Saudi Arabia",4.8,1324
+242794,Al Oroba Hotel,"El Reiad, 12682, Riyadh, Saudi Arabia",3.1,1711
+242795,New Holiday Serviced Apartments,"Taif St, Laban, 12555, Riyadh, Saudi Arabia",3.6,114
+242796,Laylati Al Hamra,"Riyadh, 13216, Saudi Arabia",3.8,1747
+242797,Raytna Al Wadi,"11178 Uthman Ibn Affan Rd, 12445, Riyadh, Saudi Arabia",0,0
+242798,AlToot Palace Furnished Apartments 2,"11565 Prince Abdulaziz Ibn, Musaid Ibn Jalawi St, Al Olaya, 12631, Riyadh, Saudi Arabia",3.4,999
+242799,Asoul 6 Hotel Suites,"6489 Al Ameen Abdullah, Al Ali Al Naeem Street,Al Malaz, 12836, Riyadh, Saudi Arabia",3,83
+242800,Talen Hotel,"Riyadh, 13313, Saudi Arabia",3.2,564
+242801,Voyage Apartments,"Prince Fahd Ben Saad Ben Abdulrahman, Behind King Fahd Medical City, 12328, Riyadh, Saudi Arabia",4,405
+242802,Anan Hotel,"7401 King Fahd Branch Road, 13321, Riyadh, Saudi Arabia",3.8,758
+242803,Granada Palace Inn,"7344 Abdul Rahman Bin Azaz Street, Marytyrs Corner, 13241, Riyadh, Saudi Arabia",4.1,167
+242804,Waha Deema,"Al Masani St, 13217, Riyadh, Saudi Arabia",4,130
+242805,Riyadh Inn Hotel,"Abu Baker Al Siddiq Road, 11250, Riyadh, Saudi Arabia",4.1,656
+242806,Rokon Al Omor Aprartment,"Muhammad Al Maqdimi, An Nafal District, 13224, Riyadh, Saudi Arabia",4.3,3
+242807,Al Rihab Furnished Units,"Ibrahim Al Nimiri St., Al Hamra District, 13216, Riyadh, Saudi Arabia",4.5,17981
+242808,Noorseen Aparthotel 2,"4017 Muhammad Ali Junah, 13241, Riyadh, Saudi Arabia",4.5,17981
+242809,Savan,"Shaikh Jaber Alahmed Alsabah 7072, 13252, Riyadh, Saudi Arabia",4,239
+242810,Quiet Rooms Apartment,"Sheikh Jaber Al Ahmad Al Sobah, Al Yarmouk District, 7294, Riyadh, Saudi Arabia",4.5,17998
+242811,Nawara Suwiady Apartments,"Ext 24, Southern ring, Shubra, Riyadh 12799, Saudi Arabia",2.9,80
+242812,Orchida Al Hamra,"Algarabbi St, 12643, Riyadh, Saudi Arabia",3.1,302
+242813,Marbia Furnished Units,"Mohammed Al Moqadami Street, 11352, Riyadh, Saudi Arabia",4,161
+242814,Atiaf Al Naseem Funished Apartments,"Taif Street, 12563, Riyadh, Saudi Arabia",4,326
+242815,SAMT HOTEL,"8284 Al Imam Al Shafei, 14253, Riyadh, Saudi Arabia",4.6,229
+242816,Crown City Hotel,"8133 Dirab Branch Rd, 14723, Riyadh, Saudi Arabia",3.9,237
+242817,Gwaher Alsharq,"Osama Ibn Zeid Street, 14231, Riyadh, Saudi Arabia",4,652
+242818,Alto Park,"King Abdullah Road, 24590, Riyadh, Saudi Arabia",4.9,13
+242819,Deyala Hotel Suites,"Muhammad Al Maqdimi, 13312, Riyadh, Saudi Arabia",4.4,3610
+242820,Samt An Narjis,"13328 Samt An Narjis, 14253, Riyadh, Saudi Arabia",4.1,6342
+242821,Aknan Al Yasmine Furnished Units,"Prince Abdullah Bin Saud, 13325, Riyadh, Saudi Arabia",4,716
+242822,Mabaat - Al Yasmeen - 454,"Prince Abdulaziz Bin Ayyaf, 13326, Riyadh, Saudi Arabia",3.8,17
+242823,Rawat ALheah Suits,"Mansoura, 23212, Riyadh, Saudi Arabia",4,427
+242824,Rafa Homes Al Izdihar 2,"2463 As Sayyad, 12487, Riyadh, Saudi Arabia",3.9,115
+242825,Nasima Hotel Apartments,"Wady Hager Street - Malqa, 00966, Riyadh, Saudi Arabia",4.1,653
+242826,Al Muteb Suites Al Najah,"Dammam Branch Rd, 13251, Riyadh, Saudi Arabia",0,0
+242827,AlToot Palace Furnished Apartments,"Prince Fahad Ibn Saad Ibn Abdul Rahman, As Sulimaniyah, 12231, Riyadh, Saudi Arabia",3.4,999
+242828,Sahat Al Bondoqia Furnished Apartments,"Doha St, 13241, Riyadh, Saudi Arabia",3.4,7
+242829,Hotelier Al Dhabab,"Prince Fahad Ibn Saad Ibn Abdul Rahman, Al Sulaymaniah, 12231, Riyadh, Saudi Arabia",3.8,1564
+242830,Boudl Al Qasr,"Al Suwaidi St., Riyadh 12652, Saudi Arabia",4,2553
+242831,Ahlen Apartment,"2615 Abi Jafar Al Mansur, Al Yarmuk District, 13252, Riyadh, Saudi Arabia",4.5,17998
+242832,AL Rahden Hotel,"Facing Cobri Al Fahas, Dammam Branch Road, 13252, Riyadh, Saudi Arabia",4.1,1145
+242833,Laylati Al Yarmouk,"Al Sahaba Road 4453, Al Yarmouk District, 13243, Riyadh, Saudi Arabia",4.4,2809
+242834,Dellmon Shrouq Hotel,"Al Orouba, Beside King Khaled Eye Specialist Hospital، Umm Al Hamam Al Gharbi, Riyadh 12328 11556, Saudi Arabia",3.5,171
+242835,Dar Ayar Hotel apartments,"Muhammed Almuqdammi Street, Al Nafl Disrict, 13312, Riyadh, Saudi Arabia",3.7,368
+242836,Durut Alurubah Furniture Apartments,"Aluruah Road, 22122, Riyadh, Saudi Arabia",5,3
+242837,Arkan El Ezz Hotel,"King Abdul Aziz Road, Mahbas Al Jen Area, 21955, Riyadh, Saudi Arabia",4.4,3610
+242838,Al-Asemaa Hotel,"Omar Almukhtar St, 12843, Riyadh, Saudi Arabia",3.4,49
+242839,Orans of East,"An Nasim Ash Sharqi, Riyadh 14242, Saudi Arabia",3.5,22
+242840,Boudl Al Faisaliah,"Olaya St, Riyadh",3.9,1438
+242841,Nayara Takhasosy Apartments,"Takhassusi St, South Al Ahly Bank, Riyadh Saudi Arabia",3.4,617
+242842,Rest Night Hotel Suites,"AL Ta`awon, exit 6 Al Husien bin Ali street، Al Hussain Ibn Ali, At Taawun, Riyadh 12477, Saudi Arabia",4.5,17981
+242843,Rest Night Hotel Suites - Taawon - Khan Younis,"AL Ta`awon, khan Yonis Street, Riyadh Saudi Arabia",4.8,1337
+242844,Boudl Al Fayhaa,"Haroun Al-Rasheed Street (Exit 15), Riyadh Saudi Arabia",3.5,3271
+242845,Radisson Blu Riyadh,"King Abdulaziz Street Al Mubarakiah Plaza, Ad Dhubbat, Riyadh 12627, Saudi Arabia",4.2,6631
+242846,Courtyard Riyadh Diplomatic Quarter,"Al-Hada District, Abdullah bin Huzafah, Al Hada, Riyadh 64819, Saudi Arabia",4.2,5215
+242847,Ramada by Wyndham Riyadh,"King Abdul Aziz Road Ministry Area South Riyadh, 11422, Saudi Arabia",3.8,2467
+242848,The Ritz-Carlton Riyadh,"AlHada Area, Mekkah Road, Al Hada, Riyadh 12912 11493, Saudi Arabia",4.6,14904
+242849,Intercontinental Riyadh,"King Saud Road, PO Box 3636, Riyadh,11481, Saudi Arabia",4.5,15780
+242850,Fairmont Riyadh,"Qurtubah, Riyadh 13244, Saudi Arabia",4.7,6538
+242851,Sama Alqsr Almalaz,"Al Malaz, Riyadh, Saudi Arabia",3.4,779
+242852,Sama Al Qaser Hotel Apartments,"Prince Turky Bin Abdulaziz Al Awwal Street Riyadh,Prince Turky Bin Abdulaziz Al Awwal Street, Riyadh",3.4,779
+242853,Muhaidb Askary,"Opposite Military Hospital Gate 11, Riyadh Saudi Arabia",4,326
+242854,"Grand Plaza Takhasosi Hotel, Riyadh","Al Takhasossy Street, Riyadh, Saudi Arabia, 11564, Riyadh, Saudi Arabia",3.7,2575
+242855,Luthan Hotel & Spa,"Al Raed Road, Abdulaziz Ibn Ahmad As Sudairi, Ar Raid, Riyadh 12352, Saudi Arabia",4,427
+242856,Rest Night Hotel Apartment,"Imam Saud Bin Abdulaziz Bin Mohammed Rd, Riyadh",4.5,17981
+242857,Golden Tulip Riyadh,"King Abdullah Road Alfdoul Street,King Abdullah Road, Riyadh",4.3,1065
+242858,Le Park Concord Rabwah Riyadh,"Fifa Street, Riyadh, Ar Riyad, Saudi Arabia",4,725
+242859,Grand Plaza - Qurtubah,"Said Ibn Zayd Rd - Hay Cordoba, 96968, Riyadh, Saudi Arabia",4,1595
+242860,Holiday Plus Cordoba,"Said Ibn Zayd Road Hay Cordoba,Said Ibn Zayd Road",3.6,404
+242861,Al Ghadeer District,3953 Is'haq Ibn Ibrahim St.,4.6,2882
+242862,Alfarhan Panda Alfayha,"Alamamm Al Shafie St. Alfayha Area, 19399, Riyadh, Saudi Arabia",3.6,37
+242863,Ourchida Turaif 3,Sheikh Jaber Al-Ahmad Al-Sabah Sheikh Jaber Al-Ahmad Al-Sabah  Riyadh  Saudi Arabia,4,267
+242864,Erfad Hotel,"6151 AbdelAziz King Road, AlRabie District, Riyadh, Saudi Arabia",4.5,635
+242865,Al Riyadh Park Hotel Apartments,"Al Khaznah Street , Ishbeliya District, Ishbiliyah, Riyadh 13225, Saudi Arabia",4.5,18000
+242866,Burj Al Hayat Furnished suites-Al Mallaz,"Al Malaz, Riyadh 12629, Saudi Arabia",3.8,777
+242867,Kease Al Izdihar -7 Luxury Gold AZ99,"مسلمة الانصاري 7, 12485, Riyadh, Saudi Arabia",4.5,17981
+242868,Taleen Al Nakheel Apartment,"Imam Saud Bin Abdulaziz Bin Mohammed Rd, An Nakhil, Riyadh 12381, Saudi Arabia",3.3,490
+242869,Rahty Home Hotel Apartments,"Al Riyadh - Al Doha Street , Granadah District، Doha St, Ash Shuhada, Riyadh 13241, Saudi Arabia",3.1,177
+242870,Nawara Mohamdia Branch,"Intersection of Imam Saoud and Takhasosi Str.، Riyadh 31311, Saudi Arabia",4.8,1337
+242871,Aram Hotel - AlMeshael Exit 18,"Eastern Ring Road Extension Al Mashael District, 14325, Riyadh, Saudi Arabia",4.3,534
+242872,Lavera inn hotel,3619 Imam Abdullah Bin Saud Bin Abdulaziz Road 8479 Al Hamra 13217 Riyadh  Saudi Arabia,4.2,1286
+242873,Taleen Al Quds 2,"Al Quds, Riyadh 13214, Saudi Arabia",3.4,419
+242874,Tulip Al Rawdah,"Ar Rawdah, Riyadh 13211, Saudi Arabia",3.7,603
+242875,Tulip Inn Riyadh,"Al Batha area, Al Amal, Riyadh 12643 11416, Saudi Arabia",4.3,1065
+242876,Kease Tawun A7-3 Royal touch Terrace XZ11,"3858 العباس بن عبدالمطلب, 12476, Riyadh, Saudi Arabia",4.4,3607
+242877,Vinas Apartment,"Al Riyadh- Al Rawda Dst.- Saud Big Street, King Faisal, Riyadh 13215 11564, Saudi Arabia",3.8,517
+242878,Baron Al Masif,"شارع ظبية بنت البراء , حى المصيف، Al Masif, Riyadh 12466 11452, Saudi Arabia",2.8,78
+242879,Taleen Al Masif,"شارع ظبية بنت البراء , حى المصيف، Al Masif, Riyadh 12466 11452, Saudi Arabia",3.2,140
+242880,Al Farhan Hotel Suites (Exit 15),"Street 100, Ex. 15, 99999* Riyadh, Saudi Arabia ",3.6,456
+242881,Al Muhaidb Sulaimanya Askary Hospital,"Sulimaniya Area , Al Sulimania, 99999* Riad, Arabia Saudí ",2.5,4
+242882,Al Farhan Hotel Suite Ishbiliah,"Ishbiliah, Al Hamra, Saudi Arabia",3.6,37
+242883,Jood Hotel Apartments,"Western Ring Road Dhahrat Laban,Western Ring Road",3.8,257
+242884,Rawaq Suites 2 - Al Arrubah,"King Abdul Aziz Road , Al Sulaimaniah District, Riyadh Saudi Arabia",4.5,18000
+242885,Boudl Al-Masif,"Al Masif, Riyadh 12467, Saudi Arabia",3.9,1438
+242886,Al Farhan Hotel Suites,"Ahmed Bin Hanbal, Al Salam, Saad Ibn Ubadah, As Salam, Riyadh 14224, Saudi Arabia",3.6,37
+242887,Riyadh Airport Marriott Hotel,"Airport Road, King Khalid International Airport, Riyadh 13443 Saudi Arabia",4.4,7598
+242888,Mena Grand - Khaldia,"Khazzan Street Khaldia Towers I, Al Futah, Riyadh 12633 11420, Saudi Arabia",4.3,42
+242889,Golden Dune Hotel Almalaz,"7415 Salah Ad Din Al Ayyubi Road, 2166, Al Malaz, Riyadh, 12831, Saudi Arabia",4.2,369
+242890,Mena Hotel Nasiriah Riyadh,"P.O. Box 57749 Riyadh 11584 KSA, Saudi Arabia",4,495
+242891,Rafa - Al Nuzhah,"3176 Prince Meqrin Bin Abdulaziz St, 12473, Riyadh, Saudi Arabia ",4.2,837
+242892,Grand Plaza Gulf Hotel,"King Abdul Aziz Road, Ad Dhubbat,Riyadh, Kingdom of Saudi Arabia",4,2667
+242893,Al Diafah Hotel Suites,"Al Mazar Street, Makkah Al Mukarramah Branch Rd, As Sulimaniyah, Riyadh 12621, Saudi Arabia",3.8,422
+242894,Sama Nadrin Hotel Apartments,"By Prince Bandar bin Abdulaziz neighborhood Almaizalh, Riyadh Saudi Arabia",3.6,400
+242895,Vivienda Hotel Villas Granada,"Granada Area, East Ring Road, between exit 09 & exit 08, Ash Shuhada, Riyadh 11372 11372, Saudi Arabia",4.3,460
+242896,Orchid Almansour Hotel,"King Abdel Aziz Strret, Old airport، As Sulimaniyah, Riyadh 12233 11421, Saudi Arabia",3.3,134
+242897,Madareem Crown,"طريق المطار, Airport Rd, Al Falah, Riyadh 13314, Saudi Arabia",4.3,6674
+242898,Almasem Luxury Hotel Suites,"Gurnata Al Shouhada District, Al Doha Street, Riyadh Saudi Arabia",3.8,919
+242899,Voyage Hotel,"Al Urubah Rd, Umm Al Hamam Al Gharbi, Riyadh 12328, Saudi Arabia",4.2,1717
+242900,Duset Hotel Suites,"Prince Muqrin Bin Abdulaziz Rd, An Nuzhah, Riyadh 12473, Saudi Arabia",4.2,1560
+242901,رفاء | Rafa,"Al Abbas Ibn Abdulmutalib Street, At Taawun District، At Taawun, Riyadh 12475 11324, Saudi Arabia",3.7,253
+242902,Bait Al Amani Suites,"Olaya Street, In Front Of Aswaq Al Andalus, Riyadh, Saudi Arabia",3.2,14
+242903,Crowne Plaza Riyadh Minhal,"Old Airport Road, P.O. Box 17058, Riyadh, 11484, Saudi Arabia",4.6,7185
+242904,OYO 124 Dome Hotel Suites Al Orouba,"Near Kingdom Tower, Riyadh, Saudi Arabia",3,423
+242905,Riyadh Marriott Hotel,"King Saud Road, As Sulimaniyah, Al Wazarat District, Riyadh 12621 11464, Saudi Arabia",4.2,10973
+242906,Sahat Al Bondoqiyah Furnished Units,"Exit 9 Al Shuhadaa St. behind Ghurnata Mall, Ash Shuhada, Riyadh 13241, Saudi Arabia",4,36
+242907,Land Beach An Narjis,"Othman Bin Affan Street, 11633, Riyadh, Saudi Arabia ",3.7,264
+242908,Ray Kady Hotel Apartment 1,"Ash Shuhada, Riyadh 13241, Saudi Arabia",3.7,410
+242909,Boudl AL-Woroud,"Riyadh-6 J5- Infront of Carfour, Damam Road, Al Masif, Riyadh 12468, Saudi Arabia",4.1,483
+242910,Dome Hotel Suites,"As Sulimaniyah, Riyadh 12245, Saudi Arabia",3.1,974
+242911,Dome Hotel - Al Olaya,"طريق الامير سلطان بن عبد العزيز , العليا، الرياض Saudi Arabia",3.1,974
+242912,Sama Inn Hotel Apartments,"2569 Anas Ibn Malik Rd, Al Yasmin, Riyadh 13322-8036, Saudi Arabia",4,1289
+242913,Najmat Manami AlQuds,"شارع الامير محمد بن سعود حي القدس، Al Quds, Riyadh 13214 11653, Saudi Arabia",3.5,139
+242914,voco Riyadh,"King Fahad Road, Opposite of Ministry of Interior, Riyadh, Saudi Arabia",4.5,13959
+242915,Crowne Plaza Riyadh RDC Hotel & Convention,"Imam Saud Ibn Abdul Aziz Road, Wady Al Muaydin Street Unit 4, Riyadh | 6391 | Saudi Arabia",4.7,17701
+242916,Towlan Suites 3,"Mohamad Ali Janah Street, Ash Shuhada, Riyadh 13241, Saudi Arabia",3.6,1059
+242917,AL 'Oroba hotel,"منطقة البطحاء، Al Amal, Riyadh 12682 11482, Saudi Arabia",3.1,1711
+242918,Taleen Al Malaz,"Al Malaz, Riyadh 12629, Saudi Arabia",3.3,836
+242919,Meral Crown Hotel,"Al Riyadh - Abi Jaafar Al Mansouri Street , Exit 9 , Geranada District، Ash Shuhada, Riyadh 13241 11564, Saudi Arabia",3.9,1994
+242920,Taleen AlSulaimanyah hotel apartments,"As Sulimaniyah, Riyadh Saudi Arabia",4,4
+242921,Comfort Inn,"Abu Bakr Siddiq Road, Riyadh Saudi Arabia",2.9,545
+242922,Al Muhaidb Khanshalila,"Ext 20, Southern ring, Aghader St, An Nasim Al Gharbi, Riyadh 14231, Saudi Arabia",4,333
+242923,Najmat Manami Azizyya,"شارع ابي عبد الله الزواوي ، العزيزية، Al Aziziyah, Riyadh 14511 11653, Saudi Arabia",3.5,139
+242924,Intour Qurtoba Hotel Suites,"Shudaiq St, Qurtubah, Riyadh 13245, Saudi Arabia",3.7,580
+242925,OYO 241 Rokn Al Marsa,"Prince Muqrin St. East Ring Rd Between Exit 9 & 10, Near Expansion Center, 21452, Riyadh, Saudi Arabia ",5,2
+242926,Saladin Hotel,"King Abdelaziz Road, 11691, Riyadh, Saudi Arabia	",3.5,833
+242927,Mocador Hotel,"Prince Mugrin Ibn Abdulaziz, An Nuzhah, Riyadh 12473, Saudi Arabia",3,139
+242928,Nelover Hotel Ar Rawdah,"Exit 12, Riyadh Saudi Arabia",4.1,1199
+242929,Towlan Suites 1,"AL Malzilah District, Ashaikh Jaber Alahmed Street, Al Maizilah, Riyadh 13231, Saudi Arabia",3.6,1059
+242930,Crowne Plaza Riyadh Al Waha,"8430 Uthman Ibn Affan Rd, Al Waha, Riyadh, Saudi Arabia",4.4,7029
+242931,Holiday Inn Riyadh - Izdihar,"P.O.Box 34287, Riyadh, 11468, Saudi Arabia",4.1,7603
+242932,Ray Kady Hotel Apartment 2,"Ash Shuhada, Riyadh 13241, Saudi Arabia",3.7,410
+242933,Al Mashreq Boutique Hotel,"Orubah road, Prince Turky Alawwal intersection 
+ Kingdom of Saudi Arabia, Riyadh  P.O. Box   33554  Riyadh   11458 ",4.3,422
+242934,MIRA Hotel,"Prince Muhammad Bin Abdulaziz Rd, As Sulimaniyah, Riyadh 12242, Saudi Arabia",4.8,1324
+242935,Shams Al Khayal Hotel Apartments,"النسيم شارع أسامة بن زيد , 11169 الرياض, المملكة العربية السعودية, Usamah Ibn Zaid, An Nasim Al Gharbi, Riyadh 14235, Saudi Arabia",3.8,501
+242936,Boudl Al Qasr,"ممشى حديقة السويدي، As Suwaidi, Riyadh 12791, Saudi Arabia",4,2553
+242937,Qasr Al Hamra Al Batha,"Al Batha, Al Amal, Riyadh 12643, Saudi Arabia",3.2,676
+242938,Comfort Inn Al Yarmouk,"Abo Jafar El Mansour , exit 9, Al Yarmuk, Riyadh 13243, Saudi Arabia",2.9,545
+242939,Al Hamra Palace by Warwick,"King Abdullah Road, Riyadh, 11323, Saudi Arabia",3.8,1747
+242940,Al Baron Palace Riyadh,"Al Hamra, Riyadh 13217, Saudi Arabia",2.8,78
+242941,Capital O 419 Al Safeer Hotel,"Naseem, 11564 Riyadh, Saudi Arabia",3.4,2178
+242942,Rest Night Hotel Apartment - Al Hamra,"Emma Saudi Road , Bahar St, Al Hamra, Riyadh 13217, Saudi Arabia",3.1,324
+242943,Super 8 Al Riyadh,"Al Thumama Road, Qurtubah, Al Riyadh 13412 11533, Saudi Arabia",3.8,582
+242944,Capital O 162 Brzeen Hotel,"Oruba St, Opp King Khalid Eye Hospital، Al Urubah Branch Rd, Ar Raid, Riyadh 12352, Saudi Arabia",3.1,1945
+242945,Salam Hotel,"Al Farabi District , Al Batha Street، Al Amal, Riyadh 12643 11564, Saudi Arabia",3.4,1038
+242946,Comfort Inn,"Abu Jabo Street، Al Yarmuk, Riyadh 13251 11564, Saudi Arabia",2.9,545
+242947,Boudl Al-Malaz,"AL AHSA STREET BEHIND OF MC DONALDS, Ar Rabwah, RIYADH 12815, Saudi Arabia",3.8,1296
+242948,Sheraton Riyadh Hotel & Towers,"Olaya Junction of King Fahad and King Abdullah Road, Al Wurud, Riyadh 12216 11623, Saudi Arabia",4.2,7030
+312547,Aloft Riyadh,"2385 Olaya St, Al Olaya, Riyadh 12611-9242, Saudi Arabia",4.1,3510
+312548,Continent Hotel Al Waha Riyadh,"Wadi Aldawasir Street Number 6, Olaya، Riyadh 12211, Saudi Arabia",4,1612
+312549,Millennia Olaya Hotel,"8996 Al Awsat Valley St, Al Olaya, Riyadh 12214, Saudi Arabia",3.7,1115
+312550,Ewaa Express Hotel - Al Olaya,"Al Riyadh- Al Olya Dst. - Al Olya General Street، Olaya St, Al Olaya, Riyadh 12212, Saudi Arabia",3.6,2043
+312551,Courtyard Riyadh Olaya,"2759 Olaya District, Musa Ibn Nusair Street, Al Olaya, Riyadh 12213 11333, Saudi Arabia",4.8,1324
+312552,Hyatt Regency Riyadh Olaya,"Olaya St, Al Olaya, Riyadh 12213 11433, Saudi Arabia",4.4,4960
+312553,Plaza Inn Hotel & Suites,"6217 Olaya St, Al Olaya, Riyadh, 12241-2822, Arabia Saudita",4.3,69
+312554,Fraser Suites Riyadh,"King Fahd Rd, Al Futah, Riyadh, Saudi Arabia",4.2,4477
+312555,Al Diafah Apartments Olaya,"Street 74 Olaya Main Street , Near Soliman El Habib, Al Olaya, 11372, Riyadh, Saudi Arabia",4.2,102
+312556,Al Muhaidb Residence Altakhsosy,"Al Takhasusi Street, Al Olaya, Riyadh, Arabia Saudí ",3.4,267
+312557,Almuhaidb Faisaliah Hotel Suites,"Al Ulaya Rd, Bld 12221 , Riyadh 11461, Arabia Saudita",3.6,992
+312558,Centro Olaya,"7590 Wadi Al Artwi, Al Olaya Riyadh, Riyadh, Saudi Arabia",4.4,4557
+312559,Boudl Al Olaya,"Olaya St. Beside Jarir Bookstore, Al Olaya District, Riyadh, Saudi Arabia",4,722
+312560,Almuhaidb Takhasosi Value,"Takhassusi Street ,Altahliya ,Building 7151, Al Olaya, 11461, Riyadh, Saudi Arabia ",3.4,738
+312561,Almuhaidb Alolaya Kories ,"Al Muhaidb Khorais Road, Al Olaya, 99999, Riyadh, Saudi Arabia",4.5,18000
+312562,Four Seasons Hotel Riyadh At Kingdom Center,"kingdom centre, p.o. box 231000, riyadh 11321, saudi arabia",4.6,13946
+312563,Almuhaidb Al Diwan,"KING FAHD Road Behind Black Box, 99999, Riyadh, Saudi Arabia",3.2,400
+312564,Almuhaidb Olaya,"OLAYA St With Road Makah OPP Holiday In, 11461, Riyadh, Saudi Arabia",3.2,400
+312565,Concord Resort Dorrat Najd,"66147 Al-Wasel Road Al-Amaria - Riyadh 66147 Al-Wasel Road Al-Amaria - Riyadh, Al Olaya, 66147 Riyadh, Saudi Arabia",4.1,2159
+312566,DAMAC Towers Arjaan by Rotana,"King Fahd Road, Al Olaya, Riyadh,12333, Saudi Arabia",3.7,188
+312567,Le Park Concord Rabwah Boutique Hotel,"Fifa Street Al rabwah, Al Olaya, 11543 Riyadh, Saudi Arabia",4,725
+312568,Executives Hotel - Olaya,"Olaya main street, P.O BOX 7347, Riyadh, 2299-12244, Saudi Arabia",4,3917
+312569,Dana Hotel & Residences,"Saleh bin Mohammed 3138, Al Olaya, 00966, Riyadh, Saudi Arabia",4,399
+312570,Joudyan Olaya Riyadh," 6341 Al Olaya, Riyadh, 12241, Saudi Arabia",4.6,3363
+312571,Cantonal Hotel by Warwick,"Street No. 84, Al Awsat Valley Street - 12214 Riyadh, Riyadh Province, Arabia Saudita",4.7,1924
+312572,Hilton Riyadh Olaya,"8508 King Fahd Rd, Al Olaya District, Riyadh, 12333, Saudi Arabia",4.8,1337
+312573,Comfort Hotel Riyadh Olaya,"Al-Thumamah Valley St, Al Olaya, 11522, Riyadh, Saudi Arabia",4.6,364
+312574,Sixty Three Hotel,"Al Olaya, 12221, Riyadh, Saudi Arabia",3.8,442
+312575,Burj Al Hayat Hotel Suites-Al Olaya,"Al Wara AL Olaya, Al Olaya, 12611 Riad, Arabia Saudí",3.8,777
+312576,Hotel Suites - Damac Tower Riyadh,"King Fahd Rd, 11331, Riyadh, Saudi Arabia",3.7,188
+312577,RITAJ HOTEL SUITES,"Olaya Dabab Street, 11492, Riyadh, Saudi Arabia",3.4,341
+312578,Dara Al Rayyan,"2155 Riyadh, Saudi Arabia",4.3,434
+312579,Tura Hotel,"Baljurshi 34 Al Olaya, 12222, Riyadh, Saudi Arabia",4.2,182
+312580,Business Inn Olaya Hotel,"Riyadh, Olaya، Al Olaya, Riyadh 12214 11564, Saudi Arabia",4.5,18000
+312581,Mira Business Hotel,"Olaya Street, Al Olaya, 11721 Riad, Arabia Saudí",3.7,987
+312582,Coral Olaya Hotel Riyadh,"Olaya Street,Opposite Saudi Post,Behind Ministry Of Interior, Abdulmalik Ibn Marwan, Al Olaya, Riyadh 11543, Saudi Arabia",3.6,1202
+312583,Obaer Hotel,"Al Olaya, Riyadh 12221, Saudi Arabia",3.6,2428
+312584,Al Janadriyah Suites 7,"Al Olaya Stree, Al Olaya, Riyadh 11543 11564, Saudi Arabia",3.5,427
+312585,Plaza Inn Business Hotel,"No. 66, Al Olaya, Riyadh 12213, Saudi Arabia",2.8,4
+312586,AWFAD Hotel,"King Fahd Branch Road Near 2734 No. 64,Al Olaya, Riyadh, 12213, 8458, Saudi Arabia",4.1,4053
+312587,CAPITAL O460 Mena Hotel Riyadh,"26th Street Olaya District, Al Olaya, 21452, Riyadh, Saudi Arabia",5,2
+312588,Hilton Garden Inn Riyadh Olaya,"Olaya St، Al Olaya, Riyadh 11543 11454, Saudi Arabia",3.8,2427
+312589,Executive Suites,"Prince Muhammad Bin Abdulaziz Rd, Al Olaya, Riyadh 12331, Saudi Arabia",3.9,741
+312590,Sanam Hotel Suites - Riyadh,"طريق خريص , منطقة العليا، Riyadh 31311, Saudi Arabia",3.6,1472
+312591,Hotel Al Khozama,"Olaya Rd., Riyadh 11491,Saudi Arabia",4,1331
+312592,Hotel Novotel Suites Riyadh Olaya,"Olaya Main Street, Al Olaya, Riyadh 12221, Saudi Arabia",4.3,3621
+312593,Mena Andalusia Riyadh,"Street 6, Riyadh 12211, Saudi Arabia, Al Olaya, Riyadh, Saudi Arabia",3.4,2042
+312594,Rio hotel,"شارع 40 من شارع العليا , Al Olaya, 12212 Riad, Arabia Saudí",4,418
+312595,"Novo Hotel, Riyadh"," Olaya Street, Al Olaya, 12211 Riyadh, Saudi Arabia",4.5,493
+312596,Rosh Rayhaan by Rotana,"Al Olaya Street, P.O. Box 9295, Riyadh, Saudi Arabia",4.5,7937
+312597,Novotel Riyadh Al Anoud Hotel,"9033, King Fahd Road Tower 1, PO Box 2370 12214, OLAYA, RIYADH, SAUDI ARABIA",4.2,6277
+312598,Al Fahd Hotel,"Olaya General St,, Al Olaya, Riyadh 11543, Saudi Arabia",3.9,3093
+312599,Bazil Hotel Suites,"2504، Al Olaya, Riyadh 12244, Saudi Arabia",3.2,104
+312600,Hotel Novotel Suites Riyadh Dyar,"90 Off Olaya Street, P.O Box 305988, 11361, Riyadh, Saudi Arabia",3.6,1876
+312601,Rukon Buyutat 15,"Al Olaya. Al Wara st., Al Olaya, Riyadh 11543 11564, Saudi Arabia",3.6,460
+312602,Hyatt Buyutat Apartment,"Olaya Street, Riyadh Saudi Arabia",3.7,127
+312603,"Holiday Inn Riyadh - Meydan, an IHG Hotel	","King Fahd Rd, Al Olaya, Riyadh 11543 11415, Saudi Arabia",4.1,4877
+312604,Almuhaidb Al Diwan,"King Fahad rd, Behind Black Box, Al Olaya, Riyadh 12213, Saudi Arabia",3.2,400
+312605,Boudl Al Faisaliah,"Olaya Road, 12222, Al Olaya, Riyadh, Saudi Arabia",3.9,1438
+312606,Al Muhaidb Tahliya Olaya,"Olaya Road - Behind Samba Bank, Riyadh 31311, Al Olaya, Riyadh 12212, Saudi Arabia",4.8,1337
+312607,"Mandarin Oriental Al Faisaliah, Riyadh","P.O. Box 4148, King Fahad Rd., Olaya, Riyadh, 11491, Saudi Arabia",4.5,6108
+312608,Boudl Khurais Hotel,"Olaya Main Road With Khurais Street Intersection, Al Olaya, Riyadh 11543, Saudi Arabia",3.3,981
+312609,Carawan Al Fahad Hotel,"Orouba st. with king Fahed Road، Al Olaya, Riyadh 12333 11565, Saudi Arabia",3.9,3093
+312610,Holiday Inn Riyadh - Al Qasr,"Olaya District, King Fahd Road, Pob 8145, Riyadh, 11482, Saudi Arabia",4.1,6807
+312611,Days Hotel by Wyndham Olaya Riyadh,"Olaya Street Ibrahim Al Khayyari, connecting Olaya and King Fahad Road, PO Box 295932 Riyadh, 11351, Saudi Arabia",3.7,145
+312612,Hyatt Buyutat,"Riyadh , Olaya Main Road، الرياض Saudi Arabia",3.7,127
+312613,Al Janadriyah 10,"Al Wara, Al Olaya, Riyadh 11543 11564, Saudi Arabia",4.4,4960
+312614,Haven Plaza Hotel,"Olaya St, Al Olaya, Riyadh 12221, Saudi Arabia",3.4,1023
+312615,Braira Hotel," Olaya Street 26, Olaya District, Riyadh, Kingdom of Saudi Arabia",4.4,6249
+312616,Narcissus Riyadh Hotel & Spa,"Olaya Street, Corner Tahlia Streets, P.O. Box 75, Riyadh, 11372, Saudi Arabia ",4.5,14693
+312617,Holiday Inn Riyadh - Olaya,"11547 Olaya St, Al Muruj, Riyadh 12281 11547, Saudi Arabia",4.2,5992
+312618,Hotel ibis Riyadh Olaya Street,"Al Olaya Street، العليا، الرياض 12244, Saudi Arabia",3.8,4365
+312620,Aquarium Hotel Riyadh,"Prince Musa Ed Bin Abdulaziz Bin Jlouwi, 11432, Al Murabba, Riyadh, Saudi Arabia",4,738
+312621,ALmuhaidb Downtown,"King Faisal St with King Fahd Next Bank Arabia, 12623, Riyadh, Saudi Arabia",4,1063
+312622,Swiss Spirit Resort Riyadh,"King Fahed Road, Abi Zarah Street, P.O.Box 7142, Riyadh, Saudi Arabia",4.1,1012
+312623,Hayat Al Riyadh Hotel,"Abdul Aziz Bin Mesaed Bin Julawi, Riyadh, 15941, Saudi Arabia",4.1,1395
+312624,Hayat Alriyadh Washam Hotel,"Al Washam Street, Al Riyadh, 13222, Riyadh, Saudi Arabia",4.5,1195
+312625,Aquarium Hotel,"P.O.Box 5532 Riyadh 11432، Riyadh 11432, Saudi Arabia",4,738
+312626,Grand Plaza Dhabab Hotel,"Prince Faisal Bin Turki Bin Abdulaziz St, Al Murabba, Riyadh 12612, Saudi Arabia",3.8,1564
+312627,Almakan Hotel 105,"King Fahd Road - Behind The Immigration Department, 99999* Riad, Arabia Saudí",2.6,142
+312628,Crowne Plaza Riyadh Palace,"Prince Abdul Rahman Bin Abdul Aziz St., Ministries Area, P.O. Box 2691, Riyadh, 11461, Saudi Arabia",4.4,6694
+312630,Best Western Plus Fursan,"Eastern Ring Rd, Near Al Khaleej Training and Education، King Abdullah, Riyadh. 12426, Saudi Arabia",4.2,1122
+312631,Vittori Palace Hotel and Residences,"Al Wedian Al Urubah Road, king Abdullah Dist, Riyadh, 12426, Saudi Arabia",4.2,2997
+312632,Radisson Blu Hotel Riyadh Convention and Exhibition Center,"Rey Abdullah Ibn Abdulaziz Rd, King Abdullah Dist, Riad, Arabia Saudita",4.6,2837
+312635,Boudl Gaber Hotel,"4308, Al Khaleej, Riyadh 13224, Saudi Arabia",4.1,1237
+312636,Ewaa Express Hotel - Gaber,"8696 Shaikh Jaber Alahmed Alsabah, Al Khaleej, Riyadh, 13224, 11553, Riyadh, Saudi Arabia",4,886
+312637,La Perla Hotel,"Sheikh Jaber Al-Ahmad Al-Sabah Street, 9018, Riyadh, 13216, Saudi Arabia",3.9,333
+312638,Silent Room 2,"Shaikh Jaber Alahmed Alsabah, 13224, Riyadh, Saudi Arabia",4.5,17981
+312639,Dorar Darea Hotel Apartments - Al Malqa 2,"Nawar Valley Street, Al Malqa District, 31311, Riyadh, Saudi Arabia",3.5,258
+312640,Asfar Plaza Hotel & Apartments,"Muhammad Iben Abdulaziz Ad Daghaythir, 11416, Riad, Saudi Arabia",3.8,248
+312641,Aram House Hotel Apartments,"430, From King Fahad Road, 13521, Riyadh, Saudi Arabia",4.8,1337
+312642,Doolv Hotel,"4075 Nawar Valley, Almalqa District, Wadi Nuwwar, 31991, Riyadh, Saudi Arabia",3.7,809
+312643,Doolv Hotel 2,"Almalqa district , Al umrah street, 31991, Riyadh, Saudi Arabia",3.7,809
+312644,OYO 160 Dotel Suites,"Nawar Valley 12, 11111 Riad, Arabia Saudí ",3.6,304
+312645,"Elite Suites Hotel, almalqa","Muhammad Ibn Abdulaziz Ad Daghaythir, Al Malqa, 13521 Riyadh, Saudi Arabia",4,1197
+312646,Celine Home Hotel,"Al Umrah St, Al Malga District, 13521, Riyadh, Saudi Arabia",4.3,1263
+312647,Masaken Al Naifat Furnished Units,"Almalqa District, 11322, Riyadh, Saudi Arabia",4,326
+312648,Almakan Suites 111,"South Circular Road 4351, 14711, Riyadh, Saudi Arabia",4.8,1324
+312649,VOYAGE RESIDENCE,"Al Ahamda St. Hittin, 13523, Riyadh, Saudi Arabia",4.6,111
+312650,Menaa Suites,"King Fahad Road Al Malqa District, Al Omrah Street, Al Malqa, Riyadh 13521, Saudi Arabia",2,69
+312651,topaz almalga,"Muhammad Ibn Abdulaziz Ad Daghaythir, 86521, Riyadh, Saudi Arabia",4.5,117
+312652,180 Degrees Hotel Almalqa,"3600 Muhammad Ad Daghaythir, 13521, Riyadh, Saudi Arabia",3.9,680
+312653,Aknan Al Malqa Furnished Units,"Wadi Al Noor Street, Al Malqa, 13521, Riyadh, Saudi Arabia",3.8,434
+312654,Daryah For Hotel Apartments (Al Malaqa),"Al Malaqa District, Mohammed Al Deghaither Street, Riyadh Saudi Arabia",3.5,258
+312655,Vera Hotel,"Al Hanan, Al Malqa, Riyadh 13521, Saudi Arabia",4.2,1286
+312657,Viola Gardens,"2813 Prince Saud Ibn Muhammad Ibn Muqrin In Front of Gate 2 of Imam Muhammad Ibn Saud University, 11485 Riad, Arabia Saudí ",3.9,806
+312658,Burj Alhayah Hotel Suites Alfalah,"prince saud bin mohamed bin maqran Exit 7 Al Falah district ., 13314 Riad, Arabia Saudí",3.7,869
+312659,Rwaq- AlFalah,"Al Falah Area Exit 7, AlFalah, 11564, Riyadh, Saudi Arabia",3.7,857
+312660,Clowzer Hotel Appartments," Uthman Ibn Affan Road 13313, 13313 Riyadh, Saudi Arabia",3.9,242
+312661,SAMAYA APARTMENT 1,"Al Hamra, Al Baraka st., 13434, Riyadh",4,483
+312662,Al Muteb Suites Al Falah 1,"Al Qana, 13314, Riyadh",3.5,145
+312663,Alyaa Home,"Shaikh Abdullah Al Makhdub St, Al Falah, 13314, Riyadh, Saudi Arabia",4.6,295
+312664,Al Muteb Suites Al Falah 3,"Uthman Ibn Affan Rd, Al Falah, 13314, Riyadh, Saudi Arabia",4.5,18000
+312665,Tura Residence,"Shaikh Abdullah Al Makhdub St, 13314, Riyadh, Saudi Arabia",4.5,18000
+312666,Almakan Hotel 104,"Exit 7, Othman Bin Afan Road, Riyadh, Saudi Arabia",2.6,142
+312667,Rest Night Hotel Suites- AL Falah,"AL Ta`awon, exit 6 Al Husien bin Ali street، Al Hussain Ibn Ali, At Taawun, Riyadh 13314, Saudi Arabia",3.4,772
+312668,Rafa Homes - Al Falah,"Alfalah District, Al barakah Street, Riyadh Saudi Arabia",3.7,857
+312669,Janatna Furnished Apartments,"Al Falah District, Othman Street, Exit 7، Al Falah, Riyadh 13314 11187, Saudi Arabia",3.5,145
+312670,Merfal Hotel Apartments Al Falah,"Prince Saud Ibn Mohamed Ibn Muqrin , Al Falah District، Prince Saud Bin Mohammed Bin Muqrin Rd, Al Falah, Riyadh 13314, Saudi Arabia",3.5,572
+312671,مساكن رفاء | Rafa Homes,"شارع الميزان حي الفلاح، Al Falah, Riyadh 13314, Saudi Arabia",3.7,857
+312672,Rayatna for Furnished Apartments 2 (رايتنا للوحدات السكنية (الفلاح)),"2632 Shaikh Abdullah Al Makhdub St, Al Falah, Riyadh 13314, Saudi Arabia",0,0
+312673,Rokn Al Omor Apartments - Al Falah,"Al Barakah Street , Al Falah District، Al Falah, ริยาดห์ 13314 11564, Saudi Arabia",3.2,69
+312674,Executives Hotel -  KAFD,"King Fahad Branch Rd, Al Aqiq, Riyadh 13511, Saudi Arabia",4.1,4231
+312675,Taleen AlAqiq hotel apartments,"Prince Saud Bin Mohamed Bin Meqren Road, Riyadh, Saudi Arabia",4.5,18000
+312676,Pestana Hotel & Suites 2,"Al Tahlia Street, Al Aqeeq District, 11461, Riyadh, Saudi Arabia",4,732
+312677,Grand Plaza Hotel-King Fahad Riyadh," riyadh king Fahad Riyadh, 01153 Riad, Arabia Saudí ",4,1595
+312678,Land Beach Al Aqiq,"Sulaimaniyah Street, Al Aqiq District, 13515, Riyadh, Saudi Arabia ",3.7,264
+312679,Al Farhan Hotel Suites Al Aqiq,"King Fahd Road, North Al Qassim Road, 13515, Riyadh, Saudi Arabia",3.3,480
+312680,HDB HOTEL- FINANCAL DISTRICT,"King Fahd Rd, 13515, Riyadh, Saudi Arabia",4.1,3212
+312681,Mabaat - Suitey Al Aqiq - 559,"8177 Abdullah Ibn Dhahlan, Al Aqiq, 13511, Riyadh, Saudi Arabia",4,1
+312682,Rafa,"The King Fahd Road- Al Aqueeq, 11324, Riyadh, Saudi Arabia",3.7,253
+312683,Al Muteb Suites Qasr Alaqiq,"King Fahad Branch Rd, 13515, Riyadh, Saudi Arabia",4.8,1324
+312684,Rayatna For Furnished Apartments 1,"Al Ageeg, king Fahd District, Al Aqiq, Riyadh 13515 11178, Saudi Arabia",4,8
+312685,Pestana Hotel & Suites,"الرياض حي العقيق - شارع محمد بن دخيل، Al Aqiq, Riyadh 13515 11461, Saudi Arabia",4.2,360
+312695,Boudl Al Munsiyah,"Al Munsiyah, 13422, Riyadh, Arabia Saudí",4,4533
+312696,Aber Al Munsiyah ,"Al Munsiyah District , 11372 Riad, Arabia Saudí",4,1738
+312697,Danat Alkhaleej Hotel,"11331 Dammam Rd, 13243, Riyadh, Saudi Arabia",4.4,35
+312698,Al Muteb Suites Al Yarmouk 2,"Dammam Rd, Al Yarmouk, 13313, Riyadh, Saudi Arabia",0,0
+312699,Al Muteb Suites Al Munsiyah,"Asir, Al Munsiyah, 13246, Riyadh, Saudi Arabia",0,0
+312700,Aknan Hotel Appartments,"Mohammed Al Barqi, 13253, Riyadh, Saudi Arabia",4.5,17981
+312701,Aber 103 Al Mounisya,"Ath Thumamah Road, Riyadh",4,1738
+312702,Luxury Night Hotel,"Al Munsiyah, Riyadh, 13246, Riyadh Province, Arabia Saudita",4.2,783
+312703,Tooq Suites,"Rajia, Al Munsiyah, Riyadh 13246, Saudi Arabia",3.9,358
+312704,Summerland Suites,"North Ring Road - Al Monesiya, Near Exit 8، Al Munsiyah, Riyadh 13246, Saudi Arabia",3.1,61
+312705,Centro Waha,"Olaya Street, Al- Murooj District, P.O. Box 103617, Riyadh, Saudi Arabia",4.2,5335
+312706,Sama Al Qaser Hotel Apartments,"Prince Turky Bin Abdulaziz, 31311, Riyadh, Saudi Arabia",3.4,779
+312707,Motiara Hotel,"Tamir Street, Al Murouj District, 11375, Riad, Saudi Arabia",4.4,3610
+312708,Courtyard by Marriott Riyadh Northern Ring Road,"Olaya Street, Al Murooj District, Northern Ring Road, PO Box 4050, Riyadh, 11491, Saudi Arabia",4.3,1377
+312709,Hospitality Path Serviced Apartments,"Urweh Bin Werd Street, Al Muruj District, 12634 Riyadh, Saudi Arabia",3.7,258
+312710,Aknan Al Morooj Furnished Units,"Prince Abdul Mohsin Bin Jalawi Street, 12284, Riyadh, Saudi Arabia",4,716
+312711,DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate,"Northern Ring Rd, Al Wadi Ar Riyadh, Riyadh, 11552, Saudi Arabia",4.1,6342
+312712,Merfal Hotel Apartments Al Murooj,"Al Muruj, Riyadh 12282, Saudi Arabia",3.4,367
+312713,Boudl Al-Morouj,"Al Muruj, Riyadh 12284, Saudi Arabia",3.7,381
+312714,Revan Palace,"Cross Shekh Jaber Street with Prince Bander Street , behind Al Riyadh Bank، Ashaikh Jaber Alahmed Alsabah, An Nahdah, تقاطع طريق الشيخ الجابر الصباح مع شارع الأمير بندر بن عبدالعزيز - خلف بنك الرياض، Riyadh 13222, Saudi Arabia",4.1,711
+312715, Marriott Riyadh Diplomatic Quarter,"6781 Abdullah AlSahmi Street, Diplomatic Quarter, Riyadh, 12511, Saudi Arabia",4.5,2328
+312716,"Radisson Blu Hotel & Residence, Riyadh Diplomatic Quarter","Umro Adhamry Street, As Safarat 7826, 12512, Riyadh, Saudi Arabia",4.7,2258
+312717,Riyadh Diplomatic Quarter - Marriott Executive Apartments,"6781 Abdullah AlSahmi Street, Diplomatic Quarter  Riyadh, 12511 Saudi Arabia",4.5,2328
+312719,OYO 126 Dome Suites Al Mursalat,"Street # 2 and 3, Wasel Post Section 4, 12245, Riyadh, Saudi Arabia",3.3,436
+312720,AlMuteb Suites Al mursalat,Abdulaziz Aba Hussain  Al Mursalat Riyadh 11564 Saudi Arabia Abdulaziz Aba Hussain  Al Mursalat Riyadh 11564 Sa  Riyadh  Saudi Arabia,3.8,375
+312721,Mandarin Hotel Apartments,"طريق الامام سعود بن عبد العزيز , حى المرسلات، Al Imam Saud Ibn Abdul Aziz Branch Rd, Al Mursilat, Riyadh 12463, Saudi Arabia",4.4,537
+312730,Noor Amal Hotel Apartments As Sulay,"11679 Abu Ubaydah Amir Ibn al Jarrah, As Sulay, Riyadh 14267 11679, Arabia Saudita",3.8,413
+312731,Corp Inn Deira.,"7272 Al Batha, Ad Dirah, Riyadh 12633, Saudi Arabia",3.6,395
+312732,Four Points by Sheraton Riyadh Khaldia,"Imam Faisal Bin Turki Street, PO Box 817, Riyadh, 11421, Saudi Arabia",4.1,5818
+312733,OYO 268 Durrat Alamaken Furnished Apartments,"Umar Ibn Abdul Aziz Road, Jarir District, 11312, Riyadh, Saudi Arabia ",4.2,148
+1165561,Rayhana oasis,"Zaid Ibn Thabit, Az Zahra, 12811, Riyadh, Saudi Arabia",4.8,1324
+1165562,Al Eairy Apartments - Al Riyad 4,"Al Aziziyah, 52261 Riyadh, Saudi Arabia, Riyadh City , Riyadh , Saudi Arabia",2.2,47
+1165563,Al Amoria Apartments,"Ulaishah District, Alimam Abdulaziz Ibn muhammed Ibn Saud Street، Ulaishah, Riyadh 12742 12746, Saudi Arabia",3.5,239
+1165564,Vivienda Hotel Villas Turki Al Awal,"Al Maather area, Prince Turki Al Awal street, intersection with Prince Mohammad Street, Riyadh, Ksa",4.2,620
+1165565,"Dormira Hotel	","2317, 42 Street, As Sahafa District, 13515, Riyadh City , Riyadh , Saudi Arabia	",4.4,3610
+1165566,Novotel Riyadh Sahafa,"13321 Olaya Street, As Sahafa District Riyadh, 0, Arabia Saudita ",4.8,1114
+1236562,Rio Hotel Olaya," شارع 40 من شارع العليا , Al Olaya, 12212 Riad, Arabia Saudí ",4,418
+1236563,Ashaad Al-Tahliah Hotel and Suites,"Riyadah , Olaya Area , Olaya Street، الرياض Saudi Arabia",3.1,387
+1236565,topaz suites,"6595 Al Methneb Street, 13314, Riyadh, Saudi Arabia",4.4,3607
+1625121,Tulip Inn Modon Riyadh Hotel,"New Industrial Area - Street 201 Building No.0020, 11491, Riad, Saudi Arabia",4,107
+1625122,AlMuhaidb For Hotel Apartments 24,"Al Suwide District, Exit 24, 11522, Riyadh, Saudi Arabia",4,326
+1625123,AlMuhaidb AlMalaz - AlJamiah,"Al Jamiah Street, Al Malaz, Al Malaz, 11461 Riyadh, Saudi Arabia",3.4,714

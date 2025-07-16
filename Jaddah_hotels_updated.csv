@@ -1,0 +1,532 @@
+id,name,address,rating,review_count
+29805,Lujain AL Gharbyah Furnished Units,"Alfalah District, Alharamain Road، Al-Hamadaniyah, Jeddah 23762 23736, Saudi Arabia",3.8,539
+29806,Alharirah Furnished Units (Families Only),"Amru Ibn Kalthum Street, Alfaisaliah District, Al Faisaliyah, Jeddah 23447, Saudi Arabia",3.6,28
+29807,Happy Beach Group - Al Basatin,"Al Basatin district, Jeddah Saudi Arabia",3.6,298
+29808,Worood Al Safawa Villas & Suites,"Sari Street , Al Salama District, Jeddah Saudi Arabia",3.4,514
+29809,Monarch Jeddah Hotel Apartment,"Hira St, Al-Nuzhah, Jeddah 23534, Saudi Arabia",3.5,685
+29810,Sands Hotel,"2868 Abdul Rahman At Tubayshi, Al Andalus, Jeddah 23326, Saudi Arabia",3.7,3626
+29811,Abahi Apartment ( أباهي للأجنحة الفندقية ),"Al Naseem St, Al Naseem, Jeddah 23233, Saudi Arabia",4.7,650
+29812,"Landmark International Hotel, Prince Sultan, Jeddah","Arid Ibn Mahshi Street, Prince Sultan Road, Jeddah, 23425, Saudi Arabia",3.8,598
+29813,Blue Night Hotel,"Hira St, Ash Shati, Jeddah 23513, Saudi Arabia",3.6,42
+29814,Western Lamar Hotel,"Al Naseem, Jeddah 23233, Saudi Arabia",4.1,1860
+29815,Novotel Jeddah Tahlia Street Hotel,"Prince Mohammed Bin Abdulaziz Street P O Box 13147 Jeddah, 21493,JEDDAH, SAUDI ARABIA",4.4,6459
+29816,Burj Al Balad Hotel Apartment,"Jeddah 21589, Saudi Arabia",3.1,812
+29817,Hayat Heraa Hotel,"Fahd Bin Zair Street, Al Zahra District 4, 41531, Jeddah, Saudi Arabia",4.0,628
+29818,Konoz Al-Yam Hotel,"أحمد الطيب، Ash Shati, Jeddah 23411, Saudi Arabia",4.0,777
+29819,Al Balad Inn Corniche,"Prince Faisal Bin Fahd, Ash Shati, Jeddah 23511, Saudi Arabia",3.5,468
+29820,Casablanca Grand Hotel," Madinah Road ,infront of Mall of Arabia, 21481 Yeda, Arabia Saudí",4.4,4994
+29821,Alandalus Mall Hotel - Jeddah,"8829 Al Amir Majid Road, Al Faiha District, Jeddah, 22245-3380, Saudi Arabia",4.3,3561
+29822,Crown Town Hotel,"Kurnaish Rd., Al Uqsur St. Opp.Jeddah Municipality, Jeddah, Saudi Arabia",4.0,2551
+29823,Spectrums Residence Jeddah,"Al Salamah District, Prince Sultan Road, Jeddah, Saudi Arabia",4.0,695
+29824,"The Ritz-Carlton, Jeddah","P.O. BOX 13344, Al Hamra District Jeddah, 21493 Saudi Arabia",4.6,13695
+29825,"Radisson Blu Hotel Jeddah, Al Salam","Quraysh Road, Al Salamah District, Al Salamah, 21411 Jeddah, Saudi Arabia",4.6,6837
+29826,"The Hotel Galleria Jeddah, Curio Collection by Hilton","3131 Rahmat Al Islam, Al Andalus District, Jeddah 23326 9179 Rahmat Al Islam, Al Andalus District, Jeddah 23326 9179, Arabia Saudita",4.5,4421
+29827,Prime Hotel Al Hamra,"Al Iskandariyyah St., Al-Hamra, Jeddah, 23212, Saudi Arabia",4.1,2865
+29828,Platinum Boutique,"Ahmed Bin Usayb Street , Al Naeem District, 21944, Jeddah, Saudi Arabia ",4.0,931
+29829,La Fontaine Al Safwah Suites,"7044 Umm Al Qura, As Safa District, 52935, Saudi Arabia, SA",4.1,227
+29830,Frontel hotel,"Alqndeel, Al Aziziyah, Jeddah, 23334, Saudi Arabia",4.3,1740
+29831,Al Rawda Hotel,"Al Rawda Dst. King Fahd Road, Makkah, Arabia Saudi",4.5,7120
+29832,Mira Hotel Prince Sultan Road Jeddah,"PRINCE SULTAN ROAD , AL NAHDAH DISTRICT, JEDDAH 48385",3.0,891
+29833,Al Jouri Hotel,"Al Imam Al Bukhari, Al Basateen,Abḩur al Janūbīyah, 21583 Jeddah, Saudi Arabia",3.9,332
+29834,"Radisson Blu Hotel, Jeddah Corniche","Corniche Road, Ash Shati District, Jeddah, 21452, Saudi Arabia",4.6,6292
+29835,Delmon Hotel Jeddah,"PRINCE SULTAN STREET, JEDDAH 21433, Makkah province , Saudi Arabia",3.3,331
+29836,Jory Boutique,"Prince Sultan Street | AL Salamah District, Jeddah, Arabia Saudita",4.6,442
+29837,Warwick Hotel Jeddah,"Al Naseem, King Abdullah Road Al Naseem Al-Balad Jeddah, Saudi Arabia",4.2,3596
+29838,Narcissus Resort & Spa Obhur Jeddah,"PRINCE ABDULLAH ALFIASAL STREET 7636, JEDDAH 23811",4.3,6132
+29839,Protel Jeddah Hotel,"Al Uqsur St , Al-Hamra'A, Al Hamra District, Yidda, Arabia Saudí",3.6,518
+29840,Odst Hotel Suites,"Sari Street , Al Bawadi District, Jeddah, Saudi Arabia",3.6,312
+29841,Centro Salama Jeddah by Rotana,"Al Madinah, Al Munwarrah Street, Jeddah, Saudi Arabia",4.5,6702
+29842,TIME Beach Villas Resort,Jeddah Saudi Arabia,3.9,666
+29843,Grand Park Hotel,"Quraish Street, Al Salama District, Jeddah 23437, Arabia Saudita",4.0,1632
+29844,AlMuhaidb Residence Jeddah,"Unnamed Road, Al Hamra, 19212 Yeda, Arabia Saudí",4.1,369
+29845,Waldorf Astoria Jeddah - Qasr Al Sharq,"North Corniche Road, PO Box 7079, Jeddah, 21462, Saudi Arabia",4.6,1045
+29846,Sheraton Jeddah Hotel,"North Corniche, Jeddah 21424, Saudi Arabia",4.2,7445
+29847,"Radisson Blu Hotel, Jeddah","Medina Road, PO Box 8483, Jeddah, 21482, Saudi Arabia ",4.6,6837
+29848,Crowne Plaza Jeddah,"Al Corniche- Al Ma'adi Road, Al-Hamra'a, Jeddah 23212 21443, Saudi Arabia",4.5,8303
+29849,Al Bustan,"Al-Sharafeyah, Jeddah 23218, Saudi Arabia",3.9,392
+29850,EKONO by Leva Jeddah Airport Hotel,"7586, ISMAIL IBN KATHIR, JEDDAH, 23717, Saudi Arabia	",3.7,745
+29851,Rose White Hotel,"66753 Sari, AR Rawdah District, Al Rawda, 66753, Jeddah, Saudi Arabia",3.8,896
+29852,Beyab Al Hamra,"Hussain Basalah Street, Jeddah, Saudi Arabia",4.1,2863
+29853,Boudl Hera'a,"Hera'a Street,, Al Nahdah, Jeddah 23523, Saudi Arabia",3.9,1779
+29854,Al Nabarees Palestine Hotel,"Palestine St., Palestine Street, Saudi Arabia",3.0,14
+29855,Swiss Blue Hotel,"3971 Abdullah Kadhim, 23425, Yeda, Saudi Arabia",4.0,903
+29856,Elaf Suites Al-Andalus,"Al Andalus Road, Fayd Al Rahmah street, 21442, Jeddah, Saudi Arabia",4.1,797
+29857,Al Baia Hotel,"Al Balad, 21422, Yeda, Saudi Arabia",3.4,316
+29858,Rose AlSalam Hotel,"An Naim District 9114, 21323, Jeddah, Saudi Arabia",3.3,442
+29859,Diouf Al Nabarees Hotel,"6562 Al Jamiah, Ath Thaghr District, 22338, Jeddah, Saudi Arabia",3.5,2031
+29860,Konal suites,"Al Hamra, 22233, Jeddah, Saudi Arabia",3.8,509
+29861,Velvet Hotel,"Azizyah district, King Fahad Branch Road, 21361, Yeda, Saudi Arabia",4.0,1915
+29862,AL Reehan Homes Furnished Units,"JEDDAH, 20376, Jeddah, Saudi Arabia",3.9,336
+29863,OYO 589 Lavina House,"NA, Prince Sultan Road, Al Basateen, Jeddah",2.9,161
+29864,Jiwar Hotel,"Al Naseem Street 6533, 23233, Jeddah, Saudi Arabia",4.2,719
+29865,Boudl Quraish,"Quraish Street, Al Salamah District , Al Salamah, 11372, Jeddah, Saudi Arabia ",4.1,1421
+29866, Q Suites Jeddah by EWA,"Al Rawdah district, PO Box 9531 , Jeddah, Saudi Arabia",3.9,733
+29867,Al Muhaidb Palastine,"Falastain Street - near Sulaiman Faqih Hospital, Al Hamra, 21411, Jeddah, Saudi Arabia",3.9,798
+29868,Three Points Hotel,"Al Ham'mra District, Muhyi Ad Din An Nadhir, Al Hamra, 23212, Jeddah, Saudi Arabia",4.1,768
+29869,AlMuhaidb Sixty Hotel Apartment II,"Falastin Street with Al Setin, King Fahed Road, Jeddah, Saudi Arabia",4.7,116
+29870,Al Eairy Furnished Apartments - Jeddah 1,"Falastin, 52261 Jeddah, Saudi Arabia ",3.0,4
+29871,Al Eairy Furnished Apartments - Jeddah 2,"Falastin Street, 52261, Jeddah, Saudi Arabia",2.8,237
+29872,Al Eairy Apartments - Jeddah 4,"King Fahd Road, 52261, Jeddah, Saudi Arabia",3.0,4
+29873,The Artisan Hotel,"Hira St., Next to Manuel, Jeddah, Saudi Arabia",4.3,685
+29874,Oasis Rise Hotel Apartments,"6945 Ar Rayyan, Mishrifah Dist., Jeddah, Saudi Arabia",4.0,55
+29875,Al Nabarees Palace Hotel,"Al Madinah Al Monawarah Rd., Al Faisaliah, 23442, Jeddah, Saudi Arabia",3.5,2031
+29876,Dar Al Wedad Hotel,"3311 Sultan Ibn Salman, An Nuzhah District., 21512, Jeddah, Saudi Arabia",3.9,1398
+29877,City Center Plaza Aparthotel,"Abi alabbas Alhadithi Street, Alnaseem District, 23233, Jeddah, Saudi Arabia",3.7,881
+29878,Al Tamayouz Al Raqi 10 Taj Sabaa,"Ba Khashab Street, Jeddah, Saudi Arabia",4.7,3
+29879,Bram Hotel Suites,"Prince Mutaib bin Abdulaziz Road, 21351, Jeddah, Saudi Arabia",4.2,1239
+29880,Hyatt House Jeddah Sari Street,"Sari Street West, Al Salama District, 23436, Jeddah, Saudi Arabia",4.3,1857
+29881,La Fontaine Al Jawharah Suites,"Al-Hamadaniyah District, 21442, Jeddah, Saudi Arabia",4.0,35
+29882,Jazli Hotel Suites,"7804 Al Khateeb Al Tabrizi St., Al Bawadi District, 23443, Jeddah, Saudi Arabia",3.7,164
+29883,Semac For Furnished Suites,"Qasim Zinah, 23434, Jeddah, Saudi Arabia",4.0,419
+29884,Mais Jeddah Suites 1,"Prince Mutaib bin Abdulaziz Road, 21442, Jeddah, Saudi Arabia",3.3,304
+29885,Rawabi Green Palace,"Prince Mutaib Street 40th, Building 6302, 21425, Jeddah, Saudi Arabia",3.3,76
+29886,Loren Suites Corniche,"2516 CORNICHE STREET, 23412, Jeddah, Saudi Arabia",3.9,847
+29887,Fakhamet Al Hamra Hotel Apartments,"Al Uqusur St., Al Hamra District, 23211, Jeddah, Saudi Arabia",3.3,509
+29888,Green Leaf Hotel,"2593 Quraysh, 23443, Jeddah, Saudi Arabia",3.9,1151
+29889,WOW JEDDAH HOTEL,"Mohamed Zidan, Al - Naim, 23526, Jeddah, Saudi Arabia",4.3,641
+29890,Dunes,"Al Bawadi, Sary Road, Al-Bawadi District, Next to Hyper Panda, 22321, Jeddah, Saudi Arabia",3.9,203
+29891,Ocean Hotel,"Heraa street - Jeddah building 3658, An Nuzhah district, 23542, Jeddah, Saudi Arabia",3.8,507
+29892,Address Al Hamra,"Al Uqsar Street, Al Hamra District, 21382, Jeddah, Saudi Arabia",4.1,2864
+29893,OYO 125 Al Hamra Palace,"Al Hamra District, Falastin Street, Al Hamra, 23212, Jeddah, Saudi Arabia ",3.4,649
+29894,Quiet Dreams - Al-Murjan Branch,"Al Murjan Street, Al Murjan District, 21433, Jeddah, Saudi Arabia",3.9,448
+29895,Hotel ibis Jeddah Malik Road,"Malik Road, Beside Anb Bank, 21352, Jeddah Saudi, Arabia",4.3,4199
+29896,Iridium 70 Hotel," Prince Majed Road, Jeddah, Saudi Arabia",4.3,2549
+29897,Mövenpick Hotel Tahlia Jeddah,"Hail Street, Al Andalus, 8749, Jeddah, Saudi Arabia",4.6,2943
+29898,Lafontaine Najd Suites," Al Hamra'a District, Al Iskandariayyh Street, Al Hamra, 23212, Jeddah, Saudi Arabia ",3.9,366
+29899,La Fontaine Safd Suites,"Al Salamah District opposite to Institute of Education, Al Salamah, 99999 Jeddah, Saudi Arabia",4.1,227
+29900,City View Hotel by Crown Town,"6691 Um Al Momeneen Habeeba st al Naseem district in front of Jeddah Train Station, 23233, Jeddah, Saudi Arabia ",3.8,253
+29901,THREE POINTS AL SALAMA,"As Salamah District, Sulayyman Al Halabi Street, Al Salamah, 23436 Yeda, Arabia Saudí ",4.1,768
+29902,Shada Hotel Salama,"Al-Madina Road- Quraish Bridge, Al Salamah, 21511, Yeda, Arabia Saudí ",4.4,1731
+29903,Crowne Plaza Jeddah Al Salam,"7755 Prince Sultan Road, Al-Muhammadiyah District, P.O. Box 127314, Jeddah, 21352, Saudi Arabia",4.9,9690
+29904,OYO 128 Al Hamra Palace 1,"King, ِAbdullah Road , 21573 Yeda, Arabia Saudí ",3.4,649
+29905,OYO 180 Asdaa Al Rahah Hotel Suites,"Near Al Mujtama Modern Pharmacy, Jeddah, Makkah province , Saudi Arabia",3.6,9
+29906,OYO 205 Golden Jwan Furnished Apartments 1,"Madain Al Fahd District, Al Falah Street, 21452 Yeda, Arabia Saudí ",3.9,157
+29907,OYO 217 Nesmt Almagreb," 1, 6704 Al Istad Ar Riyadi, Madain Al Fahd District, Jeddah 22347 3470, Saudi Arabia, Jeddah, 22347, Jeddah, Saudi Arabia ",4.1,61
+29908, Adagio Aparthotel Jeddah Malik Road,"Malik Road Jeddah 21352, Besides Arab National Bank, 126001, 21352, Jeddah, Saudi Arabia",4.4,1259
+29909,Al Eairy Apartments - Jeddah 5,"Street 52, 52261, Jeddah, Saudi Arabia",2.8,396
+29910,Rawda Residence Hotel,"Bicycle Roundabout Al Faisaliyah, 13412 Yeda, Arabia Saudí",4.3,682
+29911,Carawan Hotel Jeddah,"21436, Muhammad Zaydan, Al Naeem, Jeddah, Saudi Arabia",4.3,303
+29912,Al Eairy Apartments Jeddah 3,"Sultan Ibn Salman, An Nuzhah District, 52261, Jeddah, Saudi Arabia",3.0,4
+29913,Al Eairy Apartments - Jeddah 6,"Main Street, 52261 Jeddah, Saudi Arabia",3.0,4
+29914,Al Eairy Apartments - Jeddah 6,"Main Street, 52261 Jeddah, Saudi Arabia",3.0,4
+29915,Verta Jeddah Hotel,"Al Mohamadia District, P.O box 10010, 21433 Yeda, Arabia Saudí",3.6,477
+29916,Al Fahad Hotel Suites Al Tahliya,"Prince Mohamed Bin Abdul Aziz Road, Al Faisaliah District, 21433, Jeddah, Saudi Arabia",3.7,26
+29917,Mirada Purple - Obhur,"Umm Al Muaminin Maimunah Road, After Farsi 7 Towers, South Obhr, 21311 Yeda, Arabia Saudí ",3.8,1654
+29918,Capital O 183 Ahla Al Ayam Hotel,"3681 Abbas Hafidh, As Salamah District, Jeddah, Al Salamah, 23436, Jeddah, Saudi Arabia ",4.2,569
+29919,OYO 208 Roshan Hotel Suites Hera,"Hira Street, Al Naim District, 21442, Jeddah, Saudi Arabia ",4.0,4
+29920,OYO 211 Mayar International Furnished Units 1,"1, 4701, AR Rihab District, Jeddah 8193, 23344, Jeddah, Saudi Arabia",2.6,71
+29921,OYO 209 Mayar International Furnished Unit 2,"3860 Al Amir Muhammad Ibn Abdul Aziz Branch, 23453, Jeddah, Saudi Arabia",3.1,19
+29922,OYO 246 Hotel Hadeel Al Motamayezah,"hadeel, Al Naseem St, An Nasim District, Jeddah, 23233, Jeddah, Saudi Arabia ",2.8,47
+29923,OYO 274 Al Tamayoz Al Raqi 1,"Al Macrona Street , Al Azizyah District, 21422, Jeddah, Saudi Arabia ",2.0,1
+29924,Capital O 296 Jeddah Oasis Hotel,"jeddahoasis, As Sabil District, Jeddah, 22431, Jeddah, Saudi Arabia ",3.7,3
+29925,OYO 278 Taj Saba Furnished Units,"Taj Shaba, Dar Al Batkar, Ath Thaghr District, Jeddah, Arabia Saudí ",3.8,205
+29926,Salsabil By Warwick Corniche,"Al Ruwais District, Al Jazirah Street, 22231 Yeda, Jeddah, Saudi Arabia",4.2,3597
+29927,Diwan Residence Hotel- Alsalamah,"Nahdet Al Sharq, Al Salama District, Al Salamah, 53120, Yeda, Jedda, Arabia Saudí",4.0,953
+29928,Diwan Residence Hotel- ِAlnaeem,"Al Naeem Street, Al Naem DIstrict, 53120, Yeda, Jeddah, Arabia Saudí ",4.0,953
+29929,OYO 318 Azure Plaza Furnished Units,"Azur, Prince Mutaib bin Abdulaziz Rd, Al Marwah District, Jeddah, Saudi Arabia",4.0,2
+29930,OYO 321 Rafahiat Jeddah 2,"Rafahiat, King Fahad Road, An Nuzhah, Jeddah, Saudi Arabia",2.1,8
+29931,OYO 334 Taraf Jeddah Hotel,"Taraf Jeddah Hotel, 8030 Suwayd Ibn An Numan, As Safa District, Jeddah, 23454 3540, Jeddah, Saudi Arabia",3.3,4
+29932,Capital O 596 Garden Palace Hotel,"7586 Ismail Ibn Kathir, Al Basateen, Jeddah 23717, Saudi Arabia, Jeddah , Makkah province , Saudi Arabia",3.7,745
+29933,Vivid Hotel,"Hussain Basalamah, Al Hamra, 23212, Yeda, Arabia Saudí ",4.0,1013
+29934,Taj Jeddah Hotel Apartment,"Al Hamra District, Tabuk Street, Facing the Saudi Flag Roundabout",4.5,924
+29935,OYO 341 Sorooh Taibah Furnished Apartments,"Soorah Taibah, Abdulrahman Ghannam Street, Al-Bawadi District, Jeddah, Saudi Arabia",0.0,0
+29936,Kanz Residence,"Prince Sultan Road, Al Salamah, 23425 Jeddah, Saudi Arabia",5.0,1
+29937,Prestige Suite Hotel,"3534 Hira'a Street Prestige Suite, 23523, Jeddah, Saudi Arabia ",4.2,492
+29938,Dyar Al Hamra Hotel,"Al Mansurah 2703, Al Hamra, Jeddah, 23212, Saudi Arabia",3.9,2456
+29939,La Fontaine Nobel Suites,"Abdul Quddus Al Ansari As Sulaymaniyah District, 21589 Jeddah, Saudi Arabia",3.8,211
+29940,Lafontaine Diora Hotel,"2595 Muhyi Ad Din An Nadhir, Al Hamra, 23212 Jeddah, Saudi Arabia ",3.8,736
+29941,Ramada by Wyndham Continental Jeddah,"Palestine Street Corner Madinah Road, Jeddah, 21472, Saudi Arabia",4.0,4245
+29942,OYO 350 Dar Almadinah,"Hiraa Street, Al Nahda District, 23523, Jeddah, Saudi Arabia ",3.2,75
+29943,OYO 368 Al Hamra Palace Group Andalus,"Al-Ruwais, Jeddah, 23211, Jeddah, Saudi Arabia",3.9,30
+29944,Sansa Hotel,"As Salama District, Mohammed Abd Redah , Al Salamah, 21415, Jeddah, Saudi Arabia",4.0,432
+29945,OYO 317 Dheyouf Al Wattan For Furnished Suites,"Dheyouf, Ash Sharq, AR Ruwais District, Jeddah, Al Rawda, 23214, Jeddah, Saudi Arabia ",3.3,91
+29946,OYO 342 Dar Taibah Furnished Units,"80 Street , Al Rabwa District, 21411, Yeda, Arabia Saudí",3.8,1288
+29947,Hotel ibis Jeddah City Center,"P O Box 43356, Madinah Branch Road, Al Andalus, 23326, Jeddah, Saudi Arabia",4.5,7120
+29948,OYO 355 Haifaa Furnished Units,"Al Rawabi District, Kilo 10, 21589, Jeddah, Saudi Arabia",2.5,2
+29949,Adagio Jeddah City Center,Madinah Branch Road Al Andalus 23326 JEDDAH SAUDI ARABIA,4.7,1288
+29950,Jeddah Oasis Hotel,"Al Amir Fawwaz Al Junoobi District, 22431 Yeda, Arabia Saudí",4.0,1455
+29951,Seasons Park Hotel,"4716, 23544 Yeda, Arabia Saudí ",4.4,875
+29952,Mila Hotel,"Al Hamdania District, Omar Bin Abi Waqqas Street, 23761, Jeddah, Saudi Arabia",3.7,144
+29953,Swiss Blue 2,"Al Samer alwehee, 88802, Jeddah, Saudi Arabia",4.0,903
+29954,Elite Suites Al Hamra,"Al Jazirah, Al Ruwais District Elite Suites Al Hamra - Al Jazeera Street - Beside Mera Hotel , building number 179, 21442 Yeda, Arabia Saudí",4.2,345
+29955,Areen Palace Hotel - Almadina Road,"Al lbasateen Ismail IBn Kathir street, 21442 Jeddah, Saudi Arabia",3.6,1120
+29956,Ruve Jeddah Hotel,"Prince Mohamed Bin Abdul Aziz Road, Al Azizia District, 21411 Djeddah, Arabie saoudite ",4.0,1575
+29957,Mora Hotel,"Al Hamra, 11432 Yeda, Arabia Saudí",3.8,1721
+29958,Mirada purple,"6621 Al Lujayn, 22324 Yeda, Arabia Saudí",3.8,612
+29959,Park Inn by Radisson Jeddah Madinah Road,"Mohammad Al Hout, Al Muhammadiyah District, Jeddah, 8654, Saudi Arabia",4.6,3648
+29960,Andalus Habitat Hotel,"3279 Mohamed Bin Abdulazziz Saudi Arabia 11, Al Andalus, 23325, Jeddah, Saudi Arabia ",4.0,835
+29961,Shada Hotel Shatea,"7633 Hira Street, Ash Shati District, 3215, Jeddah (JED), 23513, Saudi Arabia",4.5,1538
+29962,OYO 524 Zahrat Alwaziriya Furnished Apartments,"6832, Near Al Jazeera Kitchen, Jeddah, 22347, Saudi Arabia",3.0,4
+29963,Jeddah Blue Hotel,"Alexandria street, Al Hamra District, Al Hamra, 21572, Jeddah, Saudi Arabia ",4.6,6837
+29964,Red Avenue,"رع بحر العرب ٢٩٩٨ بحر العرب, Al Hamra, 23212 Jeddah, Saudi Arabia",4.2,7445
+29965,OLA Saryet Al Hamra Hotel Apartments,"Al Hamra'a District, 21442 Jeddah, Arab Saudi",3.4,649
+29966,Saheel Hotel Jeddah,"Al Hamra District, Khalij Alqamar Street, Al Hamra, 23212, Jeddah, Saudi Arabia",4.5,22555
+29967,Aquila Hotel,"Muhyi Ad Din An Nadhir, 23212, Jeddah, Saudi Arabia",4.1,1208
+29968,La fontaine Opal,"Saqr Quraish, Al Salamah, 23436 Yeda, Arabia Saudí",4.0,348
+29969,Donatello Hotel,"Alharameen Road, Alrahmanyia Alharameen Road, Alrahmanyia, 23642, Jeddah, Saudi Arabia",4.3,2154
+29970,Ewaa Express Hotel - Al Rawda,"Ar Rawdah, Jeddah 23432, Al Rawda, 00194 Yeda, Arabia Saudí",4.3,682
+29971,Mirada Gold - Obhur,"Al Hasan Ibn Muslim P4VM+8R أبحر الجنوبية، جدة, South Obhr, 23733 Jeddah, Saudi Arabia",3.7,636
+29973,JOUDYAN King Road Jeddah,"King Abdul Aziz Road PO Box 11193, Jeddah 21453 Saudi Arabia",4.3,446
+29974,Taj alworood hotel	,"7612 Abdullah Sulaiman Street, Al – Woroud District, Jeddah 23222",4.0,1957
+29975,Hotel Holiday Plus Al Marwa,"337 Abu Qatada Al Ansari Street, 11558, Jeddah, Saudi Arabia",3.9,351
+29976,Holiday Plus - Al Nuzha	,"Fuad Shaker St, Al Nuzha, Jeddah 23532, Saudi Arabia, 23532, Jeddah , Makkah province , Saudi Arabia	",3.7,429
+29977,Julanar Alsharq Suites,"Al Marawa District , 23545 Jeddah, Saudi Arabia",3.7,692
+29978,Jeddah Downtown Hotel,"Zahrat Al Lutas, Al Hindaweya District, Jeddah, Saudi Arabia 7961, 22321 Yeda, Arabia Saudí –",4.5,22556
+29979,Glamour Inn,"Quraish Street, Al Salamah, 23524, Jeddah, Saudi Arabia",3.7,147
+29980,Al Rabitah Al Fondoqeiah Hotel Apartments,"Albawadi District , Sari Street, 23443 Yeda, Arabia Saudí ",3.7,100
+29981,Hyatt Inn Suites,"Muhammad Abd Rida Street, As Salamah District, Al Salamah, 11441 Yeda, Arabia Saudí –",4.3,1857
+29982,Dara Al Salam ,"Salama District 2, West of Madina Road, Al Salamah, 21511 Yeda, Arabia Saudí –",4.2,377
+29983,Dara Hamra,"Ma'ady District, Hamra'a Street, Al Hamra, 21511 Yeda, Arabia Saudí –",4.4,1303
+29984,Areen Al Naeem,"Muhammad Zaydan jeddah al naeem, 23526, Jeddah, Saudi Arabia",3.7,537
+29985,Hawadah Hotel,"Hussain Basalamah, Al Hamra, 23212 Jeddah, Saudi Arabia ",3.7,1197
+29986,Ozone Hotel,"Muhyi Ad Din An Nadhir, Al Hamra, 23212, Jeddah, Saudi Arabia",3.3,816
+29987,Swiss EYE Hotel,"Hussien Basalama St., Al Hamra, 22241, Yeda, Arabia Saudí",3.7,769
+29988,OYO 594 Taj Lamar Furnished Apartments,"Old Makkah Road, Al-Rawabi, Jeddah, Jeddah, Makkah province, Saudi Arabia",3.8,268
+29989,Ebreez Hotel,"Al Hamra District, Husain Basalama Street, Al Hamra, 23212 Jeddah, Saudi Arabia",3.5,902
+29990,Aster Hotel,"Bahr Al Arab Street, Al Hamra, Al Hamra, 23436 Jeddah, Saudi Arabia ",3.2,1894
+29991,OYO 575 Massaya Hotel Apartments,"Street Al Andalus main road, Al Hamra District، Al Mailk As Salih, Jeddah, Makkah, 21313, Saudi Arabia",3.3,17
+29992,Emerald Hotel,"Mushrifah District, 22232 Jeddah, Saudi Arabia",4.0,1100
+29993,Areen Hotel,"Al Mohammadiyyah District , Prince Sultan Road , 23717 Jeddah, Saudi Arabia",3.6,1120
+29994,OYO 582 Al Tamayoz Al Raqi Al Salamah,"6809 Ibn Nufay, As Salamah District, Jeddah, Al Salamah, 23436 Jeddah, Saudi Arabia",3.4,400
+29995,OYO 585 Al Tamayoz Al Raqi Al Safa,"NA, Prince Mutaib bin Abdulaziz Road, Al-safa, Jeddah, 21411 Jeddah, Saudi Arabia",3.3,154
+29996,Al Tamayoz Al Raqi Hira,"NA, Hira Street, Al Bawadi, Jeddah, 23531 Jeddah, Saudi Arabia",3.6,547
+29997,OYO 588 Shoab Jeddah Suites,"Hira Street, Al Marwa District, Jeddah, 21452, Saudi Arabia",3.2,29
+29998,OYO 589 Lavina House,"Al Basateen Dist. - Price Sultan St, 11450 Jeddah, Saudi Arabia",2.9,161
+29999,OYO 597 Al Tamayoz Al Raqi,"Prince Mutaib bin Abdulaziz Road, 23235 Jeddah, Saudi Arabia",4.1,50
+30000,Shangri-La Jeddah,"Burj Assila, Corniche Road, Ash Shati, Jeddah, 23611, Saudi Arabia",4.5,3074
+30001,Tobal Al Hamra Hotel Apartments,"Toubal Al Hamra district - Al rewes area - Rokon Al deen Street. , 21211 Yeda, Arabia Saudí ",3.5,399
+30002,Seasons Inn Jeddah,"Prince Sultan Road جدة طريق الامير سلطان الفرعى حى النعيم, 11421 Yeda, Arabia Saudí ",4.4,875
+30003,Dayouf Jeddah,"jeddah, Jeddah, 2880, Arabia Saudí",4.6,8653
+30004,Rawda Suites Hotel,"Bicycle Roundabout, Al Faisaliyah, Jeddah, 13412, Arabia Saudí",3.9,733
+30005,Etlalet Ebhar Furnished Units,"42 Prince Sultan Road, close to Jarir Mall, 23618, Jeddah, Saudi Arabia ",4.3,12
+30006,SHIRVAN Hotel City Yard Jeddah,"Abdul Maqsud Khojah, Al Rawda, 23435 Jeddah, Saudi Arabia",4.6,990
+30007,Mirnian Hotel,"Palestine Street, Mishrifah, Jeddah 23341, Saudi Arabia, Jeddah , Makkah province , Saudi Arabia",3.9,956
+30008,Ebreez Grand," 2678 Muhyi Ad Din An Nadhir, Al Hamra, 23212 Yeda, Arabia Saudí",3.5,902
+30009,Areen Airport Hotel,"4432 Sultan Ibn Salman 4432-4471 sultan ibn salman,jeddah 23534, 23534 Jeddah, Saudi Arabia",3.8,1295
+30010,Signature Hotel,"Sultan Ibn Salman building No.2589, 23532, Jeddah, Saudi Arabia ",4.1,657
+30011,Blue Diamond Hotel Jeddah,"Al Bahar Al Arabi, Al Hamra, 23212 Yeda, Arabia Saudí ",4.4,546
+30012,Qasr Al Balood Hotel Apartments 2,"Jeddah, Al Naeem Dst. , Jeddah, 21452, Saudi Arabia",3.8,116
+30013,Qamar Hotel Jeddah,"Hira Street, 23522 Yeda, Arabia Saudí ",4.0,635
+30014,OYO 344 Almibkhara Althahbia,"2890, Bar Al Arab Street, Al Hamra'a Dist, Jeddah, Al Hamra, 23212 Yeda, Arabia Saudí",3.4,242
+30015,OYO 605 Tafwij Hotel,"7061, Jamilah Bin Saad Street, Al Bawadi, Jeddah, 23443 Yeda, Arabia Saudí ",4.1,54
+30016,OYO 148 Diamond Beach Hotel,"2716 Hira, An Nahdah District, Jeddah, 23523, Makkah, Saudi Arabia",4.2,17
+30017,OYO 607 Jeddah Palace Hotel,"Abdullah Sulayman Street 8938, 21422 Jeddah, Saudi Arabia",3.5,360
+30018,Hoor Park,"Khalij Al Qamar 6833, Al Hamra, 23212 Yeda, Arabia Saudí",3.7,1327
+30019,Hujra Hotel Tahlia Jeddah,"Prince Mohammed Bin Abdulaziz Street 3350, 23441, Jeddah, Saudi Arabia",4.1,686
+30020, Four Points by Sheraton Jeddah Corniche ," Cornich Road, South Obhur District, South Obhr, 23731 Yeda, Arabia Saudí ",4.2,2910
+30021,Touq Balad,"Aldeman 6133, 22233, Jeddah, Saudi Arabia",4.1,589
+30022,Lavent Park Hotel Suites,"King Fahd Rd, 23533, Jeddah, Saudi Arabia",3.3,604
+30023,Al Fanar International Hotel Apt 2 Jedda,"3430 Muhammad Zaydan, An Naim District, Jeddah, Saudi Arabia",3.6,247
+30024,Al Rose Al Motamiza,"Hira St, 23523, Jeddah, Saudi Arabia",3.6,5
+30025,JORY RS HOTEL,"Prince Sultan Street, Al Salamah District, Jeddah, Saudi Arabia",4.6,442
+30026,The Golden Goose,"Al Hamdania Main Street, Al Hamdania District, 23631, Jeddah, Saudi Arabia",4.0,4
+30027,Dar Knan Furnished Units,"Prince Majid Rd, 22245, Jeddah, Saudi Arabia",3.0,263
+30028,Green Plateaus,"Old Makkah Rd, 22347, Jeddah, Saudi Arabia",4.0,2
+30029,Mnart Beet Al Arab Furnished Units,"3261 Risalat Al Hurriyah Street, Al Hamra, 23212, Jeddah, Saudi Arabia",3.8,42
+30030,Jeddah blue plus,"Muhyi Ad Din An Nadhir, 11564, Jeddah, Saudi Arabia",4.3,5160
+30031,AH Hotel,"Prince Mohammed Bin Abdulaziz Str. 4337, 23345, Jeddah, Saudi Arabia",4.3,895
+30032,Mirage Hotel,"Al Tawba Street, Al Sharafia District, 21511, Jeddah, Saudi Arabia",4.2,1391
+30033,EVA Hotel,"An Naeem St., Al Naeem Dist., 8216, Jeddah, Saudi Arabia",4.1,597
+30034,Manazily El kornesh,"Muhyi Ad Din An Nadhir, 23212, Jeddah, Saudi Arabia",4.5,749
+30035,OYO 395 Al Hafof Hotel,"3321, King Fahd Road, Ash Sharafiyah, 21577, Jeddah, Saudi Arabia",3.6,160
+30036,Zwarah Hotel Suites,"7765 Umm Al Qura, 23454, Jeddah, Saudi Arabia",3.8,702
+30037,Al Fouz Luxury Hotel Suites,"Al Salamah District, Sabil Al Ilm Street, 23436, Jeddah, Saudi Arabia",3.9,154
+30038,Iwan AlAndalusia Alajaweed,"Al Ajaweed District, ? 9618, 22442, Jeddah, Saudi Arabia",3.7,403
+30039,Iwan Alandalusia Suites - Hira,"hiraa, 3512, Jeddah, Saudi Arabia",3.7,403
+30040,Qasr Al Balood Hotel Apartments Jeddah,"Jeddah, Al Naeem Dst., Jeddah, Saudi Arabia",3.8,116
+30041,House Laveena Hotel Apartments,"North Abhor, Prince Naief Street, 11541, Jeddah, Saudi Arabia",2.9,161
+30042,Jana Palace Furnished Apartments,"Alwaziriah district, 11816, Jeddah, Saudi Arabia",4.0,221
+30043,Zahrat Al Naseem Furnished Apartments,"Jeddah Al Naseem, Abi Al Abbas Modern Street, 23233, Jeddah, Saudi Arabia",5.0,1
+30044,El Masarat Hotel Suites,"Palastine St., 21577, Jeddah, Saudi Arabia",3.4,7
+30045,Buhr hotel,"Old Makkah Rd, Kelo 5, Madaen Al- Fahad, 22331, Jeddah, Saudi Arabia",4.3,4199
+30046,Aknan Alsafa,"Abdullah Ash Sharbatli, Al Safa, 23454, Jeddah, Saudi Arabia",3.8,830
+30047,Alertiqaa Hotel,"Hira St., Almarwah, 23545, Jeddah, Saudi Arabia",4.3,389
+30048,Amarena ApartHotel,"Almarwa District, Abou Kotada Al Anssari street, 21442, Jeddah, Saudi Arabia",2.7,126
+30049,Lavent Park,"Bani Malik, 23235, Jeddah, Saudi Arabia",3.3,604
+30050,Acacia Hotel,"As Salamah District, Saqr Quraish Street, 23436, Jeddah, Saudi Arabia",3.4,214
+30051,Essnad Furnished Units Al Haramain,"Abdul Rahman Al Khozai st. Al Haramain, 23545, Jeddah, Saudi Arabia",3.2,284
+30052,Sun Park Hotel Suites,"Quraysh Street, 23437, Jeddah, Saudi Arabia",4.3,673
+30053,Alsamer Homes,"Alsamer District 1,Alhasab Altaymi St., 23461, Jeddah, Saudi Arabia",4.7,384
+30054,SDM GULF Apartments,"3688 Almanar St, Almanar District, 22463-8270, Jeddah, Saudi Arabia",4.1,8
+30055,Al-Hamdaniya Al-Raqi,"Al-Andalus, 23325, Jeddah, Saudi Arabia",0.0,0
+30056,Karam Jeddah Hotel,"Jeddah .Madina Road., East Al Baghdadiya, 16372, Jeddah, Saudi Arabia",4.2,1670
+30057,Safa Albawadi Jeddah,"Al Rabwah District, Al Makarunah St, 23534, Jeddah, Saudi Arabia",5.0,1
+30058,Toot house Jeddah,"JEDDAH, 26513, Jeddah, Saudi Arabia",4.2,1501
+30059,Shamaat Jeddah Hotel,"Prince Sultan St., Al Nahda District, 21477, Jeddah, Saudi Arabia",4.1,333
+30060,helm jeddah Hotel Apartments,"King Abdullah Road, An Nasim, Beside King Abdulaziz University, 21421, Jeddah, Saudi Arabia",4.7,116
+30061,Al Hammad Hotel Apartments 2,"Sultan Ibn Salman, An Nuzhah, 22234, Jeddah, Saudi Arabia",3.5,1184
+30062,OYO 396 Alam Al Sala Al Kobra Towers,"Alam, Old Makkah Rd, Al Farooq, 21577, Jeddah, Saudi Arabia",3.6,547
+30063,Silver City 2 Business Hotel Apartments,"Muadh At Tamimi, Al-Ruwais, 23214, Jeddah, Saudi Arabia",4.5,2
+30064,Al- Marjan Beach,"Prince Sultan Rd, 23618, Jeddah, Saudi Arabia",3.7,3225
+30065,Iwan AlAndalusia Alsafa2,"Abdulziz Bin Ibrahim, 23454, Jeddah, Saudi Arabia",3.7,403
+30066,Prime Al Corniche Hotel,"Prince Faisal Ibn Fahd, Al Shatiea, 21477 Jeddah, Saudi Arabia ",3.9,1286
+30067,Prime Almina,"King Fahd Road, 21477 Jeddah, Saudi Arabia",3.9,544
+30068,Swiss Blue Hotel Hera,"Al Bawadi District, Hira Street , 23531 Jeddah, Saudi Arabia ",4.3,541
+30069,Alrumuz Alsaadiqh served apartments,"23334, Jeddah, Saudi Arabia ",4.1,31
+30070,Swissotel Living Jeddah,"Building No 2652, Prince Saud Al Faisal Street, 7490 Al Khaldiya 23422, Jeddah, Saudi Arabia",4.7,1146
+30071,Rotana Residence,"Alhamra District, Almaadi Street, Al Hamra, 21454, Jeddah, Saudi Arabia",3.5,1137
+30072,Rawasi Hotel Suites,"8183 Abdul Maqsud Khuja St., Al Rawdah, Jeddah 23435, Saudi Arabia",4.3,1180
+30073,Maria Furnished Apartments,"Prince Sultan Rd. With Assalam St., 23525, Jeddah, Saudi Arabia",5.0,1
+30074,The Blue Rose Hotel - الورده الزرقاء للوحدات السكنيه,"Hira Street Salih Al Umari, 23544, Jeddah, Saudi Arabia",4.4,546
+30075,OYO 630 Raghad Al Shatee For Furnished Units,"Ahmad Al Attas Street, Al Zahra, 21442 Jeddah, Saudi Arabia",2.3,19
+30076,Ocean View Hotel - Jeddah,"2665 Muhyi Ad Din An Nazer, Jeddah, Makkah, 23212, Saudi Arabia",3.8,507
+30077,Diamond Tower Hotel,"5310 Abdul Rahman Al Khuzaee, Al Marwah District, 23545, Jeddah, Saudi Arabia",4.3,940
+30078,Al Ezzah Palace Hotel Suites,"Nawfal Ibn Muawiyah, Falastin St, Bani Malik, 23232, Jeddah, Saudi Arabia",3.6,160
+30079,Al Shoqdof hotel Jeddah,"Hira St With Al Seteen, Al Rabwa Area, Jeddah, Saudi Arabia",4.0,4
+30080,Hekayat Roaa,"Al Amir Fawwaz, Al Junoobi, 22442, Jeddah, Saudi Arabia",2.6,8
+30081,Raneem Furnished suites,"Al-Hamra'a, 23212, Jeddah, Saudi Arabia",3.4,35
+30082,OYO 649 Al Thuraya Palace Apartments,"3982, Sulayyman Al Hamawi Street, As Salamah, Jeddah, Al Salamah, 23436 Jeddah, Saudi Arabia",2.7,14
+30083,OYO 636 Ram Jeddah Serviced Apartment,"Quraish Street, Al Bawadi, Near Setten Road, Jeddah 23531, Saudi Arabia, Jeddah , Makkah province , Saudi Arabia",4.0,228
+30084,Rovotel Hotel,"Dhul Nourayn, Sharafiyah, Jeddah 23218, Kingdom of Saudi Arabia",4.6,442
+30085,Quiet hotel,"Jeddah Arab Sea Street, 23212 Ar Ruays, Saudi Arabia",3.8,177
+30086,Elite Jeddah Hotel,"Prince Faisal Bin Fahd Street, Hilton Walk In The Shati Neighborhood, 21442, Jeddah, Saudi Arabia",4.1,3889
+30087,The Address Jeddah,"Muhyi Ad Din An Nadhir, Al Hamra, 23212, Jeddah, Saudi Arabia",4.5,22555
+30088,PRAHA Home,"2929 Hilmi Kutbi, 23425, Jeddah, Saudi Arabia",3.5,86
+30089,Lahoya Hotel Suites,"Hira Street, 23513, Jeddah",4.4,354
+30090,CHARLI Hotel Jeddah,"Prince Sultan, Al Salamah, 23618 Jeddah, Saudi Arabia",4.5,524
+30091,Boudl AL Tahlia,"Prince Mohamed Bin Abdul Aziz Street, City Center, 21411, Jeddah, Saudi Arabia",4.2,2076
+30092,Habitat Hotel All Suites,"Al-Madinah Al-Munawarah Rd, As Salamah, Jeddah 23525, Saudi Arabia",4.0,3544
+30093,Quiet Dreams Quraysh Branch,"quraish st, Ebn Odays, 23443, Jeddah",3.9,448
+30094,Hotel Rooms,"Fouad Shaker Street, 7086, 23532, Jeddah, Arabia Saudita",3.4,887
+30095,Al Azhar Jeddah,"Madina road, JEDDAH",4.2,554
+30096,Crowne Plaza Jeddah Al Salam,"Prince Sultan Road, Al-Muhammadiyah District 12731, 7755 9 4, 21352, JEDDAH",4.9,9690
+30097,Ruve Jeddah Hotel,"Prince Mohamed Bin Abdul Aziz Road (Tahliya Road), 1111, Jeddah",4.0,1575
+30098,Sunset Jeddah,"Prince Saud Al Faisal, Al Rawdah, Jeddah 21433, Saudi Arabia",4.3,3096
+30099,Oyo 636 Ram Jeddah Serviced Apartments,"Quraish St., Jeddah",4.0,228
+30100,Golden New Al Safa,"Prince Mutaib bin Abdulaziz Rd, Al-Safa, Jeddah 23452, Saudi Arabia, Jeddah, Makkah province, Saudi Arabia",3.8,830
+30101,Golden New Quraish Jeddah,"Qouraish, 23443 Jeddah, Saudi Arabia ",4.2,566
+30102,Ewaa Express Hotel - Al Shati,"Prince Faisal Ibn Fahd الامير فيصل بن فهد، الشاطئ، جدة 23612, Al Shatiea, 23612 Yeda, Arabia Saudí",4.4,682
+30103,Q Suites Jeddah by EWA,"Prince Saud Al Faisal Street ., 21423, Jeddah, Saudi Arabia",3.9,733
+30104,Grand Park Al Zahraa Hotel,"Arid Ibn Mahshi, Al Zahra, 21521, Jeddah, Saudi Arabia",4.0,1632
+30105,The Venue Jeddah Corniche," 7295 Al Kurnaysh Road Ash Shati Dist Jeddah, 23511, P.O Box 51991, Saudi Arabia",4.1,3889
+30106,Narcissus Al Hamra Hotel Jeddah,"Al Kurnaysh Branch Road Al-Hamra, 11351 Yeda, Arabia Saudí",4.4,2203
+30107,Clarion Hotel Jeddah Airport,"9195 Prince Majid Road, Al Marwah Dist, Jeddah, 23542-2145, Arabia Saudi",4.5,2289
+30108,Comfort Hotel Jeddah King Road,"9195 King Road, Al Zahra Distr, Jeddah, 23522, Arabia Saudi",4.5,1426
+30109,Ocean View Al Zahra,"Arid Ibn Mahshi 1, 23425 Jeddah, Saudi Arabia",3.8,507
+30110,Paradise Inn Jeddah,"4365 Yaqub bin Ibrahim, JBRA6647, 6647, Jeddah 23214, Arabia Saudita",4.3,152
+30111,"InterContinental Jeddah, an IHG Hotel","P.O. Box 41855, Al Hamra Corniche, Jeddah, 21531, Saudi Arabia",4.4,8739
+30112,OYO 611 Jumeirah Furnished Units,"3130 Ouqbah Ibn Qaizi, 23522, Jeddah, Saudi Arabia",4.2,6
+30113,Jeddah Marriott Hotel Madinah Road,"6939 Al Madinah, Al-Monawarah Rd Albawadi Dist, 32531, Jeddah, Saudi Arabia",4.6,1927
+30114,Admire Apart' Hotel,"Abi Dharr Alghifari St, An Naseem, 23233, Jeddah, Saudi Arabia",3.2,85
+30115,WA Hotel,"Prince Mohammed Bin Abdulaziz Street, 23453, Jeddah, Saudi Arabia",4.3,2130
+30116,Osool Furnished Apartments Bani Malek,"Bani Malek Str. Al Naseem Area, Al Safina Station, 11911, Jeddah, Saudi Arabia",3.7,23
+30117,Raihana Plaza 2,"Al Salama, Saqr Quraish Street, 21531, Jeddah, Saudi Arabia",4.5,990
+30118,Grand Alsaha,"Madina Road,, Al-Sharafeyah, Jeddah 22234, Saudi Arabia",3.6,8288
+30119,Jasmine Garden Hotel,"Muhammad Zaidan, 23526, Jeddah, Saudi Arabia",4.5,881
+30120,APARTMENTS AL-RUMUZ AL-SADIQHA,"Al Roaby Bin Ladin, 7527, 22345, Jeddah, Saudi Arabia",3.5,368
+30121,Laten suites,"King Abdallah Rd, 23322, Jeddah, Saudi Arabia",3.9,767
+30122,Zara Suites Hotel,"Prince Sultan Rd, 23615, Jeddah, Saudi Arabia",4.3,91
+30123,Almsaeidih Palace - Hiraa,"Hira Street, Al Manahij, Jeddah, Saudi Arabia",4.9,114
+30124,Hotel Rasiyat,"Jeddah - Abha Highway, 89756, Saudi Arabia",3.8,64
+30125,Manazil Jeddah for furnished Apartment,"3215 Al Nasim District, King Abdullah Road, 23233, Jeddah, Saudi Arabia",3.7,864
+30126,Platin Raida,"Kunuz Al Ilm From Al Yamamah St., Jeddah, Saudi Arabia",4.2,1968
+30127,Mira Suites,"Quraysh Street, Al Salamah District, 11345, Jeddah, Saudi Arabia",3.0,891
+30128,Hayat Elhamra,"Muhyi Ad Din An Nadhir, 23212, Jeddah, Saudi Arabia",4.3,11711
+30129,Aman Furnished Apartment 2,"Amna Bint Wahb St., Al Naim, 23622, Jeddah, Saudi Arabia",3.6,35
+30130,Hotel Mercure Jeddah Al Hamra,"Al-Hamra'a, Jeddah 23212, Saudi Arabia",4.1,3693
+30131,Lamar Furnished Apartments,"Hira Street, Al Marwa District, 3002, Jeddah, Saudi Arabia",4.1,1860
+30132,Celine Aparthotel,"6748 King Fahd Rd, Al Faysaliyah District, 23441, Jeddah, Saudi Arabia",4.0,42
+30133,Lotaz Hotel,"Hira Street 3421, Al Shatiea, 23513, Jeddah, Saudi Arabia",4.3,562
+30134,Manazil Al-Jumira hotel apartments,"Bani Juays, 23534, Jeddah, Saudi Arabia",3.3,55
+30135,Medhal Hotel Apartments,"3098 Sari Road, Al Salamah, 23436, Jeddah, Saudi Arabia",4.7,116
+30136,The 40th Pearl Hotel Suites,"Al Arbaen Street, Al Rihab Dist., 2122, Jeddah, Saudi Arabia",3.2,15
+30137,Dyaa Al Shatea Hotel,"Ahmed Al Attas Street, Souq Al Shate Al Zahraa District, 24081, Jeddah, Saudi Arabia",4.3,349
+30138,Safari Suites,"Al Salama Dist. Al Madina Road, 15005, Jeddah, Saudi Arabia",3.8,177
+30139,Nice Land Apart-Hotel,"Al-Madinah Al-Munawarah, Rd, An Naim, 23526, Jeddah, Saudi Arabia",1.0,1
+30140,Gold Palace,"Abdul Rahman Ibn Ahmad As Sidayri 3647, Al Salamah, 23541, Jeddah, Saudi Arabia",3.9,494
+30141,Pearl Of Vision Hotel,"Bakhashab Street, Al Thaghar District, 22338, Jeddah, Saudi Arabia",4.2,328
+30142,The Golden Coast,"Jeddah Alrawabi .. Bin Laden Street, 22345, Saudi Arabia",4.2,264
+30143,Naseem Al Rawdah,"Janub Ibn Ladin Street, Al Rwabi District, 22345, Jeddah, Saudi Arabia",4.1,39
+30144,OYO 650 Dhiyafat Dallah Hotel,"7301 Al-Madinah Al-Munawarah Rd, 23828, Jeddah, Saudi Arabia",4.3,13
+30145,LANDMARK HOTEL - SARI,"Sari Street, Ali Salamah, 23436, Jeddah, Saudi Arabia",4.3,96
+30146,Abhaa Al- Qusur 2 Furnished Apartments,"King Fahd Rd, 23531, Jeddah, Saudi Arabia",4.1,31
+30147,Swiss Blue Hotel Alsteen,"King Fahad Road , Ibn Taleb ,Albawadi, 23443, Jeddah, Saudi Arabia",4.0,903
+30148,Marlo Hotel,"Umm Al Mouameneen Sauda, 23234, Jeddah, Saudi Arabia",4.5,708
+30149,Yan Apartments,"33 Shogaa Bin Wahb, Al Salamah District, 23436, Jeddah, Saudi Arabia",4.3,390
+30150,Ali Al Murtada,"Ali Al Murtada, 23234, Jeddah, Saudi Arabia",4.5,1426
+30151,Al Naseem Street,"Al Naseem St, 22230, Jeddah, Saudi Arabia",3.7,881
+30152,WOW Elite Home Suites,"2956 Manarat Al Masa, 23436, Jeddah, Saudi Arabia",4.2,751
+30153,Merya Hotel,"Ahmad Al Attas, 21446, Jeddah, Saudi Arabia",4.3,349
+30154,Mnazel Al Vorsan,"Mulla Niyazi, 23452, Jeddah, Saudi Arabia",0.0,0
+30155,Masia Hotel Apartments,"Hira Street, 13465, Jeddah, Saudi Arabia",5.0,1
+30156,Sama Tower for Furnished Units,"Mishrifah, 23335, Jeddah, Saudi Arabia",3.3,389
+30157,sama tower,"Prince Maged Street Jeddah, 23335, Saudi Arabia",3.3,389
+30158,Classical Suites,"Alzahra District, Albatarji Street, 21382, Jeddah, Saudi Arabia",4.3,343
+30159,Deyafah Layali Al Reef Furnished Units,"Abdulrahman Al Sudairy Street, Al Salamah District, 23436, Jeddah, Saudi Arabia",3.9,539
+30160,Manazil Jeddah 2,"Al Salamah District, Abd El Rahman Ibn Ahmad As Sidayri, 25595, Jeddah, Saudi Arabia",3.7,864
+30161,Rozaio Hotel Jeddah,"Hilmi Kutbi 2755, Al Zahraa District, 23425, Jeddah, Saudi Arabia",4.4,587
+30162,Ayoon Al-Mamlakah Hotel Suites,"Al Watan Al Arabi Street, Al Hamra's, 21448, Jeddah, Saudi Arabia",4.0,10
+30163,TU jardin,"Abu Qatada Al Ansari, 23545, Jeddah, Saudi Arabia",3.6,183
+30164,Mais Jeddah Suites 2,"6171 King Abdul Aziz Rd, 21442, Jeddah, Saudi Arabia",3.3,304
+30165,Dar Al Janoub Hotel Suites,"Madaen Al Fahad, Al Waziria District, 22343, Jeddah, Saudi Arabia",4.2,6
+30166,Luminous Diamond Suites,"Abdel Rahaman Al Khozaey Street 5281, Al Marwa District, 21442, Jeddah, Saudi Arabia",4.2,17
+30167,Etlalet Ebhar Furnished Units,"Jeddah Al Mohamdia, Jeddah Prince Sulatan Road Beside Garir, 11421, Saudi Arabia",4.3,12
+30168,El Ghobishi Hotel Suites,"Azizya Abistract, Tahlia St., 23322, Jeddah, Saudi Arabia",2.0,7
+30169,Lotaz Hotel Suites - Al Salamah,"Box 7695 2185 Al-Tamkroti, Al-Salama, 23437, Jeddah, Saudi Arabia",4.6,789
+30170,Temandra Hotel,"Ahmad Hamdan, 23625, Jeddah, Saudi Arabia",4.2,439
+30171,Gladiolus Hotel,"Ali Afandi Jamil, 1, 23525, Jeddah, Saudi Arabia",4.3,517
+30172,Shatee Al Hayat Hotel Suites,"4607 Hira Street, Al Marwah, 55555, Jeddah, Saudi Arabia",3.9,1602
+30173,Al- Reef Hotel Units,"Mokhatat Alhada Unit Number 1, 22444, Jeddah, Saudi Arabia",3.9,539
+30174,Al Hamra Palace Hotel- AlSharafia Branch,"Alsharafyah, 23216, Jeddah, Saudi Arabia",4.0,2
+30175,Iwan alandalusia hotel suites AlRehab,"Alrehab District, Kamel Azhar, 3142, Jeddah, Saudi Arabia",3.7,403
+30176,Atana Park,"9154 Alwahah Street, Saudi, 23354, Jeddah, Saudi Arabia",3.9,749
+30177,vital house for hotel apartment,"Almakarona Street, 23444, Jeddah, Saudi Arabia",4.5,425
+30178,Golden Sea Hotel,"Umayr Al Ansari, Abhur Al Junoobiyah, 2298, 23734, Jeddah, Saudi Arabia",3.9,393
+30179,Laylat Wed,"Al Salamah Dis. Abdulrahman Alsudairi St, 23436, Jeddah, Saudi Arabia",3.1,358
+30180,الراحة للوحدات السكنيه,"Tahlia Road, 23325, Jeddah, Saudi Arabia",4.4,177
+30181,Tafasel Aparthotel,"Abdul Majid Shubukshi, Ar Rawdah District, 23434, Jeddah, Saudi Arabia",4.1,42
+30182,Jawharet Al- Nazla Apartment Hotel,"Al- Nazla Street, Jeddah, 8337, Saudi Arabia",1.0,1
+30183,Mrakez Alarab Furnished Apartments 2,"Abdul Rahman Ibn Ghannam, Al Bawadi, 21512, Jeddah, Saudi Arabia",3.4,30
+30184,Best Trip Paris,"7745 Nabhan Ath Thammar, 23532, Jeddah, Saudi Arabia",4.2,686
+30185,Jamjoom Hotel,"Al-Sharafiah - Altawbah St, 6311, 23216, Jeddah, Saudi Arabia",2.9,500
+30186,Qanadil Al Raha Hotel Apartments,"Alrupy, 22345, Jeddah, Saudi Arabia",4.4,177
+30187,Sajaya Hotel Apartments,"Alhmdanyh, Airport Area, 23761, Jeddah, Saudi Arabia",3.7,412
+30188,Mera Park Hotel,"Hira St, 23536, Jeddah, Saudi Arabia",3.0,230
+30189,Rawa'a El Ahlam,"Jeddah, 23831 7210, Saudi Arabia",5.0,2
+30190,OYO 500 Al Falah Furnished Apartments,"1, Mada'en Al-Fahd, Jeddah, 22347, Saudi Arabia",3.8,4
+30191,Friesian Hotel,"Al Yamama Street 2891, 23524, Jeddah, Saudi Arabia",4.5,641
+30192,Lama Rose Jeddah,"Al Mahjar, 22413, Jeddah, Saudi Arabia",3.8,428
+30193,Najmet Al Esraa Al Zahabeya,"4082 Hira St, 23534, Jeddah, Saudi Arabia",3.4,745
+30194,Layali Al Tamayoz 1,"Saqr Quraish St., Al Salama District, 23436, Jeddah, Saudi Arabia",4.2,642
+30195,Safeer Jeddah Furnished Apartments,"Hira St, An Naim, 23526, Jeddah, Saudi Arabia",3.4,5
+30196,West Liberty,"Al Iskandriyyah Street, Al Hamrah, 21491, Jeddah, Saudi Arabia",3.6,69
+30197,WOW Residence,"Mawakeb Al Nasr, 23436, Jeddah, Saudi Arabia",3.9,236
+30198,Moon and Star,"King Abdulaziz Road, 23734, Jeddah, Saudi Arabia",3.3,53
+30199,Orgeta Hotel,"King Abdullah Rd, 22234, Jeddah, Saudi Arabia",4.7,1288
+30200,JANA,"Abdullah Al Huqbani, Ar Rayaan, 23642, Jeddah, Saudi Arabia",4.0,221
+30201,Milana Hotel,"Hira St, 23536, Jeddah, Saudi Arabia",4.0,257
+30202,OYO 365 Oyoon Jeddah Residential Units,"4555, Al Makarunah Road, Ar Rabwah Dist, 23446, Jeddah, Saudi Arabia",3.6,35
+30203,Kyona purpel,"Logine Street, 22324, Jeddah, Saudi Arabia",3.8,1137
+30204,Al Hammad Hotel Apartments 1,"Al-Bawadi, 43222, Jeddah, Saudi Arabia",3.5,1184
+30205,Flamingo Boutique,"Palestin Street,Alhamra District, 21442, Jeddah, Saudi Arabia",3.8,826
+30206,Dar Al Masarat For Furnished Units,"Amna Bint Wahb St, 23622, Jeddah, Saudi Arabia",3.2,75
+30207,Level Nine Hotel,"Al Nahdah, Abdulrahman Al Dakhil St., 23523, Jeddah, Saudi Arabia",4.6,371
+30208,Sarwat Park Hotel Jeddah,"Prince Faisal Ibn Fahd Jeba6454.23511, Jeddah, Saudi Arabia",4.1,316
+30209,Almsaeidih Palace - Quraish,"Quraish Street, Abdul Rahman Ibn Hind, 13009, Jeddah, Saudi Arabia",4.9,114
+30210,Ahla Alayam,"As Saib Al Kimdi, 6699, 23436, Jeddah, Saudi Arabia",4.2,569
+30211,Diva Hotel Suites,"Jeddah, 123456, Saudi Arabia",3.5,15
+30212,rayan hotel jeddah,"Abi Hatham Al Ansari, 23635, Jeddah, Saudi Arabia",3.5,615
+30213,Mirada Purple - Zahra,"Ahmed Al Attas Street, 23425, Jeddah, Saudi Arabia",3.8,612
+30214,Raghd Al Shatea Hotel,"7455 Ahmed Al Attas Street, 21442, Jeddah, Saudi Arabia",3.2,158
+30215,Shazha Plaza Hotel Units,"Al Hamadaniyah District, Al Hanakia Street Jeddah, 11111, Saudi Arabia",3.4,77
+30216,Dyafat Al Saati by Al Saati Group Jeddah,"Prince Majed Road, Al Azizya Dstrict, 20012, Jeddah, Saudi Arabia",3.6,303
+30217,Al Itqan Apart-hotel,"2978 Jafar Al Makki - Al Aziziyah, Jeddah, Saudi Arabia",3.9,687
+30218,Sadeem Hotel Suites 2,"Abu Tamimah Al Hujaimi Street With Sinan, Bin Arqah Street Al Zahra District, 22233, Jeddah, Saudi Arabia",4.0,57
+30219,Seafront Luxury Suites Jeddah Corniche,"District, Corniche Road Ash Shati, Jeddah 23511, Arabia Saudí",4.1,1002
+30220,Golden New Umu Alquraa Hotel,"Umm Al Qoura, Al-Safa, Jeddah 23455, Arabia Saudí",4.1,273
+30221,The Apartments,"Al Hamra Jeddah, Al Hamra, 41855 Jeddah, Saudi Arabia",4.5,924
+30222,Spectrums Sari Jeddah,"Sari, Al-Zahra'a, Jeddah 23424, Saudi Arabia",4.1,1020
+30223,Kenanh Jeddah Hotel,"Jeddah- East Bagdadiya Dst. Abdullah Balkher Street، Al-Baghdadiyah Al-Sharqiyah, Jeddah 22241 21955, Saudi Arabia",3.0,263
+30224,Rahhal Al Bahr Hotel Apartment,"Al Hamra distrect-Muhiddin Street, Al-Hamra'a, Jeddah 23212 21433, Saudi Arabia",4.0,1088
+30225,Roshan Al Azhar Hotel,"King Fahd Rd, Al Faisaliyah, Jeddah 23441, Saudi Arabia",4.1,571
+30226,"Radisson Blu Hotel, Jeddah Plaza","King Abdullah Road, Jeddah, 21332, Saudi Arabia",4.3,5159
+30227,Quiet Dreams - Al-Noor Branch,"Amro Bin Morah St. AlNoor Dist. AlMadina Road, Obhur Al Janoubiyah, Jeddah 23734, Saudi Arabia",3.9,448
+30228,Shada Suites Zahra,"Al - Salama-2 Distt.Madeena Road, Umar Abdul Jabar, As Salamah, As Salamah, Jeddah 23532, Saudi Arabia",4.3,146
+30229,Jeddah Hilton,"NORTH CORNICHE ROAD PO BOX 128428, JEDDAH, 21362, SAUDI ARABIA",4.5,22555
+30230,Auris Alfanar Villa Hotel,"Prince Faisal Bin Fahd, Ash Shati, Jeddah 23513, Saudi Arabia",3.4,739
+30231,Savoye Hotel,"Industrial Institute, 23442 Yeda, Arabia Saudita ",4.5,259
+30232,Obhur Home Hotel Apartments,King Abdul Aziz Road Beside Marine Science Sq  Jeddah  SA,4.4,186
+30233,OYO 161 Middle East Suite,"NA, 7872 Abdul Rahman Ibn Ahmad As Sidayri, As Salamah District, Jeddah 23437 3341, Saudi Arabia, Jeddah",3.0,1
+30234,Golden Hotel,"King Fahad Road Sitten Kandara District، Al-Suhaifah, Jeddah 22237 21433, Saudi Arabia",3.8,830
+30235,Refal Homes,"Hamad Al Jaser, 23434, Jeddah, Saudi Arabia",4.2,657
+30236,Rand Jeddah 1 Hotel Apartments,"Hira Street, Conjunction With 40 Street, 24421, Jeddah, Saudi Arabia",4.3,6
+30237,OYO 553 Arqa Al Qosor,"Behind Al Baik, Near Madinah Road Crossing, Hera Street, Jeddah",3.4,31
+30238,Laten Suites Al Naseem,"Al Naseem District ,Abi Dharr Al Ghifari Street Al Naseem District ,Abi Dharr Al Ghifari Street  Jeddah  Saudi Arabia",3.7,415
+30239,Laten Suites Al Nassim L3,"King Abdullah Road, 22230 Jeddah King Abdullah Road, 22230 Jeddah  Jeddah  Saudi Arabia",3.7,415
+30240,Royal Casablanca Hotel,"6273 Uthman Ibn Afan, Al-Sharafeyah, Jeddah 23216, Saudi Arabia",3.8,1506
+30241,Mercure Jeddah Al Hamra,"Al Hamra District, Alexandria Street",4.1,3693
+30242,Al Hamra Hotel Jeddah Managed by Accorhotels,"Palestine street, Falastin, Al-Hamra'a, Jeddah 23324, Saudi Arabia",4.1,2863
+30243,Lafontaine AlShrooq Suites,"Al Samer District, Al Ajwad Street، Jeddah 23462, Saudi Arabia",4.1,227
+30244,Mabet Al Tahlia Hotel Apartments,"Prince Mohammed Bin Abdulaziz Street بجوار مستشفي بقشان, 23441, Jeddah, Saudi Arabia",3.8,58
+30245,Havana Chalets,"Sharhabil Ibn Abdullah, 12345 Jeddah, Saudi Arabia",4.5,360
+30246,Diwan Al Hijaz Villas by Q,"Corniche Road, 23613, Jeddah, Saudi Arabia",3.7,114
+30247,Laten Suites Andalus Mall,Alfayhaa Alfayhaa 22244 Jeddah  Saudi Arabia,3.5,11
+30248,TU JARDIN AL MARWA,"Amer Bin Abi Rabia, Al Marwah, Jeddah 23545, Saudi Arabia Amer Bin Abi Rabia, Al Marwah, Jeddah 23545, Saudi  Jeddah  Saudi Arabia",3.9,477
+30249,HAYAT AL ROSE HOTEL APPARTMENT,Ali Afandi Jamil - 42141,4.3,501
+30250,Redwaves Hotel,"8922 Al Safaa An Nahdah, 23523, Jeddah, Saudi Arabia",4.7,706
+30251,Althanaa Alraqi Hotel Suites,"Falastin, Mishrifah, Jeddah 23331, Saudi Arabia",3.4,192
+30252,Al Janaderia 14,"Jeddah 23335, Saudi Arabia",4.6,8653
+30253,Hotel Blue star,"Al Shatiea, 23412 Jeddah, Arabia",4.2,228
+30254,Bhadur Resort Jeddah,"North Obhor, 99999* Obhor, Arabia Saudí",3.5,3906
+30255,OYO 242 Al Ahlam Resort Al Leith,"2402, Haras Al Hodood Road, Jeddah",3.8,4
+30256,Al Farhan Suites Jeddah,"Al Hamra District, Jeddah, Saudi Arabia",3.4,887
+30257,Lafontaine Hotel Jeddah,"Al Rawda Street, Al Rawdah District, 21422, Jeddah, Saudi Arabia",4.1,227
+30258,Farah Aparthotel,"Al Samer Alharamin, Al SamerJeddah 23461Makkah, Jeddah, 23461, Saudi Arabia",4.0,757
+30259,Jawhrat Al Koon Apartment,"Al Safa Dis - Prince Majed St., Abu Shakil, Al-Safa, Jeddah 23452, Saudi Arabia",4.2,26
+30260,Jeddah Grand Beach Hotel,"Hira Street, Al Mohammediah, Jeddah, 21433, Saudi Arabia",2.7,32
+30261,Alrawasi Hotel Suites,شارع عبدالمقصود خوجة، جدة Saudi Arabia,4.3,1181
+30262,Nuzl Shada Hotel,"As Salamah District, Othman Al Rady Street, Al Salamah, 21511 Yeda, Arabia Saudí",4.4,1731
+30263,Beautiful Nights Apartment 1,"حي السلامه - شارع عبدالرحمن السديري، As Salamah, Jeddah 23436 55555, Saudi Arabia",3.5,139
+30264,Holiday Inn Jeddah Gateway,"Madinah Road An Nuzha District, Al-Nuzhah, Jeddah 23532, Saudi Arabia",4.6,8653
+30265,"Park Hyatt Jeddah – Marina, Club and Spa","Al Hamra District, Southern Corniche, P.O. Box 5863, Jeddah, 21432, Saudi Arabia",4.3,11711
+30266,Landmark Suites Thahliya Jeddah,"Ibrahim Al Jaffali, Al Andalus, Jeddah 23326, Saudi Arabia",4.3,96
+30267,Golden New Hira Hotel," شارع حراء, 23545 Yeda, Arabia Saudí",4.8,4
+30268,Paradise Nice Hotel Jeddah," An Nassim District,King Abdullah Road, 23233 Yeda, Arabia Saudí ",4.5,927
+30269,Nars Plus Nozha Hotel," 2770 Fouad Shaker JFNA2770, 2770 Fouad Shaker, 7060, Nuzha District, Jeddah 23532,, Arabia Saudita",4.4,5
+30270,One to One Downtown Jeddah,"زهرة اللوتس, الهندوية, جدة ، المملكة العربية السعودية، Al-Hindaweyyah, Jeddah 22321, Saudi Arabia",3.1,812
+30271,Al Murooj Kareem Hotel,", 21433, Al Dhahab, Al-Balad, Jeddah 22236, Saudi Arabia",3.6,547
+30272,Mövenpick Hotel Jeddah,"Al-Madinah Al-Munawarah Road, adjacent to Mohammed Al-Taweel Street, 21451, Jeddah, P.O. Box 2109, Saudi Arabia",4.6,2943
+30273,Casablanca Hotel,"Saqr Quraish , As Salamah, As Salamah, Jeddah 23436, Saudi Arabia",4.1,5054
+30274,Boudl Palestine,"Palastine Street، مشرفة، جدة 23341, Saudi Arabia",3.6,1808
+30275,Renz Hotel,"Palestine St.، Falastin, Bani Malik, Jeddah 23232, Saudi Arabia",3.9,1932
+30277,Holiday Inn Jeddah - Al Salam,"King Khalid Road, Al-Thaghr, Jeddah 22331 21452, Saudi Arabia",4.0,4231
+30278,The Westin Jeddah,"Corniche Rd, Ash Shati, Jeddah 23511, Saudi Arabia",4.1,3889
+30279,Crown Town Hotel Suites,"Al Ham'mra District, Muhyi Ad Din An Nadhir, Al Hamra, Jeddah, Saudi Arabia",4.0,2551
+30280,City Inn Suites,"حي السلامة،, 3685 Nahdat Ash Sharq, حي السلامة، Jeddah 23437, Saudi Arabia",3.8,447
+30281,Orient Hotel Jeddah,"5207 King Abdullah Rd, حي الشرفية، Jeddah 22234 21362, Saudi Arabia",3.7,198
+30282,Mövenpick Resort Al Nawras Jeddah,"Prince Naif Rd، Corniche St، Jeddah 21424, Saudi Arabia",4.0,11473
+30283,Auris Alfanar,"Hira St, Ash Shati, Jeddah 23513, Saudi Arabia",3.4,739
+30284,Spectrums Al Salamah Jeddah,"Prince Sultan Rd, As Salamah, Jeddah 23524, Saudi Arabia",4.0,695
+30285,Centro Shaheen,"حي الشرفية,, 7481 Al-Madinah Al-Munawarah Rd, حي الشرفية، Jeddah 23218, Saudi Arabia",4.5,6701
+30286,Jeddah Gulf For Hotel Suites,"Madina Street Near Arab News , Behind Palm Bech, Jariyah Ibn Qudamah, Al Faisaliyah, Jeddah Saudi Arabia",3.7,782
+30287,Landmark Suites - Prince Sultan,"شارع الأمير سلطان، Al-Zahra'a, Jeddah 23425 21411, Saudi Arabia",4.3,96
+30288,Makarem Annakheel Village,"Prince Abdullah Al Fiasal Branch, Obhur Al-Shamaliyah, Jeddah 23817, Saudi Arabia",4.1,7733
+30289,Jawharat Layali,"حي السلامة, 2899 Manarat At Taqwa, حي السلامة، Jeddah 23437, Saudi Arabia",3.8,161
+30290,Rotana Hotel,"Jeddah, Al Hamra, 55530, Jeddah, Saudi Arabia",4.5,6701
+30291,Crom Airport Hotel,"King Abdulaziz International Airport, Jeddah 23631, Saudi Arabia",4.5,2289
+30292,Wakan Luxury Villas And Suites,"Rawdat As Sawayq, Al-Khalidiyah, Jeddah 23423, Saudi Arabia",3.7,423
+30293,"Assila, a Luxury Collection Hotel, Jeddah"," Prince Mohammed Bin Abdulaziz Street, Al Andalus, Jeddah  23326 Arabia Saudí",4.5,5676
+30294,Worood Al Safawa Villas & Suites,"Sari, As Salamah, Jeddah 23435, Saudi Arabia",3.4,514
+30295,Jeddah Grand Hotel,"Mina Road, Sanilat Ash Shufan, Al-Hindaweyyah, Jeddah 22321, Saudi Arabia",4.0,2888
+30296,Ambassador Suites Jeddah,"Qureish Street, Al Madinah Road, Al Bawadi, Jeddah 23443, Saudi Arabia",3.7,304
+30297,Joudyan Jeddah Red Sea Mall,"Corniche Road, Al Shatiea, 21411, Jeddah, Saudi Arabia",4.4,2632
+30298,Le Méridien Jeddah,"Medinah Road, Jeddah, 21463, Saudi Arabia",4.0,3520
+30299,Al Rawda Hotel - Al Salama,"Muhammad Abd Rida Street, As Salamah, Jeddah, 23525, 11193, Saudi Arabia",3.8,233
+30300,Al Shahbaa Hotel Jeddah,"شارع الفلاح بجوار إيفينت مول , مشروع الامير فواز الجنوبى، Al Amir Fawaz Al Janouby, Jeddah 22431, Saudi Arabia",3.9,640
+30301,Mira Waterfront Hotel Jeddah,"Corniche Street, 21412 Jeddah, Saudi Arabia",3.3,3724
+30302,Al-Nabares Palace Apart Hotel,"بجوار كوبري المربع, Al-Madinah Al-Munawarah Rd, Al Faisaliyah, Jeddah 23442, Saudi Arabia",3.5,2031
+30303,Platinum Suites,"Alsahafah District, Prince Majid Road, 23342 Yeda, Arabia Saudí",4.2,1968
+30304,Durat Al Matar Apartment,"Al-Nuzhah, Jeddah 23534, Saudi Arabia",3.4,1151
+30305,Albilad Jeddah,"Al-Corniche Highway, Ash Shati, Jeddah 23512 21452, Saudi Arabia",3.8,2469
+30306,Dara Quraish,"Quraysh Street, P.O.Box 40681, Al Salamah, Jeddah, JED, Saudi Arabia",4.1,997
+30307,Loren Suites,"Sari Street, Abdul Rauf Jamjum, As Salamah, Jeddah 23436, Saudi Arabia",3.8,800
+30308,Spectrums Tahlia Jeddah,"Prince Mohammed Bin Abdulaziz St, Al Andalus, Jeddah 23326 02146, Saudi Arabia",4.1,1020
+30309,Odst Jeddah Hotel,"Al-Baghdadiyah Al-Sharqiyah, Jeddah 22235, Saudi Arabia",3.9,392
+30310,Amjad Royal Suites Hotel,"Al-Madinah Al-Munawarah Road P.O Box 11718, Al Rawda, 21463, Yeda, Saudi Arabia",4.0,1099
+30311,Quiet Dreams - King Road Branch,"Al Murjan District, King Abdulaziz Road, Al Murjan, Jeddah 23715, Saudi Arabia",3.9,448
+30312,Tobal Jeddah Hotel Apartments,"Ahmad Al Attas, Al-Zahra'a, Jeddah 23425, Saudi Arabia",4.1,764
+30313,Dorrat Alnaeem,"Amnah Bint Wahb Street. Al Naeem District, Amna Bint Wahb St, An Naim, Jeddah 23621, Saudi Arabia",3.7,537
+30314,Orans Suites 4,"3398 Hilmi Kutbi, Al-Zahra'a, Jeddah 23521-6187, Saudi Arabia",3.9,63
+30315,Layali Altamayoz 6,"Al Majma, Al Bawadi, Jeddah 23531, Saudi Arabia",3.6,547
+30316,Mövenpick Hotel City Star Jeddah,"Madinah Road, 21512,  Jeddah, Saudi Arabia",4.6,9199
+30317,Orans Suites 2,"Al Salamah District opposite International Thamer School, An Naim, Jeddah 23526 99999, Saudi Arabia",3.8,184
+30318,AlHyatt Jeddah Continental Hotel,"Intersection of Sitteen St and Palastine St. Opposite of SAMBA Bank, 21471, Jeddah, Saudi Arabia",3.7,3
+30319,Red Sea Palace Hotel,"King Abdul-Aziz Str.Beside The National C. Bank M.، Al-Baghdadiyah Al-Gharbiyah, Jeddah 22233, Saudi Arabia",4.0,4030
+30320,Al Nabaress Al Macy Hotel,"Abdullah Sulayman St, Al-Fayha'a, Jeddah 22246, Saudi Arabia",4.7,1121
+30321,Al Muhaidb Al Hamra,"Andalus Street, Jeddah, Saudi Arabia",3.9,798
+30322,Issham Hotel,"Corniche Road, Al Shaty, Jeddah 23411, Saudi Arabia",3.6,917
+30323,Rosewood Jeddah,"Corniche Street, P.O. Box 11097, Al Shatie District, Jeddah, 21453, Saudi Arabia",4.5,10449
+30324,Rawaa Grand Hotel,"7276 King Fahd Branch Rd, Mishrifah, Jeddah 23332, Saudi Arabia",2.7,329
+30325,Sadeem Furnished Apartments,"Alsalamah District , Al Yamamah Street، As Salamah, Jeddah 23436 21372, Saudi Arabia",3.6,248
+432939,OYO 242 Al Ahlam Resort Al Leith,"ahlam, Al Firdous, Al Lieth, Jeddah, Saudi Arabia",3.8,4
+442739,Arqa Almasaken,"Tibah Street, Algharbya District, 12345, Jeddah, Saudi Arabia",3.7,45
+442740,Jeddah Park Hotel,"Essa Aladawy St. from Hail St., 23218, Jeddah, Saudi Arabia",3.9,373
+442741,Al Azhar Hotel Jeddah Hotel,"Madina Road, Al-Baghdadiyah Al-Gharbiyah, Jeddah 22235 Al Baghdadya District, Saudi Arabia",4.2,554
+442742,Madina Palace Hotel,"Alandalus Road, Albagdadia District, 21493, Jeddah, Saudi Arabia",3.6,2057
+442743,Al Andalus Tolen hotel,"Abqiq, Al-Baghdadiyah Al-Gharbiyah, Jeddah 22231, Saudi Arabia",3.9,1749
+948577,Al Akhawain Furnished Units,"Prince Mutaib Bin Abdulaziz Road, Jeddah, Saudi Arabia",3.8,159
+949060,Arac Almarwa Hotel Apartments,"Abo Qtada, Jeddah 23545Makkah, Jeddah, 23545, Saudi Arabia",3.9,281
+949061,Farha International for Furnished units,Al-Hamdanyah  13556 Jeddah  SA,4.3,32
+949062,Iwan Alandalusia Al Safa,"7880 Ring Road, Al Safa District, As Safa District, 5108, 23454",3.7,403
+1408121,AL MAHMAL HOTEL,"Falastin, Bani Malik, Jeddah 23232, Saudi Arabia",4.2,21473
+1408621,Celine Al Motamaiza Furnished Apartment ,"Khalil Bik Al Ajjan, Cornish, Jeddah, Arabia Saudí, 23522 ",4.0,42
