@@ -13,6 +13,8 @@ from datetime import datetime
 import pandas as pd
 import csv
 from urllib.parse import quote
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # Define a structure to ensure hotel ratings are valid
 class HotelRating(BaseModel):
@@ -24,11 +26,12 @@ class HotelRating(BaseModel):
 
 # Create a Google Maps search link for the hotel
 def form_search_url(hotel_name: str, address: str) -> str:
-    # Check if "dubai" is already present (case-insensitive)
-    if "hotel" and "Hotel" not in hotel_name.lower():
+    # Check if "jeddah" is already present (case-insensitive)
+    keywords = ["hotel", "resort", "inn", "lodge", "suites", "guest house", "residence", "hostel", "palace", "apartments"]
+    if not any(keyword in hotel_name.lower() for keyword in keywords):
         hotel_name += " hotel"
-    if "dubai" and "Dubai" not in hotel_name.lower():
-        hotel_name += " Dubai"
+    if not any(keyword in hotel_name.lower() for keyword in ["pakistan"]):
+        hotel_name += " pakistan"
     encoded_query = quote(hotel_name)
     return f"https://www.google.com/maps/search/{encoded_query}"
 
@@ -37,23 +40,26 @@ def scrape_hotel_rating(hotel_id: str, hotel_name: str, address: str) -> dict:
     start_time = time.time()
     print(f"Starting scrape for {hotel_name} at {datetime.now().strftime('%H:%M:%S')}")
     url = form_search_url(hotel_name, address)
+    
+    # Create a new driver instance for each hotel
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-webgl")
-    driver = webdriver.Chrome(options=options)
+    driver = None
+    
     try:
+        driver = webdriver.Chrome(options=options)
         driver.get(url)
         # Wait for results to load
         try:
-            from selenium.webdriver.support.ui import WebDriverWait
-            from selenium.webdriver.support import expected_conditions as EC
             WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'div[role="article"]'))
             )
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"Element not found for {hotel_name}: {e}")
+
         rating = None
         review_count = None
         # Try clicking up to 3 results if available
@@ -140,14 +146,21 @@ def scrape_hotel_rating(hotel_id: str, hotel_name: str, address: str) -> dict:
         )
         print(f"Finished scrape for {hotel_name}: {result.rating}/5, {result.review_count} reviews")
         return result.dict(), time.time() - start_time
+
     except Exception as e:
         print(f"Error scraping {hotel_name}: {e}")
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        with open(f"debug_{hotel_name}_{timestamp}.html", "w", encoding="utf-8") as f:
-            f.write(driver.page_source)
+        if driver:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            with open(f"debug_{hotel_name}_{timestamp}.html", "w", encoding="utf-8") as f:
+                f.write(driver.page_source)
         return {"id": str(hotel_id), "name": hotel_name, "address": address, "rating": 0.0, "review_count": 0}
+    
     finally:
-        driver.quit()
+        if driver:
+            try:
+                driver.quit()
+            except Exception:
+                pass
 
 # Save results to a text file
 def save_results_to_file(results: list, time_taken: float, filename: str = "hotel_ratings.txt"):
@@ -193,17 +206,20 @@ def update_csv_with_ratings(original_df, merged_df):
     return updated_df
 
 def main():
-    csv_path = "v2_common_hotels_202507111731.csv"  # Update to your actual input CSV
-    output_path = "your_output.csv"  # Output file for scraped results
+    csv_path = "Pakistan Hotels List.csv"
+    output_path = "pakistan_hotels_updated.csv"
+    
     try:
         df = pd.read_csv(csv_path)
         scraped_ids = set()
         if os.path.exists(output_path):
             scraped_df = pd.read_csv(output_path)
             scraped_ids = set(scraped_df['id'].astype(str))
+        
         required_cols = {'id', 'name', 'address'}
         if not required_cols.issubset(df.columns):
             raise ValueError(f"CSV must contain columns: {required_cols}")
+        
         # Only hotels not already scraped
         hotel_list = df[~df['id'].astype(str).isin(scraped_ids)][['id', 'name', 'address']].dropna().values.tolist()
         print(f"Loaded {len(hotel_list)} hotels to scrape")
@@ -215,42 +231,49 @@ def main():
     results = []
     durations = {}
     t0 = time.time()
-    results_df = pd.DataFrame(columns=['id', 'rating', 'review_count'])
+    
+    # Each thread gets its own WebDriver instance
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
-        futures = {executor.submit(scrape_hotel_rating, hotel_id, hotel_name, address): hotel_id for hotel_id, hotel_name, address in hotel_list}
-        for future in concurrent.futures.as_completed(futures, timeout=20000):
-            hotel_id = futures[future]
+        futures = {executor.submit(scrape_hotel_rating, hotel_id, hotel_name, address): (hotel_id, hotel_name) 
+                  for hotel_id, hotel_name, address in hotel_list}
+        
+        for future in concurrent.futures.as_completed(futures, timeout=10000):
+            hotel_id, hotel_name = futures[future]
             try:
                 result, duration = future.result()
-                results.append(result)
-                durations[hotel_id] = duration
-                print(f"Thread completed for {hotel_id}")
-                # Save rating/review to CSV after each thread
-                with open("your_output.csv", mode='a', newline='', encoding='utf-8') as f:
-                 writer = csv.DictWriter(f, fieldnames=['id', 'name', 'address', 'rating', 'review_count'])
-                 if f.tell() == 0:  # Write header only if file is empty
-                  writer.writeheader()
-                 writer.writerow(result)
+                if result['name'] == hotel_name:  # Verify result matches the hotel
+                    results.append(result)
+                    durations[hotel_id] = duration
+                    print(f"Thread completed for {hotel_name}")
+                    print(f"Duration for {hotel_id}: {duration:.2f} seconds")
+                    
+                    # Save rating/review to CSV after each thread
+                    with open(output_path, mode='a', newline='', encoding='utf-8') as f:
+                        writer = csv.DictWriter(f, fieldnames=['id', 'name', 'address', 'rating', 'review_count'])
+                        if f.tell() == 0:
+                            writer.writeheader()
+                        writer.writerow(result)
+                else:
+                    print(f"Warning: Result mismatch for {hotel_name}")
+                    
             except concurrent.futures.TimeoutError:
-                print(f"Timeout scraping {hotel_id}")
+                print(f"Timeout scraping {hotel_name}")
                 durations[hotel_id] = None
             except Exception as e:
-                print(f"Error scraping {hotel_id}: {e}")
+                print(f"Error scraping {hotel_name}: {e}")
                 durations[hotel_id] = None
+
     t1 = time.time()
 
-    # Merge results with original DataFrame by ID
-    merged_df = df.merge(results_df[['id', 'rating', 'review_count']], on='id', how='left')
-    merged_df.to_csv("v2_common_hotels_202507111731.csv", index=False)
-    final_df = update_csv_with_ratings(df, merged_df)
-    final_df = final_df.sort_values(by='id', ascending=True)
-    final_df.to_csv("your_output.csv", index=False)
-    results_df = pd.DataFrame(results)
-    
+    if results:
+        # results_df = pd.DataFrame(results)
+        # results_df = results_df.sort_values(by='id', ascending=True)
+        # results_df.to_csv(output_path, index=False)
 
-    print("\n=== Final Results ===")
-    for result in sorted(results, key=lambda x: x['name']):
-        print(f"{result['name']}: {result['rating']}/5, {result['review_count']} reviews")
+        print("\n=== Final Results ===")
+        for result in sorted(results, key=lambda x: x['name']):
+            print(f"{result['name']}: {result['rating']}/5, {result['review_count']} reviews")
+    
     print(f"Total time taken: {t1 - t0:.2f} seconds")
     print("\n=== Scrape Durations (Per Hotel) ===")
     for hotel_id in sorted(durations):
