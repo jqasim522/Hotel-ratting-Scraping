@@ -72,19 +72,58 @@ def create_driver():
     
     return driver
 
-# Create a Google Maps search link for the hotel
+def extract_city_from_address(address: str) -> str:
+    """Extract city from address - city is at third-last position"""
+    if not address or pd.isna(address):
+        return ""
+    
+    # Clean the address
+    address = str(address).strip()
+    
+    # Split by comma and clean each part
+    parts = [part.strip() for part in address.split(',') if part.strip()]
+    
+    # Check if we have enough parts to get the third-last one
+    if len(parts) >= 3:
+        # Get the third-last part (index -3)
+        city = parts[-3].strip()
+        
+        # Clean up the city name - remove any extra spaces or formatting
+        city = ' '.join(city.split())
+        
+        return city
+    
+    # If not enough parts, return empty string
+    return ""
+
 def form_search_url(hotel_name: str, address: str) -> str:
-    # More efficient keyword checking
+    """Create a Google Maps search link for the hotel with city included"""
+    # Extract city from address
+    city = extract_city_from_address(address)
+    
+    # Build search query
+    search_query = hotel_name.strip()
+    
+    # Add hotel keyword if not present
     hotel_name_lower = hotel_name.lower()
     keywords = ["hotel", "resort", "inn", "lodge", "suites", "guest house", "residence", "hostel", "palace", "apartments"]
     
     if not any(keyword in hotel_name_lower for keyword in keywords):
-        hotel_name += " hotel"
-    if "pakistan" not in hotel_name_lower:
-        hotel_name += " Pakistan"
+        search_query += " hotel"
     
-    encoded_query = quote(hotel_name)
+    # Add city if extracted
+    if city:
+        search_query += f" {city}"
+    
+    # Add UK if not already present
+    if "uk" not in search_query.lower():
+        search_query += " UK"
+    
+    # Encode and create URL
+    encoded_query = quote(search_query)
+    print(f"Search URL for {hotel_name}:", encoded_query)
     return f"https://www.google.com/maps/search/{encoded_query}"
+
 
 # Optimized rating extraction function
 def extract_rating_info(driver, hotel_name: str) -> tuple:
@@ -304,7 +343,7 @@ def process_hotels_concurrently(hotel_list, max_workers=3):
     
     return results, durations
 
-def save_single_result(result, output_path="merged_hotels_updated.csv"):
+def save_single_result(result, output_path="updated\\UK_hotels_updated.csv"):
     """Save a single result to CSV file"""
     try:
         file_exists = os.path.exists(output_path)
@@ -338,8 +377,8 @@ def save_results_to_file(results: list, time_taken: float, filename: str = "hote
         f.write(output)
 
 def main():
-    csv_path = "Pakistan Hotels.csv"
-    output_path = "merged_hotels_updated.csv"
+    csv_path = "List\\UK Hotels.csv"
+    output_path = "updated\\UK_hotels_updated.csv"
 
     try:
         df = pd.read_csv(csv_path)
